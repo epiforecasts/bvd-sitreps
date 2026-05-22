@@ -4,6 +4,7 @@ groundhog::groundhog.library(c("rvest", "httr2"), date = groundhog_date)
 
 url <- "https://insp.cd/ebola-17eme-epidemie/"
 out_dir <- "data/pdf"
+dir.create(out_dir, recursive = TRUE, showWarnings = FALSE)
 
 page <- request(url) |>
     req_user_agent("Mozilla/5.0") |>
