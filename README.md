@@ -10,11 +10,11 @@ The intention is to provide an English translated, machine-readable, time-stampe
 
 Please note:
 
-- I am not affiliated with INSP in any way 
+- We am not affiliated with INSP in any way 
 - All translation and conversion from PDF including English translation is via Google Gemini AI 
-  - This is likely to contain errors, mistranslations and could lead to misinterpretations. Each English version is linked to a source PDF report. I recommend using this to check the original source before relying on the automated translation.
+  - This is likely to contain errors, mistranslations and could lead to misinterpretations. Each English version is linked to a source PDF report. We recommend using this to check the original source before relying on the automated translation.
   - Please flag if you spot errors or mistranslations
-- I welcome feedback and collaboration - please contribute directly or get in touch
+- We welcome feedback and collaboration - please contribute directly or get in touch
 
 Many thanks to the authors and those involved in providing public access to the INSP sitreps.
 

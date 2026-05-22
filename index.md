@@ -49,12 +49,12 @@ The intention is to provide an English translated, machine-readable, time-stampe
 
 Important notes:
 
-- I am not affiliated with INSP in any way 
+- This is an aggregation of public data: we are not affiliated with INSP in any way 
 - All translation and conversion from PDF including English translation is via Google Gemini AI 
   - This is likely to contain errors, mistranslations and could lead to misinterpretations. I recommend checking the original source before relying on the automated translation.
   - Please flag if you spot errors or mistranslations
 - Sitrep PDFs contain contact details for INSP and relevant data owners. Please refer to these for data-specific questions. 
 
-I welcome feedback, suggestions, and collaboration - please [contribute directly](https://github.com/kathsherratt/bvd-sitreps/issues) or [get in touch](mailto:katharine.sherratt@lshtm.ac.uk).
+We welcome feedback, suggestions, and collaboration - please [contribute directly](https://github.com/kathsherratt/bvd-sitreps/issues) or [get in touch](mailto:katharine.sherratt@lshtm.ac.uk).
 
 
