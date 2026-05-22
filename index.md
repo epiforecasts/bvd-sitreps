@@ -3,29 +3,58 @@ layout: home
 ---
 # Daily INSP BVD situation reports
 
-This codebase translates Ebola-BVD outbreak situation reports provided by the Centre d’opérations d’urgence de santé publique (COUSP) / L'Institut National de Santé Publique (INSP).
+This website holds English translated outbreak situation reports for the 2026 Ebola-BVD outbreak.
+These are provided by the Centre d’opérations d’urgence de santé publique (COUSP) / L'Institut National de Santé Publique (INSP)
+
+- Available at: [INSP Sitreps](https://insp.cd/ebola-17eme-epidemie/)
+
+This work is an aggregation of public data and I have no involvement in the source data. 
+Many thanks to the authors and those providing public access to the INSP sitreps.
+
+---
+
+## Quick start
+
+### Available sitreps
+
+{% assign reports = site.pages | where_exp: "p", "p.path contains 'docs/' and p.name != 'index.md'" | sort: "date" | reverse %}
+{% for report in reports %}
+| {{ report.date }} | [{{ report.title }}]({{ report.url | relative_url }}) |
+
+{% endfor %}
+
+### Data archive
+
+Data tables are extracted to csv format at:
+
+- [Data tables](https://github.com/kathsherratt/bvd-sitreps/tree/main/data/csv)
+
+These have been extracted automatically and are likely to contain improper formatting.
+Please refer to the source PDF where unclear.
+
+The downloaded source PDFs are archived at:
+
+- [PDF archive](https://github.com/kathsherratt/bvd-sitreps/tree/main/data/pdf)
+
+---
+
+## User guide
 
 The intention is to provide an English translated, machine-readable, time-stamped archive of sitrep information and data.
 
 - Sitrep PDFs are downloaded from the publicly available [INSP website](https://insp.cd/ebola-17eme-epidemie/)
-- PDFs are converted, translated to English **via Google Gemini Vision**, and archived
-- Data tables are parsed into structured CSV files
+- PDFs are converted, translated to English **via Google Gemini Vision**, and [archived](https://github.com/kathsherratt/bvd-sitreps/tree/main/data/pdf)
+- Data tables are parsed programatically into structured [csv files](https://github.com/kathsherratt/bvd-sitreps/tree/main/data/csv)
+- All code is available, and contributions welcome: [codebase](https://github.com/kathsherratt/bvd-sitreps)
 
-Please note:
+Important notes:
 
 - I am not affiliated with INSP in any way 
 - All translation and conversion from PDF including English translation is via Google Gemini AI 
-  - This is likely to contain errors, mistranslations and could lead to misinterpretations. Each English version is linked to a source PDF report. I recommend using this to check the original source before relying on the automated translation.
+  - This is likely to contain errors, mistranslations and could lead to misinterpretations. I recommend checking the original source before relying on the automated translation.
   - Please flag if you spot errors or mistranslations
-- I welcome feedback and collaboration - please contribute directly or get in touch
+- Sitrep PDFs contain contact details for INSP and relevant data owners. Please refer to these for data-specific questions. 
 
-Many thanks to the authors and those involved in providing public access to the INSP sitreps.
+I welcome feedback, suggestions, and collaboration - please [contribute directly](https://github.com/kathsherratt/bvd-sitreps/issues) or [get in touch](mailto:katharine.sherratt@lshtm.ac.uk).
 
----
 
-{% assign reports = site.pages | where_exp: "p", "p.path contains 'docs/' and p.name != 'index.md'" | sort: "date" | reverse %}
-{% for report in reports %}
-- [{{ report.title }}]({{ report.url | relative_url }}) 
-- {{ report.sitrep }}
-- {{ report.date }}
-{% endfor %}
