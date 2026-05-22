@@ -1,20 +1,22 @@
 # bvd-sitreps
 
-Extracts Ebola (BVD) outbreak sitreps from DRC into machine-readable format. PDFs → markdown (via Google Gemini Vision) → CSV tables.
+Extracts Ebola (BVD) outbreak sitreps from INRC into machine-readable format. PDFs → markdown (via Google Gemini Vision) → CSV tables.
 
 ## Setup
 
 Set `GOOGLE_AI_KEY` environment variable with Google Cloud API key.
 
-Packages are managed with `groundhog` (date-pinned to 2026-05-22). Each script auto-installs `groundhog` on first run. No renv, no manual installs needed.
+Packages managed with `groundhog`. Date pinned in `R/main.R` via `groundhog_date`. No renv, no manual installs needed.
 
 ## Workflow
+
+Run `Rscript R/main.R` from repo root. Runs in order:
 
 1. `R/scrape-pdf.R` — scrapes INSP website, downloads new PDFs to `data/pdf/`
 2. `R/extract-docs.R` — converts PDFs in `data/pdf/` to translated markdown in `docs/`
 3. `R/extract-tables.R` — extracts markdown tables to CSVs in `data/csv/`
 
-Run scripts in order. Each sitrep PDF produces one markdown file and N CSVs.
+Each sitrep PDF produces one markdown file and N CSVs. Existing files skipped.
 
 ## Structure
 
@@ -25,6 +27,5 @@ Run scripts in order. Each sitrep PDF produces one markdown file and N CSVs.
 
 ## Notes
 
-- PDFs are numbered 01–05 (more added as outbreak progresses)
 - Gemini prompt translates French → English, preserves proper nouns, converts tables to pipe format
 - Jekyll site auto-lists reports from `docs/` via `docs/index.md`

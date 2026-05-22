@@ -23,31 +23,13 @@ jobs:
       - uses: actions/cache@v4
         with:
           path: /home/runner/R_groundhog
-          key: r-groundhog-${{ runner.os }}-2026-05-22
+          key: r-groundhog-${{ runner.os }}-2026-05-20
           restore-keys: r-groundhog-${{ runner.os }}-
 
-      - name: Install groundhog
-        shell: Rscript {0}
-        run: |
-          if (!requireNamespace("groundhog", quietly = TRUE)) {
-            install.packages("groundhog")
-          }
-
-      - name: Set groundhog folder
-        shell: Rscript {0}
-        run: |
-          groundhog::set.groundhog.folder("/home/runner/R_groundhog")
-
-      - name: Scrape new PDFs
-        run: Rscript R/scrape-pdf.R
-
-      - name: Extract markdown
+      - name: Run pipeline
         env:
           GOOGLE_AI_KEY: ${{ secrets.GOOGLE_AI_KEY }}
-        run: Rscript R/extract-docs.R
-
-      - name: Extract CSVs
-        run: Rscript R/extract-tables.R
+        run: Rscript R/main.R
 
       - name: Commit and push if changed
         run: |
