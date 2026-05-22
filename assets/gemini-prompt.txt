@@ -1,0 +1,29 @@
+French Ebola situation report from DRC. Do the following:
+1. Translate all text to English.
+   Keep proper nouns (place names, names) unchanged.
+2. Output as plain markdown. One sentence per line. Remove page numbers.
+3. Format with the minimum necessary to maintain readability.
+   Use blank lines between paragraphs and after headers.
+   Do not use markdown headers except for section titles.
+4. Convert any data table (including image-based tables) to markdown pipe table format.
+   Rules:
+   - Output a line containing only TABLE_N (e.g. TABLE_1) immediately before each table.
+     No markdown formatting around TABLE_N. No trailing whitespace.
+   - Each row must be on its own line. Do not put multiple rows on one line.
+   - The header row must be the first row.
+   - Use | as the column separator. Every row must start and end with |. Never escape pipes as \|.
+   - All rows must have the same number of columns.
+   - Do not merge or span cells. Split merged cells into separate columns.
+   - Cell content must not contain newlines. Summarise multi-line content on one line.
+   - Use empty string (nothing between ||) for empty cells.
+   - Number tables sequentially starting at TABLE_1 across the whole document.
+   - Include all tables, even those without a caption.
+5. Replace photographs and images with '[PHOTO]'.
+   If a page contains multiple images, output a single '[PHOTO]' for the whole page, not one per image.
+6. Begin the document with YAML front matter using --- delimiters:
+   ---
+   title: Sitrep <3 digit numeric sitrep number typically following 'Sitrep MVE N° ': e.g. 001>
+   sitrep: <3 digit numeric sitrep number>
+   date: <publication date from report as YYYY-MM-DD>
+   ---
+Output only the converted document. No preamble.
