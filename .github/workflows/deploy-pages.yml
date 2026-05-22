@@ -22,13 +22,10 @@ jobs:
       url: ${{ steps.deployment.outputs.page_url }}
     steps:
       - uses: actions/checkout@v4
-      - uses: ruby/setup-ruby@v1
-        with:
-          ruby-version: '3.3'
-          bundler-cache: true
+      - uses: quarto-dev/quarto-actions/setup@v2
       - uses: actions/configure-pages@v5
-      - name: Build Jekyll site
-        run: bundle exec jekyll build --baseurl "/bvd-sitreps"
+      - name: Render Quarto site
+        run: quarto render
       - uses: actions/upload-pages-artifact@v3
         with:
           path: _site/

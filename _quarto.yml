@@ -1,0 +1,13 @@
+project:
+  type: website
+  output-dir: _site
+
+website:
+  title: "Ebola BVD 2026: Outbreak Sitreps"
+  description: "Automated translation of Ebola-BVD 2026 outbreak situation reports"
+  site-url: "https://kathsherratt.github.io/bvd-sitreps"
+
+format:
+  html:
+    theme: cosmo
+    toc: false
