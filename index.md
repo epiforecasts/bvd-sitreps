@@ -25,5 +25,7 @@ Many thanks to the authors and those involved in providing public access to the 
 
 {% assign reports = site.pages | where_exp: "p", "p.path contains 'docs/' and p.name != 'index.md'" | sort: "date" | reverse %}
 {% for report in reports %}
-- [{{ report.title }}]({{ report.url | relative_url }}) — {{ report.date }}
+- [{{ report.title }}]({{ report.url | relative_url }}) 
+- {{ report.sitrep }}
+- {{ report.date }}
 {% endfor %}
