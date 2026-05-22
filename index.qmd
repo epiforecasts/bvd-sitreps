@@ -10,17 +10,16 @@ listing:
 ---
 
 This website holds English translated outbreak situation reports for the 2026 Ebola-BVD outbreak.
-These are provided by the Centre d'opérations d'urgence de santé publique (COUSP) / L'Institut National de Santé Publique (INSP)
+These are provided by the Centre d'opérations d'urgence de santé publique (COUSP) / L'Institut National de Santé Publique (INSP).
 
-::: {.callout-note}
-### Source
-
-[INSP Sitreps](https://insp.cd/ebola-17eme-epidemie/)
-:::
+- Source: [INSP Sitreps](https://insp.cd/ebola-17eme-epidemie/)
 
 This work is an aggregation of public data and we have no involvement in the source data.
 Many thanks to the authors and those providing public access to the INSP sitreps.
 
+We welcome feedback, suggestions, and collaboration: [contribute directly](https://github.com/kathsherratt/bvd-sitreps/issues) or [get in touch](mailto:katharine.sherratt@lshtm.ac.uk).
+
+::: {.callout-note collapse="true"}
 ## Data archive
 
 Data tables are extracted to csv format at:
@@ -34,6 +33,9 @@ The downloaded source PDFs are archived at:
 
 - [PDF archive](https://github.com/kathsherratt/bvd-sitreps/tree/main/data/pdf)
 
+:::
+
+::: {.callout-note collapse="true"}
 ## User guide
 
 The intention is to provide an English translated, machine-readable, time-stamped archive of sitrep information and data.
@@ -42,6 +44,10 @@ The intention is to provide an English translated, machine-readable, time-stampe
 - PDFs are converted, translated to English **via Google Gemini Vision**, and [archived](https://github.com/kathsherratt/bvd-sitreps/tree/main/data/pdf)
 - Data tables are parsed programatically into structured [csv files](https://github.com/kathsherratt/bvd-sitreps/tree/main/data/csv)
 - All code is available, and contributions welcome: [codebase](https://github.com/kathsherratt/bvd-sitreps)
+
+:::
+
+## English-language sitreps
 
 ::: {.callout-caution}
 - This is an aggregation of public data: we are not affiliated with INSP in any way
@@ -52,5 +58,3 @@ The intention is to provide an English translated, machine-readable, time-stampe
 - Sitrep PDFs contain contact details for INSP and relevant data owners.
   Please refer to these for data-specific questions.
 :::
-
-We welcome feedback, suggestions, and collaboration - please [contribute directly](https://github.com/kathsherratt/bvd-sitreps/issues) or [get in touch](mailto:katharine.sherratt@lshtm.ac.uk).
