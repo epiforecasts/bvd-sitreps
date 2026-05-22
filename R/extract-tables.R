@@ -10,14 +10,11 @@ extract_tables <- function(md_path, dir_out = here("data/csv")) {
   lines <- readLines(md_path, warn = FALSE)
   stem  <- tools::file_path_sans_ext(basename(md_path))
 
-  table_starts <- which(str_detect(lines, "^### Table"))
+  table_starts <- which(str_detect(lines, "^TABLE_\\d+$"))
 
   walk(seq_along(table_starts), \(i) {
     header_line <- lines[[table_starts[i]]]
-    table_name  <- str_extract(header_line, "(?<=### ).*") |>
-      str_to_lower() |>
-      str_replace_all("[^a-z0-9]+", "-") |>
-      str_remove("-$")
+    table_name  <- str_to_lower(header_line)
 
     start <- table_starts[i] + 1
     end   <- if (i < length(table_starts)) {

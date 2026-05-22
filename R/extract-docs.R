@@ -19,17 +19,28 @@ extract_via_vision <- function(
     "2. Output as markdown. One sentence per line. Remove page numbers.",
     "3. Minimal formatting. ",
     "  Use blank lines between paragraphs and after headers.",
-    "  Do not use markdown headers except for section titles marked",
-    "  with roman numerals.",
-    "4. Convert any data table (including image-based tables) to",
-    "   markdown table format. Ensure that the header row is first.",
+    "  Do not use markdown headers except for section titles.",
+    "4. Convert any data table (including image-based tables) to markdown pipe table format.",
+    "   Rules:",
+    "   - Output a line containing only TABLE_N (e.g. TABLE_1) immediately before each table.",
+    "     No markdown formatting around TABLE_N. No trailing whitespace.",
+    "   - The header row must be the first row.",
+    "   - Use | as the column separator. Every row must start and end with |.",
+    "   - All rows must have the same number of columns.",
+    "   - Do not merge or span cells. Split merged cells into separate columns.",
+    "   - Cell content must not contain newlines. Summarise multi-line content on one line.",
+    "   - Use empty string (nothing between ||) for empty cells.",
+    "   - Number tables sequentially starting at TABLE_1 across the whole document.",
+    "   - Include all tables, even those without a caption.",
     "5. Replace photographs with '[PHOTO]'.",
-    "6. Begin the document with the following:",
-    "   ```yaml",
+    "6. Begin the document with YAML front matter using --- delimiters:",
+    "   ---",
     "   title: <sitrep number from report>",
+    "   sitrep: <3 digit numeric sitrep number typically following 'Sitrep MVE N° ': e.g. 001>",
     "   date: <publication date from report as YYYY-MM-DD>",
-    "   ```",
-    "'*CAUTION: converted with Google Gemini*'.",
+    "   ---
+        ",
+    "'**CAUTION: converted with Google Gemini**'.",
     "Output only the converted document. No preamble."
   )
 
@@ -69,16 +80,49 @@ extract_via_vision <- function(
 }
 
 
+parse_sitrep_from_md <- function(text) {
+  pattern <- "(?<=sitrep: )\\d{3}"
+  m <- regmatches(text, regexpr(pattern, text, perl = TRUE))
+  if (length(m) == 0) {
+    return(NULL)
+  }
+  m[[1]]
+}
+
 pdf_files <- list.files("data/pdf", pattern = "\\.pdf$", full.names = TRUE)
 
 purrr::walk(pdf_files, \(pdf_path) {
-  out_path <- file.path(
-    "docs",
-    sub("\\.pdf$", ".md", basename(pdf_path))
-  )
-  if (file.exists(out_path)) {
-    message("Skipping (already extracted): ", out_path)
+  stem <- sub("\\.pdf$", ".processed", basename(pdf_path))
+  marker <- file.path("data/pdf", stem)
+  if (file.exists(marker)) {
+    message("Skipping (already extracted): ", basename(pdf_path))
     return(invisible(NULL))
   }
-  extract_via_vision(pdf_path = pdf_path, path_out = out_path)
+tmp_path <- tempfile(fileext = ".md")
+extract_via_vision(pdf_path = pdf_path, path_out = tmp_path)
+if (!file.exists(tmp_path)) {
+  return(invisible(NULL))
+}
+
+text <- readLines(tmp_path, warn = FALSE)
+sitrep_str <- parse_sitrep_from_md(paste(text, collapse = "\n"))
+
+if (is.null(sitrep_str)) {
+  warning(
+    "Could not parse sitrep numeric from: ", basename(pdf_path),
+    " — saving as PDF-stem name"
+  )
+  final_path <- file.path("docs", sub("\\.pdf$", ".md", basename(pdf_path)))
+} else {
+  final_path <- file.path("docs", paste0(sitrep_str, ".md"))
+  v <- 2L
+  while (file.exists(final_path)) {
+    final_path <- file.path("docs", paste0(sitrep_str, "v", v, ".md"))
+    v <- v + 1L
+  }
+}
+
+file.rename(tmp_path, final_path)
+writeLines("", marker)
+message("Saved: ", final_path)
 })
