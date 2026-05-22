@@ -1,6 +1,8 @@
 # Scrapes the INSP website and downloads any new sitrep PDFs to data/pdf/.
 # Skips files already present. Run from repo root.
-groundhog::groundhog.library(c("rvest", "httr2"), date = groundhog_date)
+groundhog::groundhog.library(c("rvest", "httr2"),
+    date = groundhog_date, tolerate.R.version = r_version
+)
 
 url <- "https://insp.cd/ebola-17eme-epidemie/"
 out_dir <- "data/pdf"

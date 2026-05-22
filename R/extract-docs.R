@@ -3,7 +3,7 @@
 # Skips PDFs that already have a matching .md file.
 groundhog::groundhog.library(
   c("here", "base64enc", "httr2", "purrr"),
-  date = groundhog_date
+  date = groundhog_date, tolerate.R.version = r_version
 )
 
 extract_via_vision <- function(

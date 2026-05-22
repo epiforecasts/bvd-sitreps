@@ -9,6 +9,7 @@ if (dir.exists(dirname(runner_path))) {
 }
 
 groundhog_date <- "2026-05-20"
+r_version <- getRversion()
 
 source("R/scrape-pdf.R")
 source("R/extract-docs.R")

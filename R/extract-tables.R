@@ -3,7 +3,7 @@
 # Skips reports that already have CSVs.
 groundhog::groundhog.library(
   c("here", "readr", "stringr", "purrr"),
-  date = groundhog_date
+  date = groundhog_date, tolerate.R.version = r_version
 )
 
 extract_tables <- function(md_path, dir_out = here("data/csv")) {
