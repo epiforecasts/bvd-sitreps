@@ -20,6 +20,19 @@ Many thanks to the authors and those providing public access to the INSP sitreps
 We welcome feedback, suggestions, and collaboration: [contribute directly](https://github.com/kathsherratt/bvd-sitreps/issues) or [get in touch](mailto:katharine.sherratt@lshtm.ac.uk).
 
 ::: {.callout-note collapse="true"}
+## User guide
+
+The intention is to provide an English translated, machine-readable, time-stamped archive of sitrep information and data.
+
+- Sitreps were downloaded from the publicly available [INSP website](https://insp.cd/ebola-17eme-epidemie/)
+- PDFs were converted, translated to English via a [prompt](assets/gemini-prompt.txt) to **Google Gemini Vision**, and [archived](https://github.com/kathsherratt/bvd-sitreps/tree/main/data/pdf)
+- Data tables were parsed programatically into structured [csv files](https://github.com/kathsherratt/bvd-sitreps/tree/main/data/csv)
+- The full text of the sitrep is saved as [quarto markdown](docs/) and rendered to html
+
+All data and code is available for re-use, and contributions welcome: [codebase](https://github.com/kathsherratt/bvd-sitreps)
+:::
+
+::: {.callout-note collapse="true"}
 ## Data archive
 
 Data tables are extracted to csv format at:
@@ -32,17 +45,6 @@ Please refer to the source PDF where unclear.
 The downloaded source PDFs are archived at:
 
 - [PDF archive](https://github.com/kathsherratt/bvd-sitreps/tree/main/data/pdf)
-:::
-
-::: {.callout-note collapse="true"}
-## User guide
-
-The intention is to provide an English translated, machine-readable, time-stamped archive of sitrep information and data.
-
-- Sitrep PDFs are downloaded from the publicly available [INSP website](https://insp.cd/ebola-17eme-epidemie/)
-- PDFs are converted, translated to English via a [prompt](./assets/gemini-prompt.txt) to **Google Gemini Vision**, and [archived](https://github.com/kathsherratt/bvd-sitreps/tree/main/data/pdf)
-- Data tables are parsed programatically into structured [csv files](https://github.com/kathsherratt/bvd-sitreps/tree/main/data/csv)
-- All code is available, and contributions welcome: [codebase](https://github.com/kathsherratt/bvd-sitreps)
 :::
 
 ## English-language sitreps
