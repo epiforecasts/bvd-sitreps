@@ -1,6 +1,7 @@
 ---
 title: "Daily INSP BVD situation reports"
 listing:
+  id: reports
   contents: docs
   sort: "date desc"
   type: table
@@ -11,7 +12,11 @@ listing:
 This website holds English translated outbreak situation reports for the 2026 Ebola-BVD outbreak.
 These are provided by the Centre d'opérations d'urgence de santé publique (COUSP) / L'Institut National de Santé Publique (INSP)
 
-- Source: [INSP Sitreps](https://insp.cd/ebola-17eme-epidemie/)
+::: {.callout-note}
+### Source
+
+[INSP Sitreps](https://insp.cd/ebola-17eme-epidemie/)
+:::
 
 This work is an aggregation of public data and we have no involvement in the source data.
 Many thanks to the authors and those providing public access to the INSP sitreps.

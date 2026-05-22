@@ -46,8 +46,7 @@ extract_tables <- function(md_path, dir_out = here("data/csv")) {
   })
 }
 
-md_files <- list.files(here("docs"), pattern = "\\.md$", full.names = TRUE)
-md_files <- md_files[basename(md_files) != "index.md"]
+md_files <- list.files(here("docs"), pattern = "\\.qmd$", full.names = TRUE)
 
 md_files <- Filter(\(md_path) {
   stem <- tools::file_path_sans_ext(basename(md_path))

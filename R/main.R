@@ -11,6 +11,7 @@ if (dir.exists(dirname(runner_path))) {
 groundhog_date <- "2026-05-20"
 r_version <- getRversion()
 
-source("R/scrape-pdf.R")
-source("R/extract-docs.R")
-source("R/extract-tables.R")
+source("R/01-scrape-pdf.R")
+source("R/02-extract-docs.R")
+source("R/03-extract-tables.R")
+source("R/04-format-quarto.R")
