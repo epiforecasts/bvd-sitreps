@@ -22,9 +22,9 @@ jobs:
 
       - uses: actions/cache@v4
         with:
-          path: ~/R/library
-          key: r-${{ runner.os }}-${{ hashFiles('**/DESCRIPTION') }}-2026-05-22
-          restore-keys: r-${{ runner.os }}-
+          path: /home/runner/R_groundhog
+          key: r-groundhog-${{ runner.os }}-2026-05-22
+          restore-keys: r-groundhog-${{ runner.os }}-
 
       - name: Install groundhog
         shell: Rscript {0}
@@ -32,6 +32,11 @@ jobs:
           if (!requireNamespace("groundhog", quietly = TRUE)) {
             install.packages("groundhog")
           }
+
+      - name: Set groundhog folder
+        shell: Rscript {0}
+        run: |
+          groundhog::set.groundhog.folder("/home/runner/R_groundhog")
 
       - name: Scrape new PDFs
         run: Rscript R/scrape-pdf.R
