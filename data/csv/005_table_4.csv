@@ -1,0 +1,9 @@
+Provinces,Health Zone,Number of suspected cases,Number of suspected deaths,Number of confirmed cases,Number of contacts
+Ituri,Mongbwalu,309,77,13,176
+Ituri,Rwampara,154,43,25,335
+Ituri,Bunia,90,23,6,203
+Ituri,Nyankunde,19,5,4,133
+North Kivu,Goma,1,0,1,N
+North Kivu,Katwa,1,0,1,ND
+North Kivu,Butembo,1,0,1,ND
+Total,NA,575,148,51,847
