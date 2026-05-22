@@ -1,12 +1,12 @@
 # bvd-sitreps
 
-Extracts French Ebola (EVD) outbreak sitreps from DRC into machine-readable format. PDFs → markdown (via Google Gemini Vision) → CSV tables.
+Extracts Ebola (BVD) outbreak sitreps from DRC into machine-readable format. PDFs → markdown (via Google Gemini Vision) → CSV tables.
 
 ## Setup
 
 Set `GOOGLE_AI_KEY` environment variable with Google Cloud API key.
 
-No renv — install packages manually if missing: `rvest`, `here`, `base64enc`, `httr2`, `purrr`, `readr`, `stringr`, `tools`.
+Packages are managed with `groundhog` (date-pinned to 2026-05-22). Each script auto-installs `groundhog` on first run. No renv, no manual installs needed.
 
 ## Workflow
 
