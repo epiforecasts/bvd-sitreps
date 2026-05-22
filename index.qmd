@@ -12,17 +12,18 @@ listing:
 This website holds English translated outbreak situation reports for the 2026 Ebola-BVD outbreak.
 These are provided by the Centre d'opérations d'urgence de santé publique (COUSP) / L'Institut National de Santé Publique (INSP).
 
-- Source: [INSP Sitreps](https://insp.cd/ebola-17eme-epidemie/)
+Before sharing this, please cite the original sitrep source:
 
-This work is an aggregation of public data and we have no involvement in the source data.
-Many thanks to the authors and those providing public access to the INSP sitreps.
+- [INSP Sitreps](https://insp.cd/ebola-17eme-epidemie/)
 
-We welcome feedback, suggestions, and collaboration: [contribute directly](https://github.com/kathsherratt/bvd-sitreps/issues) or [get in touch](mailto:katharine.sherratt@lshtm.ac.uk).
+Many thanks to those providing public access to the INSP sitreps.
 
 ::: {.callout-note collapse="true"}
-## User guide
+## Context & use
 
-The intention is to provide an English translated, machine-readable, time-stamped archive of sitrep information and data.
+This work is an aggregation of public data and we have no involvement in the source data.
+
+The intention here is to provide an English translated, machine-readable, time-stamped archive of public sitrep information and data.
 
 - Sitreps were downloaded from the publicly available [INSP website](https://insp.cd/ebola-17eme-epidemie/)
 - PDFs were converted, translated to English via a [prompt](assets/gemini-prompt.txt) to **Google Gemini Vision**, and [archived](https://github.com/kathsherratt/bvd-sitreps/tree/main/data/pdf)
@@ -30,6 +31,8 @@ The intention is to provide an English translated, machine-readable, time-stampe
 - The full text of the sitrep is saved as [quarto markdown](docs/) and rendered to html
 
 All data and code is available for re-use, and contributions welcome: [codebase](https://github.com/kathsherratt/bvd-sitreps)
+
+We welcome feedback, suggestions, and collaboration: [contribute directly](https://github.com/kathsherratt/bvd-sitreps/issues) or [get in touch](mailto:katharine.sherratt@lshtm.ac.uk).
 :::
 
 ::: {.callout-note collapse="true"}
