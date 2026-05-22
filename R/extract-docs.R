@@ -1,9 +1,9 @@
-if (!requireNamespace("groundhog", quietly = TRUE)) {
-  install.packages("groundhog")
-}
+# Converts PDFs in data/pdf/ to translated markdown in docs/.
+# Calls Gemini Vision API. Requires GOOGLE_AI_KEY env var.
+# Skips PDFs that already have a matching .md file.
 groundhog::groundhog.library(
   c("here", "base64enc", "httr2", "purrr"),
-  date = "2026-05-22"
+  date = groundhog_date
 )
 
 extract_via_vision <- function(

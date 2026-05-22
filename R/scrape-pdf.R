@@ -1,5 +1,6 @@
-if (!requireNamespace("groundhog", quietly = TRUE)) install.packages("groundhog")
-groundhog::groundhog.library(c("rvest", "httr2"), date = "2026-05-22")
+# Scrapes the INSP website and downloads any new sitrep PDFs to data/pdf/.
+# Skips files already present. Run from repo root.
+groundhog::groundhog.library(c("rvest", "httr2"), date = groundhog_date)
 
 url <- "https://insp.cd/ebola-17eme-epidemie/"
 out_dir <- "data/pdf"

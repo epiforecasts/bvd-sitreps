@@ -1,9 +1,9 @@
-if (!requireNamespace("groundhog", quietly = TRUE)) {
-  install.packages("groundhog")
-}
+# Parses markdown tables from docs/ into CSVs in data/csv/.
+# One CSV per table per report, named {sitrep}_{table-name}.csv.
+# Skips reports that already have CSVs.
 groundhog::groundhog.library(
   c("here", "readr", "stringr", "purrr"),
-  date = "2026-05-22"
+  date = groundhog_date
 )
 
 extract_tables <- function(md_path, dir_out = here("data/csv")) {

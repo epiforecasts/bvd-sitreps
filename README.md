@@ -55,23 +55,22 @@ Set an API key as an environment variable:
 export GOOGLE_AI_KEY=your_key_here
 ```
 
-Packages are managed with [`groundhog`](https://groundhogr.com/) (date-pinned, no lockfile). Each script installs `groundhog` automatically on first run, then loads pinned versions of its dependencies.
+Packages are managed with [`groundhog`](https://groundhogr.com/) (date-pinned, no lockfile). 
+Each script installs `groundhog` automatically on first run, then loads pinned versions of its dependencies.
 
 ### Usage
 
-Run the three scripts in order from the repo root:
+Run the full pipeline from the repo root:
 
 ```r
-Rscript R/scrape-pdf.R      # download new PDFs
-Rscript R/extract-docs.R    # convert PDFs → markdown (requires GOOGLE_AI_KEY)
-Rscript R/extract-tables.R  # parse markdown tables → CSVs
+Rscript R/main.R
 ```
 
-Existing files are skipped.
+This runs all three steps in order: scrape PDFs, extract markdown, parse tables. 
 
 ### Automation
 
-A GitHub Actions workflow ([`.github/workflows/update-sitreps.yml`](.github/workflows/update-sitreps.yml)) runs daily at 06:00 UTC. It:
+A GitHub Actions workflow ([`.github/workflows/update-sitreps.yml`](.github/workflows/update-sitreps.yml)) runs daily at 01:00 UTC. It:
 
 1. Scrapes INSP for new PDFs
 2. Extracts and translates any new PDFs via Gemini
@@ -82,13 +81,13 @@ The `GOOGLE_AI_KEY` secret must be set in the repository's Actions secrets. Trig
 
 ### Jekyll site
 
-The `docs/` directory is configured as a Jekyll site. Each markdown file in `docs/` is a report page; `docs/index.md` lists them by date. GitHub Pages can serve this directly from the `docs/` folder on `main`.
+The `docs/` directory is configured as a Jekyll site. 
+Each markdown file in `docs/` is a report page; `docs/index.md` lists them by date. 
+GitHub Pages can serve this directly from the `docs/` folder on `main`.
 
 ### Notes
 
 - **Translation:** Gemini translates French → English, preserving proper nouns (place names, people). All outputs carry a `*CAUTION: converted with Google Gemini*` header.
 - **Model:** `gemini-2.5-flash-lite` — cost-efficient for document OCR and translation.
-- **No renv:** Dependencies are pinned via `groundhog` (date: 2026-05-22). To update, change the date in each script.
+- **No renv:** Dependencies are pinned via `groundhog` (date set in `R/main.R`). To update, change `groundhog_date` there.
 - **Data files:** `data/pdf/` and `data/csv/` are committed to the repo by the Actions workflow. 
-
-</details>
