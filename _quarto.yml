@@ -9,7 +9,7 @@ website:
   navbar:
     right:
       - icon: github
-        href: https://kathsherratt.github.io/bvd-sitreps
+        href: https://github.com/kathsherratt/bvd-sitreps
       - icon: house-fill
         text: " "
         href: index.qmd
