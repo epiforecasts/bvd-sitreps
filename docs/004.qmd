@@ -3,100 +3,84 @@ title: Sitrep 004
 sitrep: 004
 date: 2026-05-20
 ---
-**CAUTION: converted with Google Gemini**
+
+::: {.callout-caution}
+Automatically converted and translated with Google Gemini with minimal human oversight
+:::
 
 MVE N° 004/2026
 
-Public Health Emergency Operations Center
-COUSP RDC
+Public Health Emergency Operations Center COUSP RDC
 
 Situation Report of Ebola Virus Disease / 17th Epidemic - RDC
 
 SitRep MVE N° 004/2026
 
-Affected Provinces
-ITURI, NORTH-KIVU
+Affected Provinces ITURI, NORTH-KIVU
 
-Health Areas Affected
-ITURI: Mongbwalu, Rwampara, Bunia, Nyankunde, NORTH KIVU: Goma, Katwa and Butembo
+Health Areas Affected ITURI: Mongbwalu, Rwampara, Bunia, Nyankunde, NORTH KIVU: Goma, Katwa and Butembo
 
-Date of Report
-May 19, 2026
+Date of Report May 19, 2026
 
-Date of Publication
-May 20, 2026
+Date of Publication May 20, 2026
 
 [PHOTO]
 
-33
-Confirmed Cases
+33 Confirmed Cases
 
-4
-Confirmed Deaths
+4 Confirmed Deaths
 
-ND
-Probable Cases
+ND Probable Cases
 
-457
-Contacts
+457 Contacts
 
-ND
-Bed Occupancy Rate/Confirmed
+ND Bed Occupancy Rate/Confirmed
 
-ND
-Bed Occupancy Rate/Suspects
+ND Bed Occupancy Rate/Suspects
 
-0
-Recovered
+0 Recovered
 
-Provinces Affected
-Confirmed Cases
-Confirmed Deaths
-Probable Cases
-Suspected Cases
-Daily Recoveries
+Provinces Affected Confirmed Cases Confirmed Deaths Probable Cases Suspected Cases Daily Recoveries
 
-Ituri
-30
-4
-ND
-131
-0
+Ituri 30 4 ND 131 0
 
-North-Kivu
-3
-0
-ND
-ND
-0
+North-Kivu 3 0 ND ND 0
 
-Total
-33
-4
-ND
-0
-0
+Total 33 4 ND 0 0
 
 Sitrep Ebola Virus Disease / RDC / N°004/2026
 
 Page 1
 
-I. CONTEXT
+I.
+CONTEXT
 
-The Ituri province is located in the Northeast of the Democratic Republic of Congo and shares a long border with Uganda and South Sudan. For more than two decades, it has been confronted with a chronic humanitarian crisis linked to armed conflicts and recurrent population displacement. It has an estimated population of over 8 million inhabitants, including more than one million internally displaced persons.
+The Ituri province is located in the Northeast of the Democratic Republic of Congo and shares a long border with Uganda and South Sudan.
+For more than two decades, it has been confronted with a chronic humanitarian crisis linked to armed conflicts and recurrent population displacement.
+It has an estimated population of over 8 million inhabitants, including more than one million internally displaced persons.
 
 In September 2018, this province was affected by an Ebola virus disease epidemic that was raging in the neighboring North-Kivu province.
 
-The health area of Mongbwalu is one of the 36 health areas in the Ituri province. Considered as the starting point of the epidemic, it is located in the Djugu territory where several armed groups operate. It is located 70 km from Bunia, the provincial capital of Ituri, with frequent population movements towards Uganda. This locality has the particularity of having several construction sites that attract populations from other territories of the province and neighboring provinces.
+The health area of Mongbwalu is one of the 36 health areas in the Ituri province.
+Considered as the starting point of the epidemic, it is located in the Djugu territory where several armed groups operate.
+It is located 70 km from Bunia, the provincial capital of Ituri, with frequent population movements towards Uganda.
+This locality has the particularity of having several construction sites that attract populations from other territories of the province and neighboring provinces.
 
-1.
-Epidemic History
+1. Epidemic History
 
-On May 5, 2026, social media reported an outbreak of deaths from unknown causes with nearly 50 deaths already recorded in the Mongbwalu health area. After confirmation of this alert, the Chief Medical Officer of the Mongbwalu health area shared the preliminary investigation report on May 9, 2026. On May 11, 2026, provincial health authorities organized an emergency meeting and decided to deploy rapid intervention teams to Mongbwalu and Rwampara, which had reported suspected deaths of viral hemorrhagic fever among patients admitted to the Rwampara Evangelical Medical Center, originating from Mongbwalu.
+On May 5, 2026, social media reported an outbreak of deaths from unknown causes with nearly 50 deaths already recorded in the Mongbwalu health area.
+After confirmation of this alert, the Chief Medical Officer of the Mongbwalu health area shared the preliminary investigation report on May 9, 2026.
+On May 11, 2026, provincial health authorities organized an emergency meeting and decided to deploy rapid intervention teams to Mongbwalu and Rwampara, which had reported suspected deaths of viral hemorrhagic fever among patients admitted to the Rwampara Evangelical Medical Center, originating from Mongbwalu.
 
-The investigations carried out on May 12, 2026, simultaneously in the health areas of Mongbwalu and Rwampara by the Rapid Intervention Teams of the Provincial Health Division (DPS) of Ituri made it possible to note that most of the suspected patients or deaths had fever, headaches, vomiting, and intense physical asthenia. Deaths occurred 2 to 3 days after the onset of the illness with hematemesis, epistaxis, or blackish vomiting. During investigations in the Rwampara health area, 20 samples were collected from suspected cases or deaths. The majority of the individuals sampled came from the Mongbwalu health area. Preliminary tests performed at the Bunia Laboratory were all negative for Ebola Zaire, dengue, Rotavirus, Cholera, Malaria, Yersinia pestis, mpox, and COVID-19. These samples were sent to the National Institute of Biomedical Research (INRB) in Kinshasa for additional examinations.
+The investigations carried out on May 12, 2026, simultaneously in the health areas of Mongbwalu and Rwampara by the Rapid Intervention Teams of the Provincial Health Division (DPS) of Ituri made it possible to note that most of the suspected patients or deaths had fever, headaches, vomiting, and intense physical asthenia.
+Deaths occurred 2 to 3 days after the onset of the illness with hematemesis, epistaxis, or blackish vomiting.
+During investigations in the Rwampara health area, 20 samples were collected from suspected cases or deaths.
+The majority of the individuals sampled came from the Mongbwalu health area.
+Preliminary tests performed at the Bunia Laboratory were all negative for Ebola Zaire, dengue, Rotavirus, Cholera, Malaria, Yersinia pestis, mpox, and COVID-19.
+These samples were sent to the National Institute of Biomedical Research (INRB) in Kinshasa for additional examinations.
 
-On May 14, 2026, 13 cases out of these 20 samples were tested, and 8 tested positive for non-Zaire Ebola virus disease at INRB Kinshasa. On May 15, 2026, sequencing of the positive samples identified the Bundibugyo strain, which allowed the Minister of Public Health, Hygiene and Social Welfare (MSHPS) to officially declare the 17th epidemic of Ebola virus disease.
+On May 14, 2026, 13 cases out of these 20 samples were tested, and 8 tested positive for non-Zaire Ebola virus disease at INRB Kinshasa.
+On May 15, 2026, sequencing of the positive samples identified the Bundibugyo strain, which allowed the Minister of Public Health, Hygiene and Social Welfare (MSHPS) to officially declare the 17th epidemic of Ebola virus disease.
 
 Sitrep Ebola Virus Disease / RDC / N°004/2026
 
@@ -104,156 +88,118 @@ Page 2
 
 II. CHRONOLOGY OF EVENTS
 
-TABLE_1
-| Event Date | Event Description |
-|---|---|
-| April 24, 2026 | The first suspect developed symptoms (index case). Probable start of the transmission chain. |
-| April 26, 2026 | Strong severity, possible hemorrhagic syndrome. |
-| April 27, 2026 | Death of the first suspect case. |
-| April 27, 2026 | The second suspect case (sibling/companion) developed symptoms. |
-| April 28, 2026 | Samples sent to the INRB Kinshasa. |
-| April 30, 2026 | GeneXpert test negative in Bunia. |
-| May 5, 2026 | Alert notified, awaiting verification. Etiology: filovirus. Virus Ebola Zaire ruled out. |
-| May 6, 2026 | Alert on social media: ~50 deaths in Mongbwalu. |
-| May 13, 2026 | Uganda declares an epidemic due to an imported case. (The Ministry of Health of Uganda confirmed 1 imported case of BDBV). |
-| May 14, 2026 | Genomic sequencing confirms the Ebola virus Bundibugyo. Event classified as EVD (Ebola Virus Disease) species Bundibugyo. |
-| May 15, 2026 | INRB Kinshasa confirms the Ebola virus (non-Zaire species). |
-| May 15, 2026 | The first sequencing of positive samples confirms the Ebola virus Bundibugyo. |
+TABLE_1 \| Event Date \| Event Description \| \|---\|---\| \| April 24, 2026 \| The first suspect developed symptoms (index case).
+Probable start of the transmission chain.
+\| \| April 26, 2026 \| Strong severity, possible hemorrhagic syndrome.
+\| \| April 27, 2026 \| Death of the first suspect case.
+\| \| April 27, 2026 \| The second suspect case (sibling/companion) developed symptoms.
+\| \| April 28, 2026 \| Samples sent to the INRB Kinshasa.
+\| \| April 30, 2026 \| GeneXpert test negative in Bunia.
+\| \| May 5, 2026 \| Alert notified, awaiting verification.
+Etiology: filovirus.
+Virus Ebola Zaire ruled out.
+\| \| May 6, 2026 \| Alert on social media: \~50 deaths in Mongbwalu.
+\| \| May 13, 2026 \| Uganda declares an epidemic due to an imported case.
+(The Ministry of Health of Uganda confirmed 1 imported case of BDBV).
+\| \| May 14, 2026 \| Genomic sequencing confirms the Ebola virus Bundibugyo.
+Event classified as EVD (Ebola Virus Disease) species Bundibugyo.
+\| \| May 15, 2026 \| INRB Kinshasa confirms the Ebola virus (non-Zaire species).
+\| \| May 15, 2026 \| The first sequencing of positive samples confirms the Ebola virus Bundibugyo.
+\|
 
-Figure 1. Location of the Mongbwalu health area in the Ituri province.
+Figure 1.
+Location of the Mongbwalu health area in the Ituri province.
 
 HIGHLIGHTS
 
 20 New confirmed cases as of May 18, 2026, including 18 in Ituri province and 2 in North-Kivu province.
 As of May 18, 2026, a cumulative total of 33 confirmed cases, including 30 confirmed cases in Ituri and 3 in North-Kivu.
 Two provinces affected: Ituri (4 HS: Bunia, Nyankunde, Mongbwalu, and Rwampara) and North-Kivu (3 HS: Katwa, Goma, and Butembo).
-Livestock farmers at the TSERE farm in the Rwampara HS were sensitized on the non-consumption of meat from 5 pigs that died from an unspecified disease, and two showed hemorrhagic signs. Result: The 5 dead pigs were denatured and buried;
+Livestock farmers at the TSERE farm in the Rwampara HS were sensitized on the non-consumption of meat from 5 pigs that died from an unspecified disease, and two showed hemorrhagic signs.
+Result: The 5 dead pigs were denatured and buried;
 
 III. SITUATION UPDATE
 
-TABLE_2
-| Provinces | Health Areas | Number of Suspected Cases | Number of Deaths | Number of Confirmed Cases | Number of Contacts |
-|---|---|---|---|---|---|
-| Ituri | Mongbwalu | 302 | 74 | 1 | 161 |
-| Ituri | Rwampara | 136 | 38 | 19 | 120 |
-| Ituri | Bunia | 61 | 18 | 6 | 127 |
-| Ituri | Nyankunde | 14 | 1 | 4 | 133 |
-| North-Kivu | Goma | 1 | 0 | 1 | ND |
-| North-Kivu | Katwa | 1 | 0 | 1 | ND |
-| North-Kivu | Butembo | 1 | 0 | 1 | ND |
-| Total |  | 516 | 131 | 33 | 541 |
+TABLE_2 \| Provinces \| Health Areas \| Number of Suspected Cases \| Number of Deaths \| Number of Confirmed Cases \| Number of Contacts \| \|---\|---\|---\|---\|---\|---\| \| Ituri \| Mongbwalu \| 302 \| 74 \| 1 \| 161 \| \| Ituri \| Rwampara \| 136 \| 38 \| 19 \| 120 \| \| Ituri \| Bunia \| 61 \| 18 \| 6 \| 127 \| \| Ituri \| Nyankunde \| 14 \| 1 \| 4 \| 133 \| \| North-Kivu \| Goma \| 1 \| 0 \| 1 \| ND \| \| North-Kivu \| Katwa \| 1 \| 0 \| 1 \| ND \| \| North-Kivu \| Butembo \| 1 \| 0 \| 1 \| ND \| \| Total \| \| 516 \| 131 \| 33 \| 541 \|
 
-*These data are subject to change after harmonization of data at different levels of the health pyramid with the incident management system.
+\*These data are subject to change after harmonization of data at different levels of the health pyramid with the incident management system.
 
 Sitrep Ebola Virus Disease / RDC / N°004/2026
 
 Page 3
 
-TABLE_3
-| Indicators | Bunia | Rwampara | Nyankunde | Mongbwalu | Nizi | Lita | Bambu | Fataki | Total |
-|---|---|---|---|---|---|---|---|---|---|
-| Report of alerts (17/05) | 3 | 7 | 0 | 0 | 0 | 0 | ND | ND | 10 |
-| New alerts (18/05) | 13 | 23 | 4 | 11 | 1 | 2 | ND | ND | 54 |
-| Total alerts for the day (18/05) | 16 | 30 | 4 | 11 | 1 | 2 | ND | ND | 64 |
-| Living alerts | 10 | 20 | 3 | 9 | 1 | 2 | ND | ND | 45 |
-| Deceased alerts | 6 | 10 | 1 | 2 | 0 | 0 | ND | ND | 19 |
-| Investigated alerts | 16 | 22 | 4 | 9 | 1 | 2 | ND | ND | 54 |
-| Non-investigated alerts | 0 | 0 | 0 | 9 | 0 | 0 | ND | ND | 9 |
-| Validated alerts | 16 | 21 | 4 | 9 | 1 | 2 | ND | ND | 53 |
-| Invalidated alerts | 0 | 1 | 0 | 2 | 0 | 0 | ND | ND | 3 |
-| Suspected cases collected | 10 | 21 | 4 | 2 | 0 | 0 | ND | ND | 37 |
-| Isolated suspected cases | 9 | 46 | 3 | 9 | 0 | 2 | ND | ND | 69 |
-| Non-isolated suspected cases | 1 | 0 | 0 | 0 | 1 | 0 | ND | ND | 2 |
+TABLE_3 \| Indicators \| Bunia \| Rwampara \| Nyankunde \| Mongbwalu \| Nizi \| Lita \| Bambu \| Fataki \| Total \| \|---\|---\|---\|---\|---\|---\|---\|---\|---\|---\| \| Report of alerts (17/05) \| 3 \| 7 \| 0 \| 0 \| 0 \| 0 \| ND \| ND \| 10 \| \| New alerts (18/05) \| 13 \| 23 \| 4 \| 11 \| 1 \| 2 \| ND \| ND \| 54 \| \| Total alerts for the day (18/05) \| 16 \| 30 \| 4 \| 11 \| 1 \| 2 \| ND \| ND \| 64 \| \| Living alerts \| 10 \| 20 \| 3 \| 9 \| 1 \| 2 \| ND \| ND \| 45 \| \| Deceased alerts \| 6 \| 10 \| 1 \| 2 \| 0 \| 0 \| ND \| ND \| 19 \| \| Investigated alerts \| 16 \| 22 \| 4 \| 9 \| 1 \| 2 \| ND \| ND \| 54 \| \| Non-investigated alerts \| 0 \| 0 \| 0 \| 9 \| 0 \| 0 \| ND \| ND \| 9 \| \| Validated alerts \| 16 \| 21 \| 4 \| 9 \| 1 \| 2 \| ND \| ND \| 53 \| \| Invalidated alerts \| 0 \| 1 \| 0 \| 2 \| 0 \| 0 \| ND \| ND \| 3 \| \| Suspected cases collected \| 10 \| 21 \| 4 \| 2 \| 0 \| 0 \| ND \| ND \| 37 \| \| Isolated suspected cases \| 9 \| 46 \| 3 \| 9 \| 0 \| 2 \| ND \| ND \| 69 \| \| Non-isolated suspected cases \| 1 \| 0 \| 0 \| 0 \| 1 \| 0 \| ND \| ND \| 2 \|
 
 III. RESPONSE ACTIONS
 
-COORDINATION
-* Holding of coordination meetings with the sections.
-* Participation in strategic meetings at the governorate and central level.
-* Holding of coordination meetings with the sections.
-* Participation in strategic meetings at the provincial governorate and level.
-* Sharing priority activities with budget with the central level.
-* Establishment and revitalization of intervention teams.
-* Prospecting for the installation site of the CTE.
+COORDINATION \* Holding of coordination meetings with the sections.
+\* Participation in strategic meetings at the governorate and central level.
+\* Holding of coordination meetings with the sections.
+\* Participation in strategic meetings at the provincial governorate and level.
+\* Sharing priority activities with budget with the central level.
+\* Establishment and revitalization of intervention teams.
+\* Prospecting for the installation site of the CTE.
 
-EPIDEMIOLOGICAL SURVEILLANCE
-* Briefing of surveillance teams on alerts, investigations, active case finding, contact listing and follow-up.
-* Briefing of the PoE/PoC team on the mapping of their sites.
-* Organization of the surveillance pillar (PF per HS, roles and responsibilities).
-* Deployment of surveillance teams in 3 epidemic health zones: Bunia, Rwampara, and Nyankunde.
+EPIDEMIOLOGICAL SURVEILLANCE \* Briefing of surveillance teams on alerts, investigations, active case finding, contact listing and follow-up.
+\* Briefing of the PoE/PoC team on the mapping of their sites.
+\* Organization of the surveillance pillar (PF per HS, roles and responsibilities).
+\* Deployment of surveillance teams in 3 epidemic health zones: Bunia, Rwampara, and Nyankunde.
 
 Sitrep Ebola Virus Disease / RDC / N°004/2026
 
 Page 4
 
-TABLE_4
-| LABORATORY | |
-|---|---|
-| Results as of May 18, 2026 (RADIONE) | |
-| Samples received: 27 (New suspected cases) | |
-| Samples analyzed: 27 | |
-| Samples for pre-collection analyzed: 0 | |
-| Confirmed cases for the day: 18 (Rwampara: 6, Bunia: 8, Mongbwalu: 1, under verification: 3), 40 samples awaiting analysis at the Ituri Laboratory and 54 samples from Mongbwalu awaiting shipment to the Ituri lab. | |
-| Cumulative confirmed cases: 33 | |
-| Ituri Laboratory: 23 | |
-| INRB Kinshasa: 7 | |
-| Goma Laboratory: 1 | |
-| Butembo Laboratory: 2 | |
+TABLE_4 \| LABORATORY \| \| \|---\|---\| \| Results as of May 18, 2026 (RADIONE) \| \| \| Samples received: 27 (New suspected cases) \| \| \| Samples analyzed: 27 \| \| \| Samples for pre-collection analyzed: 0 \| \| \| Confirmed cases for the day: 18 (Rwampara: 6, Bunia: 8, Mongbwalu: 1, under verification: 3), 40 samples awaiting analysis at the Ituri Laboratory and 54 samples from Mongbwalu awaiting shipment to the Ituri lab.
+\| \| \| Cumulative confirmed cases: 33 \| \| \| Ituri Laboratory: 23 \| \| \| INRB Kinshasa: 7 \| \| \| Goma Laboratory: 1 \| \| \| Butembo Laboratory: 2 \| \|
 
-COMMUNICATION ON RISKS AND COMMUNITY ENGAGEMENT (CREC)
-* Awareness raising of 56 tuberculosis patients, including 7 women in the Mudzi-Maria health area.
-* Awareness raising of 26 CAC members, including 12 women, in the Kasegwa HS to activate VADs in all avenues and villages.
-* Briefing of the 23 PRESICODESA of the Bunia HS on CREC.
-* Capacity building by the central level for the drafting of the daily report for the secretariat team of the pillar.
+COMMUNICATION ON RISKS AND COMMUNITY ENGAGEMENT (CREC) \* Awareness raising of 56 tuberculosis patients, including 7 women in the Mudzi-Maria health area.
+\* Awareness raising of 26 CAC members, including 12 women, in the Kasegwa HS to activate VADs in all avenues and villages.
+\* Briefing of the 23 PRESICODESA of the Bunia HS on CREC.
+\* Capacity building by the central level for the drafting of the daily report for the secretariat team of the pillar.
 
-INFECTION PREVENTION AND CONTROL (PCI/WASH)
-HS Bunia
-* 3 EHS conducted and decontamination: HGR Bunia, CEM Nyankunde, CS. Les merites.
-* Start of briefing for supervision and decontamination teams.
-* Evaluation of sites for triage setup at the Ituri DPS office.
-* Briefing of technicians for the maintenance and disinfection of DPS meeting spaces.
-* Evaluation of anti-fire devices at the DPS and LPSP levels (9 fire extinguishers for LPSP and 12 for DPS), all to be maintained.
+INFECTION PREVENTION AND CONTROL (PCI/WASH) HS Bunia \* 3 EHS conducted and decontamination: HGR Bunia, CEM Nyankunde, CS.
+Les merites.
+\* Start of briefing for supervision and decontamination teams.
+\* Evaluation of sites for triage setup at the Ituri DPS office.
+\* Briefing of technicians for the maintenance and disinfection of DPS meeting spaces.
+\* Evaluation of anti-fire devices at the DPS and LPSP levels (9 fire extinguishers for LPSP and 12 for DPS), all to be maintained.
 
-HS Rwampara
-* Start of evaluation of CME Nyankunde, presence of 18 suspected patients, but without isolation, including 8 healthcare providers.
-* Briefing of 68 providers on EVD.
-* Clinical evaluation Dieu Guéri: scorecard of 28%.
-* Disinfection of some premises in the internal medicine ward of the CME, Tumaini Clinic, and a household.
-* Identification of a site for patient isolation.
+HS Rwampara \* Start of evaluation of CME Nyankunde, presence of 18 suspected patients, but without isolation, including 8 healthcare providers.
+\* Briefing of 68 providers on EVD.
+\* Clinical evaluation Dieu Guéri: scorecard of 28%.
+\* Disinfection of some premises in the internal medicine ward of the CME, Tumaini Clinic, and a household.
+\* Identification of a site for patient isolation.
 
 Sitrep Ebola Virus Disease / RDC / N°004/2026
 
 Page 5
 
-HS Mongbwalu
-* Briefing of 5 healthcare providers from HGR Mongbwalu.
-* Decontamination of isolation unit.
-* Donation of Wash kits in 4 CS by ACF.
+HS Mongbwalu \* Briefing of 5 healthcare providers from HGR Mongbwalu.
+\* Decontamination of isolation unit.
+\* Donation of Wash kits in 4 CS by ACF.
 
-LOGISTICS
-* Identification of motor vehicles:
-* Ambulances: 4 (HGR Bunia, HGR Mongbwalu, PNC and UMIR).
-* Programs and Coordination: 3 (CPLT, MTN, PEV).
-* WHO: 5 vehicles for the surveillance pillar.
-* UNICEF: 6 vehicles on lease, including 1 for SBC.
+LOGISTICS \* Identification of motor vehicles: \* Ambulances: 4 (HGR Bunia, HGR Mongbwalu, PNC and UMIR).
+\* Programs and Coordination: 3 (CPLT, MTN, PEV).
+\* WHO: 5 vehicles for the surveillance pillar.
+\* UNICEF: 6 vehicles on lease, including 1 for SBC.
 
-SECURITY
-The security situation in Bunia city (HS of Bunia and Rwampara) is relatively calm.
+SECURITY The security situation in Bunia city (HS of Bunia and Rwampara) is relatively calm.
 
 IV. CHALLENGES
-* Difficulty of mobility for teams for investigation at the DPS and HS levels.
-* Difficulty of dispatching samples from Mongbwalu to the provincial laboratory in Bunia.
-* Insufficiency of collection kits.
-* Insufficiency of Protection Kits and surveillance tools.
 
-V. RECOMMENDATIONS
-* Strengthen intervention teams in the affected HS.
-* Make available transportation means (mobility) to field teams.
-* Fill the GAP in collection kits.
-* Continue contact listing and start contact follow-up in all HS.
-* Develop a mapping of population mobility in the affected health zones.
-* Strengthen epidemiological surveillance and community-based surveillance.
-* Train healthcare providers in epidemiological surveillance, community-based surveillance, and laboratory.
+- Difficulty of mobility for teams for investigation at the DPS and HS levels.
+- Difficulty of dispatching samples from Mongbwalu to the provincial laboratory in Bunia.
+- Insufficiency of collection kits.
+- Insufficiency of Protection Kits and surveillance tools.
+
+V.
+RECOMMENDATIONS \* Strengthen intervention teams in the affected HS.
+\* Make available transportation means (mobility) to field teams.
+\* Fill the GAP in collection kits.
+\* Continue contact listing and start contact follow-up in all HS.
+\* Develop a mapping of population mobility in the affected health zones.
+\* Strengthen epidemiological surveillance and community-based surveillance.
+\* Train healthcare providers in epidemiological surveillance, community-based surveillance, and laboratory.
 
 Sitrep Ebola Virus Disease / RDC / N°004/2026
 
@@ -261,29 +207,15 @@ Page 6
 
 FOR ANY ADDITIONAL INFORMATION, PLEASE CONTACT
 
-For the National Institute of Public Health (INSP) of the RDC
-The Director General of INSP
-Dr MWAMBA KAZADI Dieudonné
-E-mail: dieudonnemwambakazadi@gmail.com
-Tel.: +243 816 040 145
+For the National Institute of Public Health (INSP) of the RDC The Director General of INSP Dr MWAMBA KAZADI Dieudonné E-mail: dieudonnemwambakazadi@gmail.com Tel.: +243 816 040 145
 
-The COU-SP Coordinator
-Prof NGANDU Christian
-E-mail: nganduchristian@ymail.com
-Tel.: +243998091915
+The COU-SP Coordinator Prof NGANDU Christian E-mail: nganduchristian@ymail.com Tel.: +243998091915
 
-For the World Health Organization (WHO/RDC)
-The WHO Representative in DRC
-Dr Anne Marie ANCIA
-E-mail: anciaa@who.int
+For the World Health Organization (WHO/RDC) The WHO Representative in DRC Dr Anne Marie ANCIA E-mail: anciaa@who.int
 
-The WHO EPR Cluster Team Lead in DRC
-Dr FOTSING Richard
-E-mail: fotsingri@who.int
+The WHO EPR Cluster Team Lead in DRC Dr FOTSING Richard E-mail: fotsingri@who.int
 
-For the Health Information Management Team
-Mr Henri MBIYA-NGANDU
-E-mail: mbiyanganduluboyah@who.int
+For the Health Information Management Team Mr Henri MBIYA-NGANDU E-mail: mbiyanganduluboyah@who.int
 
 [PHOTO]
 
@@ -31295,4 +31227,4 @@ E-mail: mbiyanganduluboyah@who.int
 
 [PHOTO]
 
-[
+\[

@@ -1,0 +1,128 @@
+---
+title: Sitrep 002
+sitrep: 002
+date: 2026-05-18
+---
+
+::: {.callout-caution}
+Automatically converted and translated with Google Gemini with minimal human oversight
+:::
+
+MINISTRY OF PUBLIC HEALTH, HYGIENE AND SOCIAL WELFARE National Institute of Public Health
+
+Centre for Public Health Emergency Operations <<< COUSP-RDC »
+
+Situation Report of Ebola Virus Disease / 17th Epidemic
+
+SitRep MVE N° 002/2026
+
+Country/Province Health Zone Affected Reporting Date Publication Date
+
+RDC/Ituri Mongbwalu, Bunia and Rwampara May 17, 2026 May 18, 2026
+
+!
+340 336 13 246 ND ND ND 0 Alerts Investigated Alerts Confirmed Cases Suspected Cases Confirmed Deaths Bed occupancy rate among confirmed cases Bed occupancy rate among suspected cases Guéris
+
+I.  KEY HIGHLIGHTS
+
+Declaration of the 17th EVD epidemic in the Health Zones of Bunia, Rwampara and Mongbwalu in the province of ITURI by His Excellency the Minister of Public Health, Hygiene and Social Welfare (May 15, 26).
+The response plan for the 17th EVD epidemic is under development.
+Investigation and sampling of a suspected case in Kinshasa, originating from Butembo / North Kivu.
+3 out of 36 Health Zones are affected, including Bunia, Rwampara and Mongbwalu.
+13 cases tested positive out of 20 samples collected in the Rwampara Health Zone for the non-Zaïre Ebola strain (Sudan Ebola virus).
+
+Sitrep Ebola Virus Disease / RDC / N°002/2026 Page 1
+
+II. CONTEXT AND JUSTIFICATION
+
+The COUSP/DRC picked up an alert signaling clustered deaths of unknown etiology in the Mongbwalu Health Zone (90 km from Bunia), Djugu territory in the Ituri province, located in the eastern part of the Democratic Republic of Congo.
+A preliminary health signal dated May 05, 2026, from health personnel in the Mongbwalu health zone, was officially notified on May 8, following reports of unexplained clustered deaths (50 deaths via social networks).
+Between April 1 and May 13, 2026, 261-280 suspected and probable cases, including 100 deaths (55 in-hospital and 45 community deaths in the Mongbwalu health zone), were reported, among whom were 4 deaths, all health professionals.
+All these cases originated from the Health Zones (HZ) of Mongbwalu, Rwampara, and Bunia.
+The outbreak is located in the Shun Quarter (or Sun 1) in Mongbwalu (Alimasi avenues 1 and 2).
+The event appears to have occurred in a context of strong suspicion of a community epidemic, initially characterized by rapid and unexplained deaths, with some cases linked to risky body handling practices and funeral rituals, as well as prayer groups.
+Following a review of in-hospital deaths, common clinical signs such as fever, headache, vomiting, intense physical asthenia in the majority of cases, and dyspnea, hematemesis, epistaxis, and blackish vomiting in others were noted.
+Investigations conducted by the EIR allowed for the collection of 28 samples from suspected cases.
+Initially, preliminary tests performed at INRB/Bunia were all negative for Ebola zaire, dengue, Rotavirus, Cholera, Malaria, Yersinia pestis, MPOX, and COVID-19, before 13 of these samples were sent to INRB/Kinshasa for further analysis.
+As of May 14, 2026, 8 cases tested positive for the Bundibugyo/Uganda strain of Ebola virus disease after sequencing.
+Thus, confirming the 17th epidemic of Ebola virus disease in the DRC.
+
+II. UPDATE ON THE EPIDEMIOLOGICAL SITUATION
+
+For the period April 1 to May 14, 2026, 256 patient records were identified at the HGR of Mongbwalu, including 141 cases in April and 115 cases in May.
+A total of 57 deaths were recorded, including 34 in April and 23 in May.
+Following a meeting with the five Health Area Coordinators (IT) of CECA 20, Notre Dame, Abelkozo, Ituri, and Mongbwalu, 45 community deaths were reported, including 26 in CECA 20 and 19 in Mongbwalu.
+Among these deaths, 15 occurred in the same family in the Mongbwalu Health Area, including 5 in Bunia, following a family gathering, over a period of two weeks.
+The deceased individuals presented with the same clinical picture of headache, fever, and vomiting.
+According to the community, these deaths are linked to a story called "Tumu," related to fetishes that were allegedly burned by a pastor, leading, according to local beliefs, to his death and that of his wife.
+The situation is currently under investigation by the team.
+
+Sitrep Ebola Virus Disease / RDC / N°002/2026 Page 2
+
+Spatial distribution of affected Health Zones
+
+[PHOTO]
+
+Figure 1: Cartography of Health Zones affected in terms of suspected cases (+ confirmed)
+
+Cumul of cases as of May 15, 2026
+
+TABLE_1 \| Indicators \| ZS Mongbwalu \| ZS Rwampara \| ZS Bunia \| Total \| \|---\|---\|---\|---\|---\| \| Alerts received \| 256 \| 72 \| 12 \| 340 \| \| Investigated cases \| 256 \| 72 \| 8 \| 336 \| \| Suspected cases sampled \| 7 \| 25 \| 0 \| 32 \| \| Confirmed Cases \| 0 \| 13 \| 0 \| 13 \| \| Probable Cases \| 57 \| 27 \| 3 \| 87 \| \| Suspected cases in isolation \| 3 \| 5 \| 4 \| 12 \| \| Suspected cases awaiting sampling \| 0 \| 5 \| 6 \| 11 \|
+
+III. ACTIVITIES CARRIED OUT
+
+COORDINATION Held CGUS meetings with the Mayor of the Mongbwalu zone.
+Held a bipartite meeting: WHO and Provincial Government.
+Held 2 COUSP Provincial meetings.
+The Incident Action Plan (PAI) is under development.
+Held a National COUSP meeting on the emergency situation.
+
+Sitrep Ebola Virus Disease / RDC / N°002/2026 Page 3
+
+ IV. EPIDEMIOLOGICAL SURVEILLANCE Official notification of the alert on May 8, 2026, following rumors of clustered deaths.
+     Updating the epidemiological situation and linear lists of suspected and probable cases.
+     Sampling, analysis, and shipping of samples to INRB.
+
+  V.  LABORATORY The first thirteen samples collected, 2 of which were analyzed by RDT, yielded negative results (Dengue, MPOX, Malaria, Yesinia pestis, COVID-19, Rotavirus, and Cholera).
+
+VII. INFECTION PREVENTION AND CONTROL (IPC/WASH) IPC evaluation, Abelkozo Health Center (score 7%), HGR Mongbwalu (score 34%).
+
+ IX. RISK COMMUNICATION AND COMMUNITY ENGAGEMENT Initial sensitization of community leaders and religious leaders to counter rumors of "mystical illness."
+     Drafting of the military governor's message regarding the prevention of Ebola virus disease, which is causing deaths in this province.
+     Development of educational messages, tailored to target audiences, on the prevention of this IPC disease.
+     Continuing evaluations of the conditions for implementing Prevention and Control of Infections in healthcare facilities.
+     Logistics: Preparatory meeting for logistical needs for all pillars.
+
+  X.  SECURITY Daily security monitoring.
+
+XII. CHALLENGES AND GAPS Lack of proper isolation facilities, development of PAI and designation of SGI.
+     Lack of IPC supplies, sampling kits.
+     Need for CREC to manage community rumors.
+     Un-trained personnel in IPC, sampling, transport and storage of samples, surveillance, and management of potential epidemic diseases.
+     Lack of triage at HGR Mongbwalu and Health Centers.
+     Complete EDS implementation.
+     Urgent need for standardized CTE in the 3 affected Health Zones.
+
+Sitrep Ebola Virus Disease / RDC / N°002/2026 Page 4
+
+XIII. PERSPECTIVES Organize and standardize Dignified and Secure Burials (EDS) to neutralize the source of contamination represented by bodies.
+      IPC kits, sample collection, and transport.
+      Training of providers on epidemiological surveillance, IPC, CREC.
+      Strengthen community-based surveillance.
+      Increase epidemiological surveillance tools, communication.
+      Identification, rehabilitation, and/or refurbishment of care facilities.
+      Strengthen epidemiological surveillance at entry points.
+      Initiate immediate cross-border coordination with Uganda and South Sudan to monitor population movements at the borders.
+      Activation of the Public Health Emergency Operations Centre.
+
+[PHOTO] [PHOTO] [PHOTO]
+
+Sitrep Ebola Virus Disease / RDC / N°002/2026 Page 5
+
+FOR ANY ADDITIONAL INFORMATION, PLEASE CONTACT
+
+For the National Institute of Public Health (INSP) of the DRC INSP Director General Dr MWAMBA KAZADI Dieudonné Tel.: +243 816 040 145 Email: dieudonnemwambakazadi@gmail.com COU-SP Coordinator Prof NGANDU Christian Tel.: +243998091915 Email: nganduchristian@ymail.com L'Incident Manager SGI MVE Epi17 Email: For the World Health Organization (WHO/DRC) WHO Representative ai in DRC Dr Email: @who.int WHO Incident Manager in the MVE response Email: @who.int WHO EPR Cluster Team Lead in DRC Dr Mouctar Diallo Email: dialloam@who.int
+
+[PHOTO]
+
+Sitrep Ebola Virus Disease / RDC / N°002/2026 Page 6

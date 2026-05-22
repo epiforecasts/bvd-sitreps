@@ -11,12 +11,10 @@ listing:
 This website holds English translated outbreak situation reports for the 2026 Ebola-BVD outbreak.
 These are provided by the Centre d'opérations d'urgence de santé publique (COUSP) / L'Institut National de Santé Publique (INSP)
 
-- Available at: [INSP Sitreps](https://insp.cd/ebola-17eme-epidemie/)
+- Source: [INSP Sitreps](https://insp.cd/ebola-17eme-epidemie/)
 
-This work is an aggregation of public data and I have no involvement in the source data.
+This work is an aggregation of public data and we have no involvement in the source data.
 Many thanks to the authors and those providing public access to the INSP sitreps.
-
----
 
 ## Data archive
 
@@ -31,8 +29,6 @@ The downloaded source PDFs are archived at:
 
 - [PDF archive](https://github.com/kathsherratt/bvd-sitreps/tree/main/data/pdf)
 
----
-
 ## User guide
 
 The intention is to provide an English translated, machine-readable, time-stamped archive of sitrep information and data.
@@ -42,12 +38,14 @@ The intention is to provide an English translated, machine-readable, time-stampe
 - Data tables are parsed programatically into structured [csv files](https://github.com/kathsherratt/bvd-sitreps/tree/main/data/csv)
 - All code is available, and contributions welcome: [codebase](https://github.com/kathsherratt/bvd-sitreps)
 
-Important notes:
-
+::: {.callout-caution}
 - This is an aggregation of public data: we are not affiliated with INSP in any way
 - All translation and conversion from PDF including English translation is via Google Gemini AI
-  - This is likely to contain errors, mistranslations and could lead to misinterpretations. I recommend checking the original source before relying on the automated translation.
+  - This is likely to contain errors, mistranslations and could lead to misinterpretations.
+    I recommend checking the original source before relying on the automated translation.
   - Please flag if you spot errors or mistranslations
-- Sitrep PDFs contain contact details for INSP and relevant data owners. Please refer to these for data-specific questions.
+- Sitrep PDFs contain contact details for INSP and relevant data owners.
+  Please refer to these for data-specific questions.
+:::
 
 We welcome feedback, suggestions, and collaboration - please [contribute directly](https://github.com/kathsherratt/bvd-sitreps/issues) or [get in touch](mailto:katharine.sherratt@lshtm.ac.uk).

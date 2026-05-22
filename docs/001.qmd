@@ -3,41 +3,38 @@ title: Sitrep 001
 sitrep: 001
 date: 2026-05-15
 ---
-**CAUTION: converted with Google Gemini**
+
+::: {.callout-caution}
+Automatically converted and translated with Google Gemini with minimal human oversight
+:::
 
 Ebola Virus Disease Situation Report
 
-Democratic Republic of Congo
-Ministry of Public Health, Hygiene and Social Welfare
+Democratic Republic of Congo Ministry of Public Health, Hygiene and Social Welfare
 
 National Institute of Public Health
 
-Public Health Emergency Operations Center
-<<< COUSP-RDC >>>
+Public Health Emergency Operations Center <<< COUSP-RDC >>>
 
 Situation Report of the Ebola Virus Disease Outbreak/17th epidemic
 
-Country/Province
-RDC/Ituri
+Country/Province RDC/Ituri
 
-Health Zone concerned
-Mongbwalu, Bunia and Rwampara
+Health Zone concerned Mongbwalu, Bunia and Rwampara
 
-Reporting date
-May 14, 2026
+Reporting date May 14, 2026
 
-Publication date
-May 15, 2026
+Publication date May 15, 2026
 
-SitRep MVE No. 001/2026
+SitRep MVE No.
+001/2026
 
-TABLE_1
-| | | | | | | |
-|---|---|---|---|---|---|---|
-| 261 | 8 | 246 | 4 | ? | ? | ? |
-| Alert | Confirmed Cases | Suspect Cases | Confirmed Deaths | Bed Occupancy Rate (Confirmed Cases) | Bed Occupancy Rate (Suspect Cases) | Recovered |
+TABLE_1 \| \| \| \| \| \| \| \| \|---\|---\|---\|---\|---\|---\|---\| \| 261 \| 8 \| 246 \| 4 \| ?
+\| ?
+\| ?
+\| \| Alert \| Confirmed Cases \| Suspect Cases \| Confirmed Deaths \| Bed Occupancy Rate (Confirmed Cases) \| Bed Occupancy Rate (Suspect Cases) \| Recovered \|
 
-I. HIGHLIGHTS
+I.  HIGHLIGHTS
 
 3 Health Zones (ZS) out of 36 are affected, including Bunia, Rwampara and Mongbwalu.
 8 confirmed cases including 4 deaths.
@@ -47,32 +44,28 @@ Context
 
 The COUSP/RDC picked up an alert signaling clustered deaths of unknown etiology in the Health Zone of Mongbwalu (90 km from Bunia), Djugu territory in the Ituri province, which is located in the eastern part of the Democratic Republic of Congo.
 
-A preliminary health signal dated May 5, 2026, from health personnel in the Mongbwalu health zone preceded official notification on May 8, following reports of unexplained clustered deaths (50 deaths via social media). Between April 1 and May 13, 2026, 261-280 suspected and probable cases, including 100 deaths (55 hospitalized and 45 community deaths in the Mongbwalu health zone), were reported, among whom 4 deaths were health workers. All these cases originated from the Health Zones (ZS) of Mongbwalu, Rwampara, and Bunia. The outbreak epicenter is located in the Shun Quarter (or Sun 1) in Mongbwalu (Avenues Alimasi 1 and 2).
+A preliminary health signal dated May 5, 2026, from health personnel in the Mongbwalu health zone preceded official notification on May 8, following reports of unexplained clustered deaths (50 deaths via social media).
+Between April 1 and May 13, 2026, 261-280 suspected and probable cases, including 100 deaths (55 hospitalized and 45 community deaths in the Mongbwalu health zone), were reported, among whom 4 deaths were health workers.
+All these cases originated from the Health Zones (ZS) of Mongbwalu, Rwampara, and Bunia.
+The outbreak epicenter is located in the Shun Quarter (or Sun 1) in Mongbwalu (Avenues Alimasi 1 and 2).
 
 The event appears to have occurred in a context of strong suspicion of a community epidemic, initially marked by rapid and unexplained deaths, some cases being linked to risky body handling practices and funeral rituals, and prayer groups.
 
 Following a review of hospitalized deaths, common clinical signs such as fever, headache, vomiting, severe physical asthenia in the majority of cases, and dyspnea, hematemesis, epistaxis, and blackish vomit in other cases were noted.
 
-Investigations conducted by the EIR as of [date not specified] led to the collection of 28 samples from suspected cases. Initially, preliminary tests carried out at INRB/Bunia were all negative for Ebola Zaire, Dengue, Rotavirus, Cholera, Malaria, Yersinia pestis, MPOX, and COVID-19, before 13 of these samples were sent to INRB/Kinshasa.
+Investigations conducted by the EIR as of [date not specified] led to the collection of 28 samples from suspected cases.
+Initially, preliminary tests carried out at INRB/Bunia were all negative for Ebola Zaire, Dengue, Rotavirus, Cholera, Malaria, Yersinia pestis, MPOX, and COVID-19, before 13 of these samples were sent to INRB/Kinshasa.
 
-As of May 14, 2026, 8 cases tested positive for Ebola virus disease (Bundibugyo/Uganda strain) after tests conducted at INRB Kinshasa. This will be the 17th epidemic of Ebola virus disease in the DRC.
+As of May 14, 2026, 8 cases tested positive for Ebola virus disease (Bundibugyo/Uganda strain) after tests conducted at INRB Kinshasa.
+This will be the 17th epidemic of Ebola virus disease in the DRC.
 
 II. EPIDEMIOLOGICAL SITUATION UPDATE
 
-From April 1 to May 13, 2026, 246 suspected cases including 80 deaths were reported, among whom 4 deaths were health workers. All these cases originated from the Health Zones (ZS) of Mongbwalu, Rwampara, and Bunia.
+From April 1 to May 13, 2026, 246 suspected cases including 80 deaths were reported, among whom 4 deaths were health workers.
+All these cases originated from the Health Zones (ZS) of Mongbwalu, Rwampara, and Bunia.
 The main epicenter is located in Shun Quarter (or Sun 1) in Mongbwalu, particularly on Alimasi 1 and 2 avenues.
 
-TABLE_2
-| Indicator | Value |
-|---|---|
-| Confirmed Ebola Cases | 8 |
-| Samples to be collected | 4 |
-| Estimated Suspect/Probable Cases | 246 |
-| Hospital Deaths HGR Mongbwalu | 55 |
-| Community Deaths Mongbwalu | 2 |
-| Health Personnel Deceased | 24 |
-| Identified Contacts | 282 |
-| Affected ZS | 3 |
+TABLE_2 \| Indicator \| Value \| \|---\|---\| \| Confirmed Ebola Cases \| 8 \| \| Samples to be collected \| 4 \| \| Estimated Suspect/Probable Cases \| 246 \| \| Hospital Deaths HGR Mongbwalu \| 55 \| \| Community Deaths Mongbwalu \| 2 \| \| Health Personnel Deceased \| 24 \| \| Identified Contacts \| 282 \| \| Affected ZS \| 3 \|
 
 [PHOTO]
 
@@ -97,7 +90,7 @@ Development of contact lists to initiate tracing.
 Active search for suspected FHA cases at Mongbwalu Hospital.
 Securing of bodies.
 
-V. LABORATORY
+V.  LABORATORY
 
 Thirteen initial samples collected, 2 analyzed by rapid diagnostic test (RDT) with negative results (Dengue, MPOX, Malaria, Yesinia pestis, COVID-19, Rotavirus, and Cholera).
 Biological samples from the 28 suspected cases collected and sent to INRB/Kinshasa for analysis.
@@ -112,7 +105,7 @@ IX. RISK COMMUNICATION AND COMMUNITY ENGAGEMENT
 
 Initial sensitization of community and religious leaders to counter rumors of "mystical disease."
 
-X. SECURITY
+X.  SECURITY
 
 Daily security monitoring.
 
@@ -132,12 +125,14 @@ Organize and standardize Dignified and Secure Burials (EDS) to neutralize the ma
 Establish or strengthen Ebola Treatment Centers (CTE) for early patient management.
 Intensify community engagement to stop mass collective prayers and risky funeral rituals.
 Resolve the crisis of trust between the Health Zone and the population by providing transparent information on biological confirmations.
-Trigger immediate cross-border coordination with Uganda and South Sudan to monitor population movements at the borders. Activation of the Public Health Emergency Operations Center (COUSP) through the National Institute of Public Health (INSP) in response mode, level 1 according to the operations concept.
+Trigger immediate cross-border coordination with Uganda and South Sudan to monitor population movements at the borders.
+Activation of the Public Health Emergency Operations Center (COUSP) through the National Institute of Public Health (INSP) in response mode, level 1 according to the operations concept.
 An appeal for mobilization of technical and financial partners to demonstrate solidarity and alleviate the suffering of populations behind the government's action, as stated: A coordination team, A plan, and A budget.
 Strengthening of epidemiological and biological surveillance in affected and at-risk health zones.
 Holistic and free care for Ebola cases and rapid, strict isolation of suspected or confirmed cases.
 Strengthening of risk communication for the disease and community engagement against this disease in a concerning security context and with a high population density and mobility.
-Immediate deployment of rapid intervention teams (EIR) in a cascading manner to protect and save human lives. Furthermore, the deployment of essential medicines, safe blood, therapeutic molecules, and laboratory reagents and equipment should not be delayed.
+Immediate deployment of rapid intervention teams (EIR) in a cascading manner to protect and save human lives.
+Furthermore, the deployment of essential medicines, safe blood, therapeutic molecules, and laboratory reagents and equipment should not be delayed.
 
 [PHOTO]
 
@@ -145,28 +140,14 @@ Immediate deployment of rapid intervention teams (EIR) in a cascading manner to 
 
 FOR ANY ADDITIONAL INFORMATION, PLEASE CONTACT
 
-For the National Institute of Public Health (INSP) of the DRC
-Director General of INSP
-Dr MWAMBA KAZADI Dieudonné
-Tel.: +243 816 040 145
-E-mail: dieudonnemwambakazadi@gmail.com
+For the National Institute of Public Health (INSP) of the DRC Director General of INSP Dr MWAMBA KAZADI Dieudonné Tel.: +243 816 040 145 E-mail: dieudonnemwambakazadi@gmail.com
 
-COUSP-SP Coordinator
-Prof NGANDU Christian
-Tel.: +243998091915
-E-mail: nganduchristian@ymail.com
+COUSP-SP Coordinator Prof NGANDU Christian Tel.: +243998091915 E-mail: nganduchristian@ymail.com
 
-Incident Manager SGI MVE Epi17
-E-mail:
+Incident Manager SGI MVE Epi17 E-mail:
 
-For the World Health Organization (WHO/DRC)
-Acting Representative of WHO in DRC
-Dr
-E-mail: @who.int
+For the World Health Organization (WHO/DRC) Acting Representative of WHO in DRC Dr E-mail: @who.int
 
-Incident Manager of WHO in the MVE response
-E-mail: @who.int
+Incident Manager of WHO in the MVE response E-mail: @who.int
 
-WHO Team Lead Cluster EPR in DRC
-Dr Mouctar Diallo
-E-mail: dialloam@who.int
+WHO Team Lead Cluster EPR in DRC Dr Mouctar Diallo E-mail: dialloam@who.int
