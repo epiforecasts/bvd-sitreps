@@ -1,6 +1,12 @@
 project:
   type: website
   output-dir: _site
+  # The site is index.qmd plus the English pages. The French corpus is the
+  # record, not a page: rendered as markdown it produced 116 untitled HTML
+  # files and doubled the render.
+  render:
+    - index.qmd
+    - docs/*.qmd
 
 website:
   title: "Ebola BVD 2026: Outbreak Sitreps"
