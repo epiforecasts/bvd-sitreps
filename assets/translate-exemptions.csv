@@ -1,0 +1,3 @@
+id,fr,en,reason
+042,2.3,2 3,"French caption `Figures 2,3 et 4` reads as the single number 2,3; the English `Figures 2, 3 and 4` reads as two. Figure numbering, not a datum."
+113,24,7,"`fonctionnel 24h/24` is rendered `operational 24/7`, the English idiom for the same thing."
