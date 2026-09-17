@@ -1,0 +1,422 @@
+---
+title: "SitRep 112"
+subtitle: "Report date 2026-09-03"
+date: 2026-09-03
+sitrep: "112"
+pdf_md5: 244bf2e2e849b46d15147ac1b44a9c5f
+model: agy:gemini-3.8-flash-low
+translate_key: "244bf2e2e849b46d15147ac1b44a9c5f:c95d366fc47db0685de85290691c3ec5:2b47b40403025e32e12927f461c2f1e4:gemini-3.1-pro-preview:da5ff90cf9667d64f15f0f0a0c7b6c29:agy:gemini-3.8-flash-low"
+lang: en
+---
+
+::: {.callout-caution}
+Machine translation from the French original with Google Gemini, with no human review. Check the original before relying on any figure.
+:::
+
+PRESIDENTIAL TASK FORCE EBOLA 17
+Ministère de la Santé Publique, Hygiène et Prévoyance Sociale
+INSP (National Institute of Public Health)
+COUSP (public health emergency operations centre)
+MVE17 Incident Management System
+
+Situation Report on the 17th Outbreak of EBOLA Virus Disease /DRC
+
+SitRep N°112/MVEBDB/03/09/2026
+
+Reporting date: 03 September 2026 Publication date: 04 September 2026
+
+HIGHLIGHTS (last 24h)
+
+On 03 September 2026, 94 new confirmed cases including 17 community deaths of Ebola Virus Disease (MVE (Ebola virus disease)) were recorded in the provinces of Ituri (60 cases), Nord-Kivu (25 cases) and Haut Uélé (9).
+In addition, 6 intra-CTE (Ebola treatment centre) deaths were recorded.
+No new health zone affected over the last 24h with a decrease of 31,3 % in the overall notification of alerts.
+
+[PHOTO]
+
+CUMULATIVE CASES 6 436
+
+CUMULATIVE CONFIRMED DEATHS 3 095
+
+CASE FATALITY RATE 48,1%
+
+PATIENTS IN ISOLATION/CTE 738
+
+CUMULATIVE RECOVERIES 1 495
+
+CONTACT TRACING RATE (Of The Day) 88,5 %
+
+Affected provinces and Affected health zones
+
+6 Affected provinces Haut-Uélé, Ituri, Nord-Kivu, Sud-Kivu, Tshopo & Bas Uélé
+
+60 Affected health zones out of 151 (39,7%)
+
+246 Affected health areas Out of 3104 (7,9%)
+
+Summary of key points over the last 24 hours
+
+Over the last 24 hours, sustained notification is noted with 94 new confirmed cases including 17 community deaths of Ebola Virus Disease (MVE) notified in the provinces of Ituri (60 cases), Nord-Kivu (25) and Haut Uélé (9).
+However, 6 intra-CTE deaths were recorded, including 3 in Ituri, 2 in Nord-Kivu and 1 in Haut Uélé, bringing the number of deaths of the day to 23.
+
+In addition, 20 patients were discharged recovered after obtaining two negative results for MVE (18 in Ituri and 2 in Nord-Kivu).
+
+Since the start of the outbreak until 03 September 2026, 6 436 confirmed cases including 3 095 deaths have been reported in DRC, representing a case fatality rate of 48,1 %.
+The epicentre remains the province of Ituri with 81,2 % of confirmed cases recorded in the country and concentrates 63,8 % of new confirmed cases reported over the last 24h.
+
+Across the six affected provinces, 60 health zones out of 151 (39,7%) remain affected.
+Ituri with 28 affected health zones out of 36, followed by Nord-Kivu (15/34), Haut-Uélé (6/13), Tshopo (7/23), Sud-Kivu (1/34) and Bas Uélé (3/11).
+
+
+| Province | New confirmed cases (24h) | Confirmed cases | Deaths (confirmed) | Case fatality rate | Affected health zones |
+|---|---|---|---|---|---|
+| Ituri | 60 | 5224 | 2 355 | 45,1% | 28/36 (77,8 %) |
+| Nord-Kivu | 25 | 938 | 623 | 66,4% | 15/34 (44,1 %) |
+| Haut-Uélé | 9 | 245 | 104 | 42,4% | 6/13 (46,1 %) |
+| Tshopo | 0 | 22 | 9 | 40,9% | 7/23 (30,4 %) |
+| Sud-Kivu | 0 | 3 | 1 | 33,3% | 1/34 (2,9 %) |
+| Bas Uélé | 0 | 4 | 3 | 75,0% | 3/11(27,3%) |
+| Total | 94 | 6 436 | 3 095 | 48,1% | 60/151 (39,7 %) |
+
+: Table 1. Distribution of confirmed cases and deaths by affected province, as of 03 September 2026.
+
+
+
+| Province / Health zone | Cumulative number Cases (n) | Cumulative number Deaths (n) | Cumulative number Case fatality rate | Situation of the day (24h) New Cases | Situation of the day (24h) Community deaths (Swab+) | Situation of the day (24h) Confirmed intra-CTE deaths | Situation of the day (24h) Total confirmed deaths |
+|---|---|---|---|---|---|---|---|
+| Ituri | 5224 | 2355 | 45,1% | 60 | 10 | 3 | 13 |
+| Ituri Adja | 11 | 1 | 9,1% |  |  |  | 0 |
+| Ituri Aru | 8 | 6 | 75,0% |  |  |  | 0 |
+| Ituri Ariwara | 8 | 2 | 25,0% |  |  |  | 0 |
+| Ituri Aungba | 12 | 5 | 41,7% |  |  |  | 0 |
+| Ituri Bambu | 170 | 36 | 21,2% | 2 | 0 |  | 0 |
+| Ituri Boga | 2 | 2 | 100,0% |  |  |  | 0 |
+| Ituri Bunia | 1455 | 449 | 30,9% | 11 | 2 |  | 2 |
+| Ituri Damas | 30 | 9 | 30,0% | 2 | 0 |  | 0 |
+| Ituri Drodro | 14 | 7 | 50,0% |  |  |  | 0 |
+| Ituri Fataki | 77 | 30 | 39,0% |  |  |  | 0 |
+| Ituri Gethy | 6 | 2 | 33,3% |  |  |  | 0 |
+| Ituri Kambala | 2 | 0 | 0,0% |  |  |  | 0 |
+| Ituri Kilo | 32 | 12 | 37,5% |  |  |  | 0 |
+| Ituri Komanda | 98 | 66 | 67,3% | 6 | 4 |  | 4 |
+| Ituri Lita | 231 | 121 | 52,4% | 6 | 0 |  | 0 |
+| Ituri Logo | 12 | 5 | 41,7% | 1 | 0 |  | 0 |
+| Ituri Lolwa | 22 | 5 | 22,7% |  |  |  | 0 |
+| Ituri Mahagi | 4 | 1 | 25,0% |  |  |  | 0 |
+| Ituri Mambasa | 17 | 7 | 41,2% |  |  |  | 0 |
+| Ituri Mandima | 36 | 21 | 58,3% |  |  |  | 0 |
+| Ituri Mangala | 278 | 138 | 49,6% | 7 | 0 |  | 0 |
+| Ituri Mongbwalu | 623 | 288 | 46,2% | 7 | 0 |  | 0 |
+| Ituri Nia-Nia | 221 | 113 | 51,1% | 3 | 0 |  | 0 |
+| Ituri Nizi | 683 | 267 | 39,1% | 8 | 1 |  | 1 |
+| Ituri Nyankunde | 124 | 35 | 28,2% |  |  |  | 0 |
+| Ituri Rimba | 11 | 4 | 36,4% |  |  |  | 0 |
+| Ituri Rwampara | 977 | 344 | 35,2% | 6 | 3 |  | 3 |
+| Ituri Tchomia | 60 | 25 | 41,7% | 1 | 0 |  | 0 |
+| Ituri A ventiler | NA | 354 | NA | NA | NA | 3 | 3 |
+| Nord-Kivu | 938 | 623 | 66,4% | 25 | 7 | 2 | 9 |
+| Nord-Kivu Beni | 156 | 115 | 73,7% | 5 | 5 | 1 | 6 |
+| Nord-Kivu Biena | 1 | 1 | 100,0% |  |  |  | 0 |
+| Nord-Kivu Butembo | 193 | 136 | 70,5% | 7 | 1 | 1 | 2 |
+| Nord-Kivu Goma | 1 | 0 | 0,0% |  |  |  | 0 |
+| Nord-Kivu Kalunguta | 17 | 8 | 47,1% | 1 | 1 |  | 1 |
+| Nord-Kivu Katwa | 427 | 278 | 65,1% | 11 | 0 |  | 0 |
+| Nord-Kivu Kyondo | 16 | 12 | 75,0% |  |  |  | 0 |
+| Nord-Kivu Lubero | 4 | 3 | 75,0% |  |  |  | 0 |
+| Nord-Kivu Mabalako | 7 | 5 | 71,4% |  |  |  | 0 |
+| Nord-Kivu Manguredjipa | 2 | 1 | 50,0% |  |  |  | 0 |
+| Nord-Kivu Masereka | 13 | 5 | 38,5% | 1 | 0 |  | 0 |
+| Nord-Kivu Musienene | 85 | 48 | 56,5% |  |  |  | 0 |
+| Nord-Kivu Mutwanga | 2 | 2 | 100,0% |  |  |  | 0 |
+| Nord-Kivu Oicha | 8 | 6 | 75,0% |  |  |  | 0 |
+| Nord-Kivu Vuhovi | 6 | 3 | 50,0% |  |  |  | 0 |
+| Haut-Uélé | 245 | 104 | 42,4% | 9 | 0 | 1 | 1 |
+| Haut-Uélé Boma Mangbetu | 29 | 14 | 48,3% | 2 | 0 |  | 0 |
+| Haut-Uélé Gombari | 3 | 1 | 33,3% |  |  |  | 0 |
+| Haut-Uélé Isiro | 89 | 36 | 40,4% | 3 | 0 | 1 | 1 |
+| Haut-Uélé Pawa | 39 | 22 | 56,4% |  |  |  | 0 |
+| Haut-Uélé Rungu | 2 | 1 | 50,0% |  |  |  | 0 |
+| Haut-Uélé Wamba | 83 | 30 | 36,1% | 4 | 0 |  | 0 |
+| Tshopo | 22 | 9 | 40,9% | 0 | 0 | 0 | 0 |
+| Tshopo Bafwasende | 2 | 0 | 0,0% |  |  |  | 0 |
+| Tshopo Kabondo | 4 | 1 | 25,0% |  |  |  | 0 |
+| Tshopo Lubunga | 1 | 0 | 0,0% |  |  |  | 0 |
+| Tshopo Makiso-Kisangani | 10 | 5 | 50,0% |  |  |  | 0 |
+| Tshopo Mangobo | 3 | 2 | 66,7% |  |  |  | 0 |
+| Tshopo Tshopo | 1 | 0 | 0,0% |  |  |  | 0 |
+| Tshopo Wanie-Rukula | 1 | 1 | 100,0% |  |  |  | 0 |
+| Sud-Kivu | 3 | 1 | 33,3% | 0 | 0 | 0 | 0 |
+| Sud-Kivu Miti-Murhesa | 3 | 1 | 33,3% |  |  |  | 0 |
+| Bas Uélé | 4 | 3 | 75,0% | 0 | 0 | 0 | 0 |
+| Bas Uélé Buta | 1 | 1 | 100,0% |  |  |  | 0 |
+| Bas Uélé Viadana | 1 | 0 | 0,0% |  |  |  | 0 |
+| Bas Uélé Ganga | 2 | 2 | 100,0% |  |  |  | 0 |
+| Total | 6436 | 3095 | 48,1% | 94 | 17 | 6 | 23 |
+
+: Table 2. Distribution of confirmed cases and deaths by province and health zone, as of 03 September 2026
+
+
+*These are confirmed deaths that occurred in the various CTEs of the province and are currently being broken down to be classified by health zone.
+
+NA: Not Applicable.
+
+** These deaths were recorded in the various CTEs of the province of Ituri and are currently being broken down.
+
+
+| DPS | New Alerts Received Live | New Alerts Received Deceased | Total alerts | Alerts verified and validated (suspected case) Live | Alerts verified and validated (suspected case) Deceased | Alerts verified and invalidated (non-suspected case) Live | Alerts verified and invalidated (non-suspected case) Deceased | Number of suspects investigated | Number of suspects investigated and transferred to CT/CTE (of the day) |
+|---|---|---|---|---|---|---|---|---|---|
+| Haut-Uélé | 20 | 4 | 24 | 18 | 3 | 2 | 1 | 21 | 8 |
+| Bas Uélé | 39 | 1 | 40 | 16 | 1 | 23 | 0 | 17 | 0 |
+| Ituri | 659 | 81 | 740 | 140 | 53 | 280 | 6 | 193 | 126 |
+| Nord-Kivu | 808 | 41 | 849 | 70 | 39 | 719 | 2 | 109 | 56 |
+| Sud-Kivu | ND | ND | NA | ND | ND | ND | ND | ND | ND |
+| Tshopo | 139 | 0 | 139 | 5 | 0 | 134 | 0 | 5 | 0 |
+| Total Général | 1665 | 127 | 1 792 | 249 | 96 | 1158 | 9 | 345 | 190 |
+
+: Table 3. Situation of alerts notified by province, as of 03 September 2026
+
+
+[FIGURE: Figure 1. Trend of cases by date of symptom onset over the last 21 days]
+
+[FIGURE: Figure 2. Spatial distribution of confirmed cases (24h and cumulative) by health zone.]
+
+## 1. COORDINATION
+
+### 1.1. Main Actions
+
+• Monitoring and supporting response actions in all affected provinces.
+
+## 2. RESPONSE ACTIONS BY PILLAR
+
+### 1.1.1. Epidemiological surveillance
+
+### 1.1.2. Main Actions
+
+On 03 September 2026, 1 792 alerts were recorded in the 5 reporting provinces (Sud-Kivu did not report), 1 512 (84,4%) were verified.
+Thus, 345 alerts were validated as suspected cases.
+The latter were all investigated (100 %) and 190 of them were transferred to CT (transit centre)/CTE (Table 3).
+A slight improvement was observed in the proportion, namely 88,5 % (21 678 seen out of 24 497 to be followed) in contrast to the day before (86,5%) and remains above the 85 % threshold; 85,1% in Nord-Kivu (7 712/9 060), 91,1% in Ituri (12 173/ 13 362), 92,1% in Haut Uélé (1 449/1 573), 69,6% in Bas Uélé (103/148) and 68,1 % in Tshopo (241/354).
+
+### 1.1.3. Challenges
+
+Persistence of weak contact tracing around confirmed cases in the province of Bas Uélé, linked to an insufficiency of teams dedicated to these activities.
+
+### 1.2. Point on points of control and points of entry activities (PoC/PoE)
+
+### 1.2.1. Main actions
+
+Ten (10) alerts were notified at the various PoE/PoC on 03 September 2026, of which two were validated in Ituri: one live alert at the PoC of Malabo (ZS (health zone) Nyankunde), transferred to the CTE of Nyankunde, and one lifeless body intercepted at the PoC of Mudzibala (ZS Bunia), whose EDS is underway.
+In Nord-Kivu, four of the five alerts were validated and referred (PoC Mususa, Maboya and Mukulia).
+No alerts were notified in Haut-Uélé, where the PoCs of Magambe and Aero Matari were equipped with speakers and megaphones by IOM.
+The three alerts from Bas-Uélé were invalidated.
+
+
+| Indicators | Ituri | Nord-Kivu | Sud-Kivu | Tshopo | Haut-Uélé | Bas-Uélé | Overall |
+|---|---|---|---|---|---|---|---|
+| Report completeness | 92 % | 100 % | 55,5 % | 83 % | 64 % | ND | 86,3 % |
+| % of strategic PoE/PoC functional | 9,1 % | NA | NA | NA | NA | NA | 9,1 % |
+| Number of persons passing through PoE/PoC | 128 085 | 85 790 | 8 848 | 14 924 | 11 832 | 5 690 | 255 169 |
+| % of travellers screened | 98,0 % | 98,0 % | 98,9 % | 99,0 % | 98,0 % | 98,0 % | 98,1 % |
+| % of travellers who washed hands | 98,0 % | 98,0 % | 98,9 % | 99,0 % | 98,0 % | ND | 98,1 % |
+| % of travellers sensitised | 99,0 % | 98,0 % | 100 % | 100 % | 98,0 % | ND | 98,7 % |
+| Number of alerts notified | 2 | 5 | 0 | 0 | 0 | 3 | 10 |
+| Number of live alerts validated (suspected cases) | 1 | 4 | 0 | 0 | 0 | 0 | 5 |
+| Number of lifeless bodies intercepted this day | 1 | 0 | 0 | 0 | 0 | 0 | 1 |
+| % of suspected cases transferred to CT/CTE | 100 % | 100 % | NA | NA | NA | NA | 100 % |
+| % of lifeless bodies swabbed/secured | 0 % | NA | NA | NA | NA | NA | 0 % |
+| % of suspected cases investigated within 24 h | 100 % | 100 % | NA | NA | NA | NA | 100 % |
+
+: Table 4. Situation of key indicators of PoC/PoE by province, as of 03September 2026
+
+
+### 1.2.2. Challenges
+
+PoE/PoC operationalisation not optimal and low reporting completeness in Sud-Kivu (55,5 %) and Haut-Uélé (64,0 %) ; in Ituri, 1 (9,1 %) of the 11 strategic PoE/PoC remains functional without interruption: the PoC of Avakubi remains non-functional for security reasons and the PoCs Nzebi, Frigo, Galay and Bey are on strike due to non-payment.
+In Haut-Uélé, 4 PoCs (Dusu, Apodo, Aungba and Gossamu) did not report and the PoC of Magambe records 209 screening refusals (5 %).
+In Sud-Kivu, the lack of an isolation facility at the PoEs of Kavimvira, Kalundu Port SNCC and Baraka remains.
+In Tshopo, 18 PoCs activated out of 30 planned and in Bas-Uélé, insufficient mobility and connectivity persists.
+
+### 1.3. Laboratory
+
+### 1.3.1. Main actions
+
+• Ituri: 60 new positive results (50 live and 10 deaths) out of 287 new samples received and analysed (positivity: 20,9%).
+
+• Nord-Kivu: 25 new positive results (18 live and 7 deaths) out of 176 samples analysed (positivity of 14,2%).
+
+• Haut-Uélé: 9 new positive results (9 live) out of 37 samples analysed (positivity: 24,3%).
+
+• Bas-Uélé: 8 samples received and tested (5 live and 3 deaths), all returned negative.
+
+• Tshopo: 6 analysed samples received and tested (6 live), all returned negative.
+
+### 1.4. Infection Prevention and Control (PCI (infection prevention and control)/EDS)
+
+### 1.4.1. Main actions
+
+• In Ituri, 20 rings were opened around the 27 cases taken into account by the pillar (74,1 %), 140 households decontaminated out of 151 identified (92,7 %) and 7 ESS/FOSA decontaminated out of 9 (77,8 %) ; 15 PCI kits were provided to households.
+As for EDS, 83 alerts were recorded, including 10 carried over from the day before, 62 EDS conducted and 48 swabbed bodies were conducted,
+
+• In Nord-Kivu, the EDS pillar received 46 alerts, conducted 41 EDS and swabbed 45 bodies out of 46 (97,8 %), the only failure being linked to community resistance in the AS (health area) of Mataba (ZS Kalunguta) ; 21 files are carried over to the following day.
+
+• In Tshopo, no ring could be opened around the 20th case due to community resistance, despite the involvement of the chief medical officer of the zone; 5 rooms of HGR (general referral hospital) Kabondo were decontaminated.
+Monitoring and support covered 13 ESS in 5 health zones (Makiso-Kisangani, Kabondo, Tshopo, Lubunga and Mangobo), with the briefing of 51 providers and the installation of 7 triage units; 46 of the 79 ESS under surveillance (58 %) have PCI kits and a triage circuit.
+
+In Bas-Uélé, activities focused on setting up functional triage at HGR Buta, briefing 23 members of the BCZ including 6 hygienists in Likati, briefing 38 providers and 45 hygienists in Buta and Viadana, as well as the PCI assessment of 4 ESS of the ZS of Viadana (HGR Viadana 47 %, CSR Limba 40 %, CS Mbana 21 % and CS Vungba 14 %).
+
+### 1.4.2. Challenges
+
+• Weak implementation of PCI standards: in Ituri, the opening of rings remains incomplete (74,1 %, 20/27) and decontamination teams remain insufficient in Fataki, Mangala and Nizi; In Bas-Uélé, no rings opened nor households decontaminated, 6 health zones (Buta, Ganga, Viadana, Titule, Poko and Bondo) remaining untrained in PCI and two HGRs (Ganga and Viadana) without functional triage.
+In Tshopo, community resistance blocks the opening of the ring for the 20th case, PCI inputs remain insufficient in the ESS (only 1 ESS out of 79 has a score above 80 %) and the incinerator of HGR Makiso-Kisangani remains broken down.
+
+### 1.5. Holistic clinical care
+
+### 1.5.1. Main actions
+
+• In Ituri, 53 new admissions in the various dedicated facilities against 66 discharges including 18 recovered.
+Thus, 434 patients are hospitalised for 978 beds, representing an occupancy rate of 44,4 %.
+
+• In Nord-Kivu, 70 new admissions and 78 discharges recorded including 2 recovered; 225 patients are hospitalised expressing an overall bed occupancy rate in CTE/CT that is oversaturated (102,7 % ; 220 available beds).
+
+• In Haut Uélé, 14 new admissions against 7 discharges (4 non-cases, 2 suspected deaths and 1 escape of a confirmed case).
+Thus, 62 patients are hospitalised (49 confirmed and 13 suspects) for 128 beds, representing an occupancy rate of 50,8 %.
+
+• In Tshopo, No new admission was recorded and a confirmed case escaped on D4 of hospitalisation.
+Six (6) patients are in isolation for 25 beds, representing an occupancy rate of 24,0 %
+
+### 1.5.2. Challenges
+
+Low reception capacity and saturation: in Nord-Kivu, CT/CTEs remain oversaturated (102,7 %) and more than half of patients (51,7 %) are cared for in non-standard ESS; in Ituri, the CTE of Lita is saturated for suspects and delay in expanding the sites of Nizi and Bambu.
+In Tshopo, the unavailability of safe blood persists for six days and the technical platform remains insufficient for biochemical and haematological tests; in Bas-Uélé, the lack of standard CTE/CT and ambulance remains.
+
+### 1.6. Vaccination
+
+### 1.6.1. Main actions
+
+Vaccination activities begun in the provinces of Bas Uélé and Tshopo made it possible to vaccinate frontline workers and/or providers.
+In total, 1 834 people were vaccinated with the ERVEBO vaccine, including 1 375 in Tshopo and 459 in Bas Uélé.
+
+### 1.6.2. Challenges
+
+Lack of mobility for vaccination teams in outreach strategy in the province of Haut Uélé;
+
+### 1.7. Continuity of Care
+
+In Bas-Uélé, support to laboratory and surveillance teams for preliminary investigation of cases of deaths becoming increasingly growing in the ZS of Buta (ESS and community); strengthening communication on compassionate treatment for MVE.
+
+### 1.8. Risk communication and community engagement
+
+### 1.8.1. Main actions
+
+• In Ituri, CREC supported the response around the latest confirmed cases in the ZS of Nia-Nia (AS Juhudi), Nizi (AS Heritage) and Lolwa (AS Mabangifo), reaching 1 357 people including 76 women, with the listing of 72 contacts; mass awareness was conducted at a place of mourning in Nia-Nia and the chiefdom of Bahema Banywagi was mobilised in the AS of Motumbi (ZS Lita).
+
+• In Nord-Kivu, 5 980 home visits were conducted reaching 17 624 people; 58 educational talks held with 982 people; organisation of 3 briefings (63 people), 2 advocacy sessions, 3 community dialogues (80 people) and 3 mass communication actions (1 690 people); 3 feedbacks and infodemics resolved within 48 hours out of 7 captured and 153 alerts notified by community actors.
+Interventions in school environments started in hot spot zones.
+
+• In Tshopo, 1 049 people were sensitised (611 women and 438 men); 2 refusals lifted out of 3 identified, 2 rumours clarified and 2 community feedbacks collected; 211 leaflets and 5 banners distributed and 3 articles published by online media; support for supervision of vaccination of PPL (person released from treatment (discharged patient)) against MVE and continuation of training of community relays).
+
+• In Bas-Uélé, briefing and sensitisation of 50 youth representatives of Buta and closure of the training session of 160 youths, civil society members, media professionals and motorcycle taxi drivers with the support of FHI 360; advocacy with the sub-division of EPST of Dingila for compliance with preventive measures in school environments, sensitisation on EDS at the market and university of Monga; intensification of community-based surveillance in the ZS of Aketi.
+
+### 1.8.2. Challenges
+
+Persistence of community resistance: in Ituri, 21 refusals of isolation at the CTE in the ZS of Rwampara, Bunia, Tchomia and Lolwa and 9 bodies not swabbed due to resistance in Bambu, Fataki and Mandima; in Nord-Kivu, reluctance to decontaminate a household in the AS of Katsya (ZS Butembo) and aggression against the team of the ZS of Kalunguta in the AS of Mataba; in Tshopo, resistance blocking the opening of the ring of the 20th confirmed case and persistent resistance to investigations, sample collection and transfers to the CTE.
+
+### 1.9. Mental health and psychosocial support (SMSPS)
+
+### 1.9.1. Main actions
+
+• In Nord-Kivu, 25 new confirmed cases and 139 of the 204 suspected cases benefited from SMSPS interventions; 79 of the 100 result announcements conducted including 20 positive, 45 PPL supported and 40 households accompanied.
+In Haut-Uélé, 24 confirmed cases accompanied, 12 result announcements including 4 positive, 62 accompanying persons and 34 PPL supported.
+In Tshopo, 1 confirmed and 2 suspects accompanied and 2 recovered individuals reintegrated into the response.
+
+### 1.9.2. Challenges
+
+In Haut-Uélé, insufficiency of SMSPS staff in Boma Mangbetu and 19 recovered individuals discharged from the CTE of Isiro without kits; in Tshopo, lack of providers in 3 ZS.
+
+### 1.10. Logistics
+
+### 1.10.1. Main actions
+
+• In Ituri, continuation of site levelling works for the CTE of Mangala and organisation of inter-CTE transfers.
+
+• In Nord-Kivu, 10 calls received for 10 trips conducted and successful (100 %).
+In Tshopo, receipt of PCI inputs from INSP and continuation of construction of the Madula isolation site.
+
+• In Bas-Uélé, support for deployment of the surveillance team for contact tracing, alert verification and active search, and continuation of vaccination of PPL and TPL in the ZS of Buta.
+
+### 1.10.2. Security
+
+### 1.10.3. Main actions
+
+• In Nord-Kivu, security accompaniment of EDS teams for the burial of two confirmed cases and one community death, and coverage of PCI teams in Mabolio and Ngongolio.
+
+### 1.10.4. Challenges
+
+Twenty-one (21) refusals of isolation at the CTE reported in Ituri.
+In Nord-Kivu, resistance of officials to compliance with health protocol at PoCs and reinforced security of the PoC of Vulindi (ZS Butembo).
+
+### 1.11. PSEA (Protection from Sexual Exploitation and Abuse)
+
+### 1.11.1. Main actions.
+
+• In Ituri, 75 workers were briefed on prevention of sexual exploitation, abuse and harassment and signed the code of conduct (ZS Bunia, Aru and Mambasa).
+
+### 1.11.2. Challenges
+
+• Still insufficient coverage of PSEA activities; lack of stakeholder mapping; insufficiency of mass awareness materials; lack of means of transport and IT equipment for the pillar.
+
+MESSAGES CLES
+
+▪ Performance gains achieved in epidemiological investigations (100 % of suspected cases investigated) are consolidating and stability of the daily proportion of contact tracing (88,5%) which remains above the 85,0% threshold.
+
+▪ A total of 94 new confirmed cases including 17 community deaths and 6 intra-CTE were recorded over the last 24 hours, bringing the national cumulative total to 6 436 confirmed cases and 3 095 deaths.
+
+▪ Continuous notification in the provinces of Ituri, Nord-Kivu and Haut-Uélé highlights sustained transmission of the disease at the community level.
+
+▪ Ituri remains the epicentre of the outbreak, concentrating 81,2 % of cumulative confirmed cases and 63,8% of new cases reported over the last 24 hours, while the province of Nord-Kivu holds 26,6% of new cases with the highest case fatality rate.
+
+▪ Strengthening priority interventions (surveillance, care, PCI, logistics and community engagement) remains essential to rapidly interrupt transmission chains.
+
+CHRONOLOGY OF KEY EVENTS
+
+▪ From 24 April to 15 May 2026, the outbreak progressed from the detection of the first suspected cases to biological confirmation of Bundibugyo Ebola virus, leading to the official declaration of the 17th outbreak of Ebola Virus Disease in the Democratic Republic of the Congo.
+
+▪ Between 17 and 18 May 2026, national authorities, with partner support, strengthened the response through the declaration of a public health emergency of national and then continental scope, accompanied by fund mobilisation.
+
+PRESIDENTIAL TASK FORCE EBOLA 17
+Ministère de la Santé Publique, Hygiène et Prévoyance Sociale
+Institut National de Santé Publique
+Centre d’Opérations d’Urgence de Santé Publique
+MVE17 Incident Management System
+
+Director General of INSP
+Dr MWAMBA KAZADI Dieudonné
+E-mail : dieudonne.mwamba@insp.cd
+
+Incident Manager
+Professor Dr AHUKA MUNDEKE Steve
+E-mail : steve.ahuka@unikin.ac.cd
+
+Operations Lead
+Dr Kombe NGWAMA John
+
+Drafting team
+Professor Dr Mulangu Katulumba Félix-Médard
+Dr Katusi Biselenge Jules
+Madame Mayele Afua Marie
+Dr Diur Mananashi Floryan
+Mr Kamuina Kebela John
+
+Contact:
+www.insp.cd
+contact@sgiebola17.org
+
+Toll-free number: 151. www.sante.gouv.cd
+
+## Source
+
+- [Original PDF (French), INSP](https://insp.cd/wp-content/uploads/2026/09/SitRep_MVEBDB_112_03_09_2026-1.pdf)
+- [French transcription](https://github.com/epiforecasts/bvd-sitreps/blob/main/data/corpus/fr/112.md)
+- [112_table_01_tableau_1_repartition_des_cas_et_deces_c](https://github.com/epiforecasts/bvd-sitreps/blob/main/data/csv/112_table_01_tableau_1_repartition_des_cas_et_deces_c.csv)
+- [112_table_02_tableau_2_repartition_des_cas_et_deces_c](https://github.com/epiforecasts/bvd-sitreps/blob/main/data/csv/112_table_02_tableau_2_repartition_des_cas_et_deces_c.csv)
+- [112_table_03_tableau_3_situation_des_alertes_notifiee](https://github.com/epiforecasts/bvd-sitreps/blob/main/data/csv/112_table_03_tableau_3_situation_des_alertes_notifiee.csv)
+- [112_table_04_tableau_4_situation_indicateurs_cles_des](https://github.com/epiforecasts/bvd-sitreps/blob/main/data/csv/112_table_04_tableau_4_situation_indicateurs_cles_des.csv)

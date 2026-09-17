@@ -1,0 +1,237 @@
+---
+title: "SitRep 012"
+subtitle: "Report date 2026-05-26"
+date: 2026-05-26
+sitrep: "012"
+pdf_md5: 53d01f2b3d7c117e4496f06c7d818390
+model: agy:gemini-3.8-flash-low
+translate_key: "53d01f2b3d7c117e4496f06c7d818390:c95d366fc47db0685de85290691c3ec5:2b47b40403025e32e12927f461c2f1e4:gemini-3.1-pro-preview:da5ff90cf9667d64f15f0f0a0c7b6c29:agy:gemini-3.8-flash-low"
+lang: en
+---
+
+::: {.callout-caution}
+Machine translation from the French original with Google Gemini, with no human review. Check the original before relying on any figure.
+:::
+
+Provinces affected (3) ITURI, NORD-KIVU & SUD-KIVU
+Health zones affected (13) ITURI: Aru, Bunia, Kilo, Mongbwalu, Nizi, Nyankunde and Rwampara NORD-KIVU: Butembo, Goma, Oicha, Kalunguta and Katwa SUD-KIVU: Miti-Murhesa
+Reporting date 26 mai 2026
+Publication date 26 mai 2026
+
+[PHOTO]
+
+121 Cumulative confirmed cases
+17* Cumulative deaths among confirmed cases
+1077 Cumulative suspected cases
+246 Cumulative suspected deaths
+ND (not available) Bed occupancy rate among suspected cases
+ND Bed occupancy rate among confirmed cases
+0 Recovered
+ND Number of active cases
+*These deaths are underestimated because diagnostic confirmation is delayed
+
+## 0. HIGHLIGHTS
+
+❑ Sixteen confirmed cases this 26 mai;
+❑ Availability offered by UHNAS at PoE for the deployment of countermeasures across all response sites;
+❑ Cumulative confirmed cases 26 mai 2026: 121 cases including 110 in Ituri, 10 in Nord-Kivu and 1 in Sud-Kivu;
+❑ Spread assessment:
+o ITURI: epicentre with 7/36 ZS (health zone) affected (Aru, Bunia, Kilo, Rwampara, Mongbwalu, Nizi and Nyankunde);
+o NORD-KIVU: 5/35 ZS affected (Goma, Butembo, Kalunguta, Katwa and Oicha);
+o SUD-KIVU: 1/34 ZS affected (Miti-Murhesa);
+❑ 17 confirmed deaths including 10 males (including 9 aged over 15 years and 1 aged under 15 years) and 7 females (including 5 aged over 15 years and 2 aged under 15 years);
+❑ 6 PPL (person released from treatment (discharged patient)) among the confirmed deaths;
+❑ 1 SDB volunteer stoned by the community in Rwampara ZS.
+
+## I. CONTEXT
+
+Ituri Province is located in the north-east of the Democratic Republic of the Congo and shares a long border with Uganda and South Sudan.
+For more than two decades, it has been facing a chronic humanitarian crisis linked to armed conflicts and recurrent population displacements.
+It has an estimated population of more than 8 million inhabitants, among whom are more than one million internally displaced persons.
+In September 2018, this province was affected by an outbreak of Ebola virus disease that was raging in the neighbouring province of Nord-Kivu.
+
+Mongbwalu health zone is one of the 36 health zones in Ituri province.
+Considered as the starting point of the outbreak, it is located in the territory of Djugu where several armed groups operate.
+It is located 70 km from Bunia, the capital of Ituri province, with frequent population movements towards Uganda.
+This locality has the particularity of having several work sites that attract populations coming from other territories of the province and neighbouring provinces.
+
+## II. OUTBREAK HISTORY
+
+On 05 mai 2026, social media reported a surge of deaths of unknown cause with nearly 50 deaths already recorded in Mongbwalu health zone.
+Following the validation of alerts, the Chief Medical Officer of Mongbwalu health zone shared the preliminary investigation report on 09 mai 2026.
+On 11 mai 2026, provincial health authorities organised an emergency meeting and decided to deploy rapid response teams (RRT) to Mongbwalu and Rwampara, which had reported suspected viral haemorrhagic fever deaths among patients admitted to the Centre médical Evangélique de Rwampara, originating from Mongbwalu.
+
+The investigations conducted on 12 mai 2026, simultaneously in the health zones of Mongbwalu and Rwampara by the Rapid Response Teams of the Provincial Health Division (DPS) of Ituri, revealed that most suspected patients or deaths presented with fever, headache, vomiting, and severe physical asthenia.
+Deaths occurred 2 to 3 days after disease onset with a clinical picture of haematemesis, epistaxis or blackish vomiting.
+During the investigations in Rwampara health zone, 20 samples from suspected cases or deaths were collected.
+The majority of the sampled individuals originated from Mongbwalu health zone.
+Preliminary tests performed at the Bunia Laboratory were all negative for Ebola Zaire, dengue, Rotavirus, Cholera, Malaria, Yersinia pestis, mpox and COVID-19.
+These samples were sent to the Institut National de Recherche Biomédicale (INRB) in Kinshasa for additional examinations.
+
+On 14 mai 2026, 13 samples out of these 20 were analysed and 8 tested positive for non-Zaire Ebola virus disease at INRB Kinshasa.
+On 15 mai 2026, sequencing of the positive samples identified the BUNDIBUGYO strain, which enabled the Minister of Public Health, Hygiene and Social Welfare (MSHPS) to officially declare the 17th outbreak of Ebola virus disease in the Democratic Republic of the Congo.
+
+On 17 Mai 2026, in consultation with member states, the WHO Director-General considered that the event occurring in DRC and Uganda meets the definition criteria set out in Article 1 of the IHR, and declared that this constitutes a Public Health Emergency of International Concern while specifying that the risk at the global level is low but high at the regional level.
+
+On 18 mai 2026, the Director-General of Africa CDC officially declared a Public Health Emergency of Continental Security (PHECS) under Article 3 of its statutes.
+This declaration followed an emergency meeting of the Africa CDC advisory group, which considered that the worsening outbreak constituted an acute risk to continental health security.
+Consequently, the continental incident management support team was activated to provide support to affected member states and those exposed to risks, in terms of response and preparedness.
+
+[FIGURE: TIMELINE OF EVENTS]
+
+## III. RESPONSE ACTIONS UNDERTAKEN
+
+## III.1. COORDINATION
+
+o Holding of a meeting at the Prime Minister's Office with delegates from Kinshasa province, experts from different sectors (Interior, humanitarian affairs, justice, education, higher education) and an expert delegation from the presidency
+o Holding of a strategic meeting around the Governor of Ituri;
+o Community dialogue around the Bourgmestre of the rural commune of Mongbwalu.
+
+## III.2. EPIDEMIOLOGICAL SURVEILLANCE
+
+o Implementation of field surveillance activities (alert escalation, investigations, active case finding, contact listing and follow-up, retrospective documentary review of cases and deaths, etc.);
+o Harmonisation of surveillance data with the planning team (database);
+o Finalisation of ToRs for the briefing of providers and community workers in 8 ZS and deployment of multidisciplinary teams to the health zones.
+
+[FIGURE: Confirmed cases by age group and sex]
+
+[FIGURE: distribution of deaths by age group]
+
+• The 20–29 age group records the highest number of confirmed cases, especially among men.
+• The 30–39 and 40–49 age groups are also heavily affected.
+• Men overall present more confirmed cases than women across several age groups, particularly 20–29 and 40–49
+
+Surveillance at Points of Entry and Points of Control (PoE/PoC):
+
+o Validation of the digital notification form at PoE and deployment
+o Pre-deployment briefing of national RRTs on daily reporting;
+o Provision of sprayers to the Mudziba-Iga barrière and Nizi PoE by IOM;
+o Water supply (200 L) to three PoC by IOM:
+o Supervision of surveillance, PCI (infection prevention and control) and RCCE activities at the 5 operational PoC.
+
+
+| VARIABLES | TOTAL |
+|---|---|
+| Travellers who passed through PoE/PoC | 15 504 |
+| Travellers screened | 15 504 |
+| Travellers who washed their hands | 9 440 |
+| Travellers sensitised on MVE | 15 242 |
+| Contacts listed | 0 |
+| Alerts escalated | 0 |
+
+: Table I. Summary of data at PoE/PoC as of 26/05/2026
+
+
+[PHOTO]
+
+Activation of the Nizi PoC
+
+## IV.3. LABORATORY
+
+o Receipt of cartridges in Bunia and continuation of analyses
+
+## IV.4. INFECTION PREVENTION & CONTROL
+
+o Beginning of training of trainers and supporting partners on the full PCI package;
+o Performance of 5 SDB conducted at HGR-Bunia, Bunia cité and Ngezi and HGR Rwampara;
+o Disinfection of the Multipurpose Hall and the various offices of DPS Ituri.
+
+Performance of SDB at HGR Bunia
+Training of trainers and PTF on the full PCI package
+
+## III.5. HOLISTIC CARE
+
+o Continuation of the setup of the CTE (Ebola treatment centre) CME Bunia
+o Holding of the technical meeting with all case management partners;
+o Continuation of patient care and clinical assessment;
+o 2 deaths including 1 doctor PPL at CME and 1 at HGR Rwampara;
+o Counselling: 12 suspected cases;
+o Emotional debriefing of 45 family members;
+o Discussion group: 7 families of 2 deceased;
+o Sensitisation of 9 religious leaders and 21 taxi drivers.
+
+## III.6. RCCE
+
+o Engagement of 41 traditional practitioners of the Town of Bunia following a briefing on Ebola risks, prevention measures and alert escalation;
+o Engagement of market heads of Bunia (central market and Hoho market) and the Mayor of the Town of Bunia in public health actions by equipping the Bunia central market with 6 handwashing facilities;
+o Sensitisation of 1736 pupils and teachers in schools across the ZS of Rwampara (CS Espérance 2 & EP Rwampara) and Aru (EP Agamba, Etoma Liri)
+
+[PHOTO]
+
+## IV.7. LOGISTICS
+
+o Development of the procedure for humanitarian flight authorisations
+o Supply of PCI commodities and materials to category 1 HCF: CME/Bunia, HGR Mungbwalu and HGR Nyakunde;
+o Receipt of UNFPA commodities;
+
+o 33 vehicles were made available to the various pillars to ensure their mobility towards the axes: Rwampara, Nyakunde, Bunia, Nizi and Bambu;
+o Beginning of CTE construction works at HGR Bunia with support from IMC.
+
+## IV.8. SECURITY
+
+o Popular demonstrations around 13h30 at the Centre Médical Evangélique Nyakunde (CME) of Bunia in Q/Hoho in the Commune of Bunia against the SDB of the body of Dr Blaise KATHO for the MURONGO/KANDA cemetery.
+
+## IV. CHALLENGES
+
+o Contact tracing remains sub-optimal, requiring cascade briefings (supervising nurses, head nurses, community workers) at the level of active and high-risk ZS;
+o Mobility difficulties for provincial and ZS level teams still persist (one vehicle per ZS, no motorcycle)
+o Delay in returning results, impacting the small isolation capacity;
+o Delay in the construction of CTEs across all sites (Nyankunde, HGR Bunia, HGR Rwampara);
+o Insufficient protective supplies for healthcare providers;
+o Slowness of development works at isolation sites (CME, HGR Bunia, Rwampara);
+o Community resistance to the decontamination of their households and the conduct of SDB.
+
+## V. OUTLOOK
+
+o Organise cascade briefings for ZS actors on MVE (Ebola virus disease) surveillance and SBC in affected and high-risk ZS of ITURI province;
+o Continuation of sensitisation in public places (markets, schools, churches, …);
+o Development of a Questions and Answers document for community mobilisers;
+o Map all accommodation sites for national experts for a security assessment;
+o Continuation of decontamination of hotspot HCFs and conduct of SDBs;
+o Continuation of multidisciplinary activities across different pillars;
+o Digitise the entire listing and community surveillance process
+o Launch field research to re-orient the response
+o Ensure regular supply of lab kits, PCI, etc.
+o Etc.
+
+FIELD PHOTOS
+
+[PHOTO]
+
+Briefing of the Bunia ZS decontamination team on the importance of wearing PPE
+Performance of SDB on 2 alert cases
+Risk communication in schools for pupils and teachers:
+➢ s)
+
+For the National Institute of Public Health (INSP) of the DRC
+The Director-General of the INSP
+Dr MWAMBA KAZADI Dieudonné
+E-mail: dieudonne.mwamba@insp.cd
+Tel.: +243 816 040 145
+
+The COU-SP Coordinator
+Prof NGANDU Christian
+E-mail: Christian.ngandu@insp.cd
+Tel.: +243998091915
+
+The Incident Manager
+Prof Pierre AKILIMALI ZALAGILE
+E-mail: pierre.akilimali@insp.cd
+Tel.: +243815800288
+
+For the World Health Organization (WHO/DRC)
+The ad interim Representative of WHO in DRC
+Dr Anne Marie ANCIA
+E-mail: anciaa @who.int
+
+The EPR Cluster Team Lead of WHO in DRC
+Dr FOTSING Richard
+E-mail: fotsingri@who.int
+
+FOR ANY ADDITIONAL INFORMATION, PLEASE CONTACT
+
+## Source
+
+- [Original PDF (French), INSP](https://insp.cd/wp-content/uploads/2026/05/SitRep_MVE_RDC_N°012_26052026_Vf2_IM.pdf)
+- [French transcription](https://github.com/epiforecasts/bvd-sitreps/blob/main/data/corpus/fr/012.md)
+- [012_table_01_tableau_i_synthese_de_donnees_au_poe_poc](https://github.com/epiforecasts/bvd-sitreps/blob/main/data/csv/012_table_01_tableau_i_synthese_de_donnees_au_poe_poc.csv)
