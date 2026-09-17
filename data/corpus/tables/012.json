@@ -1,0 +1,54 @@
+{
+  "id": "012",
+  "sitrep": "012",
+  "report_date": "2026-05-26",
+  "pdf_md5": "53d01f2b3d7c117e4496f06c7d818390",
+  "tables": [
+    {
+      "n": 1,
+      "caption": "Tableau I. Synthèse de données au PoE/PoC du 26/05/2026",
+      "columns": [
+        "VARIABLES",
+        "TOTAL"
+      ],
+      "rows": [
+        {
+          "cells": [
+            "Voyageurs passés par le PoE/PoC",
+            "15 504"
+          ]
+        },
+        {
+          "cells": [
+            "Voyageurs screenés",
+            "15 504"
+          ]
+        },
+        {
+          "cells": [
+            "Voyageurs ayant lavés les mains",
+            "9 440"
+          ]
+        },
+        {
+          "cells": [
+            "Voyageurs sensibilisés sur la MVE",
+            "15 242"
+          ]
+        },
+        {
+          "cells": [
+            "Contacts listés",
+            "0"
+          ]
+        },
+        {
+          "cells": [
+            "Alertes remontées",
+            "0"
+          ]
+        }
+      ]
+    }
+  ]
+}

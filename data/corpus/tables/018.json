@@ -1,0 +1,925 @@
+{
+  "id": "018",
+  "sitrep": "018",
+  "report_date": "2026-06-01",
+  "pdf_md5": "e898b56a334effa2c3a1f7d239034710",
+  "tables": [
+    {
+      "n": 1,
+      "caption": "",
+      "columns": [
+        "Province",
+        "Cas confirmés",
+        "Décès (confirmés)",
+        "Létalité",
+        "Zones de santé touchées",
+        "Nouveaux cas (24h)"
+      ],
+      "rows": [
+        {
+          "cells": [
+            "Ituri",
+            "322",
+            "46",
+            "14,3 %",
+            "16 sur 36 (44,4 %)",
+            "23"
+          ]
+        },
+        {
+          "cells": [
+            "Nord-Kivu",
+            "19",
+            "13*",
+            "68,4 %",
+            "7 sur 34 (20,6 %)",
+            "0"
+          ]
+        },
+        {
+          "cells": [
+            "Sud-Kivu",
+            "3",
+            "1",
+            "33,3 %",
+            "1 sur 34 (2,9 %)",
+            "0"
+          ]
+        },
+        {
+          "cells": [
+            "Total",
+            "344",
+            "60",
+            "17,4 %",
+            "24 sur 104 (23,1 %)",
+            "23"
+          ]
+        }
+      ]
+    },
+    {
+      "n": 2,
+      "caption": "Tableau 1. Répartition des cas confirmés et des décès de la MVE Bundibugyo par zone de santé et par province, République Démocratique du Congo, au 1er juin 2026 (en cours de consolidation)",
+      "columns": [
+        "Province / Zone de santé",
+        "Cas confirmés cumulés (n)",
+        "Décès confirmés cumulés (n)",
+        "Létalité (CFR, %)"
+      ],
+      "rows": [
+        {
+          "cells": [
+            "ITURI Bunia",
+            "80",
+            "8",
+            "10,0"
+          ]
+        },
+        {
+          "cells": [
+            "ITURI Rwampara",
+            "65",
+            "13",
+            "20,0"
+          ]
+        },
+        {
+          "cells": [
+            "ITURI Mongbwalu",
+            "47",
+            "10",
+            "21,3"
+          ]
+        },
+        {
+          "cells": [
+            "ITURI Nyankunde",
+            "19",
+            "1",
+            "5,3"
+          ]
+        },
+        {
+          "cells": [
+            "ITURI Bambu",
+            "2",
+            "2",
+            "100,0"
+          ]
+        },
+        {
+          "cells": [
+            "ITURI Aru",
+            "2",
+            "1",
+            "50,0"
+          ]
+        },
+        {
+          "cells": [
+            "ITURI Kilo",
+            "2",
+            "0",
+            "0,0"
+          ]
+        },
+        {
+          "cells": [
+            "ITURI Nizi",
+            "2",
+            "0",
+            "0,0"
+          ]
+        },
+        {
+          "cells": [
+            "ITURI Mangala",
+            "1",
+            "0",
+            "0,0"
+          ]
+        },
+        {
+          "cells": [
+            "ITURI Damas",
+            "1",
+            "0",
+            "0,0"
+          ]
+        },
+        {
+          "cells": [
+            "ITURI Aungba",
+            "1",
+            "0",
+            "0,0"
+          ]
+        },
+        {
+          "cells": [
+            "ITURI Gety",
+            "1",
+            "0",
+            "0,0"
+          ]
+        },
+        {
+          "cells": [
+            "ITURI Komanda",
+            "1",
+            "0",
+            "0,0"
+          ]
+        },
+        {
+          "cells": [
+            "ITURI Lita",
+            "1",
+            "0",
+            "0,0"
+          ]
+        },
+        {
+          "cells": [
+            "ITURI Logo",
+            "1",
+            "0",
+            "100"
+          ]
+        },
+        {
+          "cells": [
+            "ITURI Mambasa",
+            "2",
+            "1",
+            "50"
+          ]
+        },
+        {
+          "cells": [
+            "ITURI Autres ZS (données non ventilées)",
+            "94",
+            "10",
+            "10,6"
+          ]
+        },
+        {
+          "cells": [
+            "ITURI Sous-total Ituri",
+            "322",
+            "46",
+            "14,3"
+          ]
+        },
+        {
+          "cells": [
+            "NORD-KIVU Katwa",
+            "7",
+            "5",
+            "71,4"
+          ]
+        },
+        {
+          "cells": [
+            "NORD-KIVU Beni",
+            "5",
+            "3",
+            "60,0"
+          ]
+        },
+        {
+          "cells": [
+            "NORD-KIVU Butembo",
+            "2",
+            "2",
+            "100,0"
+          ]
+        },
+        {
+          "cells": [
+            "NORD-KIVU Oicha",
+            "2",
+            "2",
+            "100,0"
+          ]
+        },
+        {
+          "cells": [
+            "NORD-KIVU Kalunguta",
+            "1",
+            "1",
+            "100,0"
+          ]
+        },
+        {
+          "cells": [
+            "NORD-KIVU Kyondo",
+            "1",
+            "0",
+            "0,0"
+          ]
+        },
+        {
+          "cells": [
+            "NORD-KIVU Goma",
+            "1",
+            "0",
+            "0,0"
+          ]
+        },
+        {
+          "cells": [
+            "NORD-KIVU Sous-total Nord-Kivu",
+            "19",
+            "13",
+            "68,4"
+          ]
+        },
+        {
+          "cells": [
+            "SUD-KIVU Miti-Murhesa",
+            "3",
+            "1",
+            "33,3"
+          ]
+        },
+        {
+          "cells": [
+            "SUD-KIVU Sous-total Sud-Kivu",
+            "3",
+            "1",
+            "33,3"
+          ]
+        },
+        {
+          "cells": [
+            "TOTAL",
+            "344",
+            "60",
+            "17,4"
+          ]
+        }
+      ]
+    },
+    {
+      "n": 3,
+      "caption": "Tableau 2. Gestion des alertes épidémiologiques (24h), 17e épidémie MVE Bundibugyo, par province, au 1er juin 2026",
+      "columns": [
+        "Indicateur",
+        "Ituri",
+        "Nord-Kivu",
+        "Sud-Kivu",
+        "Ensemble"
+      ],
+      "rows": [
+        {
+          "cells": [
+            "Alertes remontées",
+            "137",
+            "212",
+            "5",
+            "354"
+          ]
+        },
+        {
+          "cells": [
+            "Alertes investiguées",
+            "89",
+            "109",
+            "3",
+            "201"
+          ]
+        },
+        {
+          "cells": [
+            "Taux d'investigation",
+            "65,0 %",
+            "51,4 %",
+            "60,0 %",
+            "56,8 %"
+          ]
+        },
+        {
+          "cells": [
+            "Alertes validées",
+            "85",
+            "17",
+            "1",
+            "103"
+          ]
+        }
+      ]
+    },
+    {
+      "n": 4,
+      "caption": "Tableau 3. Suivi des contacts des cas confirmés MVE Bundibugyo par province, République Démocratique du Congo, au 1er juin 2026",
+      "columns": [
+        "Province",
+        "Contacts sous suivi (n)",
+        "Contacts vus (n)",
+        "Taux de suivi (%)"
+      ],
+      "rows": [
+        {
+          "cells": [
+            "Ituri",
+            "3 350",
+            "1 317",
+            "39,3"
+          ]
+        },
+        {
+          "cells": [
+            "Nord-Kivu",
+            "510",
+            "301",
+            "59,0"
+          ]
+        },
+        {
+          "cells": [
+            "Sud-Kivu",
+            "150",
+            "142",
+            "95,0"
+          ]
+        },
+        {
+          "cells": [
+            "Total",
+            "4 010",
+            "1 760",
+            "43,9"
+          ]
+        }
+      ]
+    },
+    {
+      "n": 5,
+      "caption": "",
+      "columns": [
+        "Indicateur PoE/PoC",
+        "Valeur (24h)",
+        "Taux"
+      ],
+      "rows": [
+        {
+          "cells": [
+            "Voyageurs passés par les PoE/PoC",
+            "18 153",
+            "NA"
+          ]
+        },
+        {
+          "cells": [
+            "Voyageurs screenés",
+            "17900",
+            "98,6%"
+          ]
+        },
+        {
+          "cells": [
+            "Voyageurs ayant lavé les mains",
+            "17192",
+            "98,8%"
+          ]
+        },
+        {
+          "cells": [
+            "Voyageurs sensibilisés",
+            "17442",
+            "96,0%"
+          ]
+        },
+        {
+          "cells": [
+            "Contacts listés",
+            "1",
+            "NA"
+          ]
+        },
+        {
+          "cells": [
+            "Alertes remontées",
+            "1",
+            "100,0%"
+          ]
+        }
+      ]
+    },
+    {
+      "n": 6,
+      "caption": "",
+      "columns": [
+        "Indicateur",
+        "Valeur",
+        "Analyse"
+      ],
+      "rows": [
+        {
+          "cells": [
+            "Échantillons collectés",
+            "76",
+            "Activité soutenue"
+          ]
+        },
+        {
+          "cells": [
+            "Échantillons analysés",
+            "76",
+            "100,0% des collectés"
+          ]
+        },
+        {
+          "cells": [
+            "Échantillons positifs",
+            "23",
+            "Taux de positivité 30,3%"
+          ]
+        },
+        {
+          "cells": [
+            "Échantillons en cours d'analyse",
+            "0",
+            "Retard de capacité d'analyse"
+          ]
+        },
+        {
+          "cells": [
+            "Échantillons positifs provenant de cas suspects décédés",
+            "8",
+            "Transmission avant décès confirmé"
+          ]
+        }
+      ]
+    },
+    {
+      "n": 7,
+      "caption": "",
+      "columns": [
+        "Zone de santé",
+        "Actions réalisées"
+      ],
+      "rows": [
+        {
+          "cells": [
+            "Bunia",
+            "Briefing des autorités du Groupe Scolaire Gabriel (Ring CH SOFEPADI) sur le lavage des mains."
+          ]
+        },
+        {
+          "cells": [
+            "Bunia",
+            "Briefing de 6 prestataires de soins au CS Lembabo sur les principes de triage et la réalisation du ring de surveillance autour de la structure et une dotation de Thermoflash."
+          ]
+        },
+        {
+          "cells": [
+            "Nyankunde",
+            "Briefing 16 prestataires des soins (10 EDS, 4 Superviseurs et 2 IT) sur les précautions standards, port et retrait des EPI."
+          ]
+        },
+        {
+          "cells": [
+            "Nyankunde",
+            "5 EDS réalisés sur 5 alertes (4 l'HGR et 1 AS Birinyama)."
+          ]
+        },
+        {
+          "cells": [
+            "Rwampara",
+            "Décontamination des 4 structures sanitaires après leurs fermetures temporaires (PS Espoir, PS Tumaini, PS Uponyadji et PS la Solution) et décontamination de la Maternité de Clinique Elikya Mère-enfant)."
+          ]
+        },
+        {
+          "cells": [
+            "Bambu",
+            "Installation de 37 poubelles (étiquetées) pour les déchets médicaux dans les différents services de l’HGR."
+          ]
+        },
+        {
+          "cells": [
+            "Aru",
+            "Briefing de 21 prestataires de soins au BCZ sur le port et retrait d’EPI et les précautions standards et un accompagnement de l’HGR"
+          ]
+        }
+      ]
+    },
+    {
+      "n": 8,
+      "caption": "Tableau 4. Mouvement des patients dans les établissements de soins, 17e épidémie de maladie à virus Ebola (Bundibugyo), République Démocratique du Congo, au 1er juin 2026",
+      "columns": [
+        "Indicateur",
+        "Ituri",
+        "Nord-Kivu",
+        "Sud-Kivu",
+        "Ensemble"
+      ],
+      "rows": [
+        {
+          "cells": [
+            "Patients présents au lit (fin de journée J-1)",
+            "147",
+            "8",
+            "5",
+            "160"
+          ]
+        },
+        {
+          "cells": [
+            "Admissions (24h) Admissions PPL",
+            "2",
+            "0",
+            "0",
+            "2"
+          ]
+        },
+        {
+          "cells": [
+            "Admissions (24h) Admissions autres",
+            "19",
+            "0",
+            "1",
+            "20"
+          ]
+        },
+        {
+          "cells": [
+            "Total admissions",
+            "21",
+            "0",
+            "1",
+            "22"
+          ]
+        },
+        {
+          "cells": [
+            "Sorties (24h) Guéris",
+            "0",
+            "0",
+            "0",
+            "0"
+          ]
+        },
+        {
+          "cells": [
+            "Sorties (24h) Décédés suspects",
+            "6",
+            "0",
+            "0",
+            "6"
+          ]
+        },
+        {
+          "cells": [
+            "Sorties (24h) Décédés confirmés",
+            "1",
+            "0",
+            "0",
+            "1"
+          ]
+        },
+        {
+          "cells": [
+            "Sorties (24h) Non cas",
+            "2",
+            "0",
+            "2",
+            "4"
+          ]
+        },
+        {
+          "cells": [
+            "Sorties (24h) Évadés confirmés",
+            "1",
+            "3",
+            "0",
+            "4"
+          ]
+        },
+        {
+          "cells": [
+            "Total sorties",
+            "10",
+            "3",
+            "2",
+            "15"
+          ]
+        },
+        {
+          "cells": [
+            "Patients en isolement (fin de journée)",
+            "158",
+            "8",
+            "7",
+            "173"
+          ]
+        },
+        {
+          "cells": [
+            "Patients en isolement (fin de journée) Nouveaux cas confirmés (NC)",
+            "13",
+            "5",
+            "2",
+            "20"
+          ]
+        },
+        {
+          "cells": [
+            "Patients en isolement (fin de journée) Anciens cas confirmés (AC)",
+            "21",
+            "0",
+            "0",
+            "21"
+          ]
+        },
+        {
+          "cells": [
+            "Patients en isolement (fin de journée) Cas suspects",
+            "122",
+            "3",
+            "3",
+            "128"
+          ]
+        },
+        {
+          "cells": [
+            "Patients en isolement (fin de journée) Suspects enfants de < 5 ans*",
+            "2",
+            "0",
+            "2",
+            "4"
+          ]
+        }
+      ]
+    },
+    {
+      "n": 9,
+      "caption": "",
+      "columns": [
+        "Zone de santé",
+        "Activités",
+        "Portée"
+      ],
+      "rows": [
+        {
+          "cells": [
+            "Bunia",
+            "Sensibilisation de 43 marchands et marchandes du marché de BIGO sur les mesures préventives, l’adhésion à l’EDS et le mode contamination de MVE.",
+            "Large audience"
+          ]
+        },
+        {
+          "cells": [
+            "Rwampara",
+            "Plaidoyer auprès du chef de Groupement LENGABO pour obtenir son implication dans les activités de l’EDS. Après que certains jeunes de la place aient tenté de perturber les activités de la riposte (la formation de RECOS).",
+            "190 personnes"
+          ]
+        },
+        {
+          "cells": [
+            "Rwampara",
+            "18 leaders communautaires conscientisés en présence du délégué du conseiller du Gouverneur en charge de la jeunesse.",
+            "190 personnes"
+          ]
+        },
+        {
+          "cells": [
+            "Bambu",
+            "Sensibilisation de 10 Taximan dont (2 femmes l’association ATAMOI) sur les mesures préventives et l’adhésion à l’EDS.",
+            "10 Hommes (2 femmes)"
+          ]
+        },
+        {
+          "cells": [
+            "Nizi",
+            "Sensibilisation sur l’importance d’adhésion aux mesures préventives de la MVE focus autour d’EDS dans l’AS Nizi Centre/chefferie de MAMBISA",
+            "55 personnes (12 hommes et 43 femmes)"
+          ]
+        },
+        {
+          "cells": [
+            "Mongwalu",
+            "Sensibilisation de chefs des 8 quartiers, chefs d’avenue en présence de l’AT, le bourgmestre et l’équipe de sécurité, sur les mesures préventives.",
+            "55 personnes (10 femmes et 45 hommes)"
+          ]
+        },
+        {
+          "cells": [
+            "Aru",
+            "Briefing de personnes sur la CREC et la surveillance à base communautaire.",
+            "27 personnes"
+          ]
+        },
+        {
+          "cells": [
+            "Nyankunde",
+            "Sensibilisation de 31 membres de la coordination territoriale de la société civile Forces vives dont 4 femmes sur les mesures préventives et la remontée des alertes dans la communauté",
+            "31 personnes dont 4femmes."
+          ]
+        }
+      ]
+    },
+    {
+      "n": 10,
+      "caption": "",
+      "columns": [
+        "N°",
+        "Défis",
+        "Impact",
+        "Action requise"
+      ],
+      "rows": [
+        {
+          "cells": [
+            "1",
+            "Réticence aux prélèvements post-mortem (swabs)",
+            "Retard de confirmation; sous-estimation des cas",
+            "Engagement communautaire intensif; implication des leaders religieux"
+          ]
+        },
+        {
+          "cells": [
+            "2",
+            "Capacité insuffisante en CTE normés malgré l'ouverture de Rwampara",
+            "Saturation potentielle des CTE existants",
+            "Accélération de la construction des CTE planifiés"
+          ]
+        },
+        {
+          "cells": [
+            "3",
+            "Faiblesse du suivi des contacts (taux global 39,3%, cible 95%)",
+            "Interruption des chaînes de transmission compromise",
+            "Formation, déploiement et motivation des relais communautaires"
+          ]
+        },
+        {
+          "cells": [
+            "4",
+            "Défaut d'approvisionnement en Médicaments Essentiels Génériques (MEG) dans les HGR ciblés",
+            "Fragilisation de la prise en charge globale",
+            "Plaidoyer pour la dotation en MEG"
+          ]
+        },
+        {
+          "cells": [
+            "5",
+            "Insuffisance de matériels PCI (EPI, DLM, chlore) au Nord-Kivu",
+            "Risque nosocomial",
+            "Approvisionnement urgent"
+          ]
+        },
+        {
+          "cells": [
+            "6",
+            "Faible remontée des alertes dans les 3 provinces",
+            "Retard de détection des cas",
+            "Renforcement de la surveillance communautaire"
+          ]
+        },
+        {
+          "cells": [
+            "7",
+            "Propagation de rumeurs et recettes traditionnelles",
+            "Défiance envers la riposte; retards de consultation",
+            "Plan de réponse aux rumeurs; mobilisation sociale"
+          ]
+        },
+        {
+          "cells": [
+            "8",
+            "Insuffisance des ressources financières pour tous les piliers",
+            "Ralentissement des opérations",
+            "Mobilisation des ressources (gap de 21,5 millions USD)"
+          ]
+        }
+      ]
+    },
+    {
+      "n": 11,
+      "caption": "",
+      "columns": [
+        "Priorité",
+        "Action",
+        "Pilier responsable",
+        "Échéance"
+      ],
+      "rows": [
+        {
+          "cells": [
+            "1",
+            "Formation des prestataires sur l'utilisation de la PCR RADIONE",
+            "Laboratoire",
+            "J+2"
+          ]
+        },
+        {
+          "cells": [
+            "2",
+            "Briefing des prestataires sur la surveillance MVE et la SBC dans les zones touchées et à haut risque",
+            "Surveillance/CREC",
+            "J+3"
+          ]
+        },
+        {
+          "cells": [
+            "3",
+            "Briefing des agents communautaires sur la surveillance MVE et la SBC (province Ituri)",
+            "Surveillance/CREC",
+            "J+3"
+          ]
+        },
+        {
+          "cells": [
+            "4",
+            "Remise officielle du CTE normé CME Rwampara à l'Incident Manager MVE",
+            "Coordination",
+            "J+1"
+          ]
+        },
+        {
+          "cells": [
+            "5",
+            "Accompagnement supervisé du Directeur Général de l'INSP dans les piliers techniques",
+            "Coordination",
+            "Continu"
+          ]
+        },
+        {
+          "cells": [
+            "6",
+            "Rattrapage du suivi des contacts en Ituri (taux actuel 35%)",
+            "Surveillance",
+            "J+7"
+          ]
+        },
+        {
+          "cells": [
+            "7",
+            "Renforcement PCI et formation du personnel à Nyankunde et autres zones nosocomiales",
+            "PCI",
+            "J+2"
+          ]
+        },
+        {
+          "cells": [
+            "8",
+            "Déploiement d'un tableau de bord quotidien standardisé avec KPI par pilier",
+            "Coordination",
+            "J+3"
+          ]
+        },
+        {
+          "cells": [
+            "9",
+            "Plan de rattrapage des 47 échantillons en attente d'analyse",
+            "Laboratoire",
+            "J+2"
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,240 @@
+{
+  "id": "016",
+  "sitrep": "016",
+  "report_date": "2026-05-30",
+  "pdf_md5": "eca5782cf48912e67f8d23118c09c941",
+  "tables": [
+    {
+      "n": 1,
+      "caption": "Tableau I. Synthèse de données au PoE/PoC du 30/05/2026",
+      "columns": [
+        "Indicateurs aux PoE/PoC",
+        "TOTAL"
+      ],
+      "rows": [
+        {
+          "cells": [
+            "Voyageurs passés par le PoE/PoC",
+            "13 960"
+          ]
+        },
+        {
+          "cells": [
+            "Voyageurs screenés",
+            "13 187(94,4%)"
+          ]
+        },
+        {
+          "cells": [
+            "Voyageurs ayant lavés les mains",
+            "13 187 (94,4%)"
+          ]
+        },
+        {
+          "cells": [
+            "Voyageurs sensibilisés sur la MVE",
+            "13 960 (100%)"
+          ]
+        },
+        {
+          "cells": [
+            "Contacts listés",
+            "0"
+          ]
+        },
+        {
+          "cells": [
+            "Alertes remontées",
+            "0"
+          ]
+        }
+      ]
+    },
+    {
+      "n": 2,
+      "caption": "Tableau II. Mouvement des malades dans les établissements de soins en date du 30/05/2026",
+      "columns": [
+        "ISSUES",
+        "HGR Bunia",
+        "HGR Rwampara",
+        "CME",
+        "HGR Mongbwalu",
+        "HGR Nyankunde",
+        "HGR Bambu",
+        "HGR Aru",
+        "Total"
+      ],
+      "rows": [
+        {
+          "cells": [
+            "Report (Nombre de malades au lit à la fin de journée précédente)",
+            "17",
+            "14",
+            "10",
+            "11",
+            "41",
+            "5",
+            "5",
+            "103"
+          ]
+        },
+        {
+          "cells": [
+            "Nouvelles Admissions du jour PPL",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "1",
+            "0",
+            "1"
+          ]
+        },
+        {
+          "cells": [
+            "Nouvelles Admissions du jour Autres",
+            "5",
+            "3",
+            "7",
+            "6",
+            "1",
+            "4",
+            "0",
+            "26"
+          ]
+        },
+        {
+          "cells": [
+            "Sorties Guéris",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+          ]
+        },
+        {
+          "cells": [
+            "Sorties Décédés",
+            "0",
+            "2",
+            "2",
+            "3",
+            "0",
+            "0",
+            "0",
+            "7"
+          ]
+        },
+        {
+          "cells": [
+            "Sorties Non Cas",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+          ]
+        },
+        {
+          "cells": [
+            "Sorties Evadés",
+            "1",
+            "0",
+            "0",
+            "2",
+            "2",
+            "0",
+            "0",
+            "5"
+          ]
+        },
+        {
+          "cells": [
+            "Sorties Transférés à HGR",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+          ]
+        },
+        {
+          "cells": [
+            "Malades en isolement Total",
+            "23",
+            "19",
+            "19",
+            "22",
+            "44",
+            "10",
+            "5",
+            "142"
+          ]
+        },
+        {
+          "cells": [
+            "Malades en isolement NC confirmés",
+            "1",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "1"
+          ]
+        },
+        {
+          "cells": [
+            "Malades en isolement AC confirmés",
+            "1",
+            "1",
+            "1",
+            "0",
+            "12",
+            "0",
+            "1",
+            "16"
+          ]
+        },
+        {
+          "cells": [
+            "Malades en isolement Suspects",
+            "19",
+            "14",
+            "14",
+            "12",
+            "28",
+            "10",
+            "4",
+            "101"
+          ]
+        },
+        {
+          "cells": [
+            "Malades en isolement Suspect Enfant < 5 ans",
+            "1",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "1"
+          ]
+        }
+      ]
+    }
+  ]
+}

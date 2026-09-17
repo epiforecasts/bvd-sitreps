@@ -5,11 +5,11 @@ project:
 website:
   title: "Ebola BVD 2026: Outbreak Sitreps"
   description: "Automated translation of Ebola-BVD 2026 outbreak situation reports"
-  site-url: "https://kathsherratt.github.io/bvd-sitreps"
+  site-url: "https://epiforecasts.io/bvd-sitreps"
   navbar:
     right:
       - icon: github
-        href: https://github.com/kathsherratt/bvd-sitreps
+        href: https://github.com/epiforecasts/bvd-sitreps
       - icon: house-fill
         text: " "
         href: index.qmd

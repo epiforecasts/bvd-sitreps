@@ -1,0 +1,14 @@
+Provinces,Zones de santé,Nbre de cas suspects,Nbre de décès probable**,Nbre de cas Confirmés,Nbre de contacts
+Ituri,Mongbwalu,339,88,10,222
+Ituri,Rwampara,221,63,32,621
+Ituri,Bunia,227,42,23,290
+Ituri,Nyankunde,45,8,9,365
+Ituri,Kilo,6,2,1,176
+Ituri,Nizi,5,1,2,0
+Ituri,ARU,3,0,1,0
+Ituri,Echantillons sans fiche,0,0,6,0
+Nord-Kivu,Goma,ND,0,1,ND
+Nord-Kivu,Katwa,13,0,3,ND
+Nord-Kivu,Butembo,7,0,2,ND
+Sud-Kivu,Miti Murhesa,1,0,1,ND
+Total,Total,867,204,91,1674

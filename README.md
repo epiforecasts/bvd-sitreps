@@ -1,93 +1,70 @@
-# Daily INSP BVD situation reports
+# INSP situation reports: Ebola (BDBV) DRC 2026
 
-This codebase translates Ebola-BVD outbreak situation reports provided by the Centre d’opérations d’urgence de santé publique (COUSP) / L'Institut National de Santé Publique (INSP).
+A machine-readable corpus of the situation reports published by the Institut National de Santé Publique (INSP) / Centre d'opérations d'urgence de santé publique (COUSP) for the 2026 Bundibugyo virus disease outbreak in the Democratic Republic of the Congo, with English translations.
 
-The intention is to provide an English translated, machine-readable, time-stamped archive of sitrep information and data.
+Site: https://epiforecasts.io/bvd-sitreps/
 
-- Sitrep PDFs are downloaded from the publicly available [INSP website](https://insp.cd/ebola-17eme-epidemie/)
-- PDFs are converted, translated to English **via Google Gemini Vision**, and archived
-- Data tables are parsed into structured CSV files
+We are not affiliated with INSP. All transcription and translation is done by Google Gemini and has not been reviewed by a person. Check the source PDF before relying on any figure, and please flag errors.
 
-Please note:
+## What is here
 
-- We am not affiliated with INSP in any way 
-- All translation and conversion from PDF including English translation is via Google Gemini AI 
-  - This is likely to contain errors, mistranslations and could lead to misinterpretations. Each English version is linked to a source PDF report. We recommend using this to check the original source before relying on the automated translation.
-  - Please flag if you spot errors or mistranslations
-- We welcome feedback and collaboration - please contribute directly or get in touch
+| | |
+|---|---|
+| `data/corpus/fr/` | French transcription of each report, one markdown file. The corpus of record |
+| `data/corpus/tables/` | Each report's tables as JSON |
+| `data/csv/` | The same tables, one CSV each |
+| `data/manifest.csv` | Every PDF: source URL, md5, pages, text-layer size |
+| `data/corpus-qa.csv` | Per-report checks of the transcription against the PDF |
+| `docs/` | English translation of each report, rendered as the site |
 
-Many thanks to the authors and those involved in providing public access to the INSP sitreps.
+Files are named by a three-digit report number (`040`), with `_v2` for a reissue.
 
-## Guide to contents
+This repository does extraction and translation only. Analysis of what the reports say, such as treatment centre openings or bed capacity, reads this corpus from elsewhere.
 
-### Overview
-
-#### Inputs
-
-```
-INSP website → data/pdf/   (scrape-pdf.R)
-data/pdf/    → docs/       (extract-docs.R)
-docs/        → data/csv/   (extract-tables.R)
-```
-
-Extracted reports are published as a Jekyll site from `docs/`.
-
-#### Outputs
-
-Each sitrep PDF produces one `.md` file and one `.csv` per data table found in the report.
+## Method
 
 ```
-data/
-  pdf/    — source sitrep PDFs, named by original filename from INSP
-  csv/    — structured table extracts, named {sitrep}_{table-name}.csv
-docs/
-  *.md    — translated markdown, one file per sitrep (English)
-  index.md — Jekyll index page
+insp.cd posts API  ──01──▶  data/pdf/              (not committed; refetchable)
+data/pdf/          ──02──▶  data/corpus/fr/, data/corpus/tables/
+tables JSON        ──03──▶  data/csv/
+French corpus      ──04──▶  docs/
+                   ──05──▶  data/corpus-qa.csv
 ```
 
-### Setup
+1. `R/01-fetch-pdfs.R` indexes the reports through the INSP WordPress posts API, whose titles carry the report number, and downloads each PDF.
+2. `R/02-build-corpus.R` sends each PDF to Gemini with `assets/prompt-transcribe.md` and a response schema. The output is French, not translated. Tables are returned as structured rows, and a table whose rows do not match its header stops the report.
+3. `R/03-tables-to-csv.R` writes each table to CSV.
+4. `R/04-translate.R` translates the French into English with `assets/prompt-translate.md`. It never opens a PDF. Each translated table must keep the same shape and the same numbers in every row as the French one.
+5. `R/05-check-corpus.R` checks, for every report, that the numbers `pdftools` reads from the PDF are present in the transcription, and fails below 95%.
 
-**Requirements:** R, a [Google AI API key](https://aistudio.google.com/app/apikey)
+Why French first: translating while transcribing leaves nothing to check a downstream claim against, and mistranslates the terms that matter most. An earlier version of this pipeline rendered `CTE` (Centre de Traitement Ebola) as "Treatment Centers for Epidemics".
 
-Set an API key as an environment variable:
+Why insp.cd rather than the INRB-UMIE mirror: the mirror is missing reports and some of its copies are degraded. Its SitRep 007 has no text layer; the INSP original has 39,372 characters.
+
+## Coverage
+
+INSP has published 115 report numbers between 001 and 122. Numbers 003, 029, 043, 045, 063, 075 and 076 do not appear on the INSP site or in the mirror. Report 006 was published twice.
+
+## Running
+
+Requirements: R with `data.table`, `httr2`, `jsonlite`, `pdftools`, `here`, `base64enc`, `digest`; a [Google AI Studio API key](https://aistudio.google.com/app/apikey) as `GOOGLE_AI_KEY` in `~/.Renviron`.
 
 ```bash
-export GOOGLE_AI_KEY=your_key_here
-```
-
-Packages are managed with [`groundhog`](https://groundhogr.com/) (date-pinned, no lockfile). 
-Each script installs `groundhog` automatically on first run, then loads pinned versions of its dependencies.
-
-### Usage
-
-Run the full pipeline from the repo root:
-
-```r
 Rscript R/main.R
 ```
 
-This runs all three steps in order: scrape PDFs, extract markdown, parse tables. 
+Transcription takes a few minutes per report, so a first build runs for hours. Run it detached:
 
-### Automation
+```bash
+mkdir -p outputs/logs
+nohup caffeinate -is Rscript R/02-build-corpus.R \
+  > outputs/logs/corpus_$(date +%F-%H%M).log 2>&1 &
+```
 
-A GitHub Actions workflow ([`.github/workflows/update-sitreps.yml`](.github/workflows/update-sitreps.yml)) runs daily at 01:00 UTC. It:
+Every step caches. A report is rebuilt only when its PDF, the prompt, the schema or the model changes. `--only=007,040` limits a step to some reports and `--force` rebuilds regardless.
 
-1. Scrapes INSP for new PDFs
-2. Extracts and translates any new PDFs via Gemini
-3. Parses tables to CSV
-4. Commits and pushes any new files
+Models are pinned in `R/lib/gemini.R`, with the comparison that chose them. Token use is logged to `outputs/gemini-usage.csv`.
 
-The `GOOGLE_AI_KEY` secret must be set in the repository's Actions secrets. Trigger a manual run from the Actions tab using **workflow_dispatch**.
+The `Update Sitreps` Actions workflow runs the same pipeline on demand and commits the results. It needs `GOOGLE_AI_KEY` as a repository secret.
 
-### Jekyll site
-
-The `docs/` directory is configured as a Jekyll site. 
-Each markdown file in `docs/` is a report page; `docs/index.md` lists them by date. 
-GitHub Pages can serve this directly from the `docs/` folder on `main`.
-
-### Notes
-
-- **Translation:** Gemini translates French → English, preserving proper nouns (place names, people). All outputs carry a `*CAUTION: converted with Google Gemini*` header.
-- **Model:** `gemini-2.5-flash-lite` — cost-efficient for document OCR and translation.
-- **No renv:** Dependencies are pinned via `groundhog` (date set in `R/main.R`). To update, change `groundhog_date` there.
-- **Data files:** `data/pdf/` and `data/csv/` are committed to the repo by the Actions workflow. 
+Many thanks to INSP and all those providing public access to these reports.

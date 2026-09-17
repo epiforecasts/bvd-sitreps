@@ -1,0 +1,92 @@
+{
+  "id": "001",
+  "sitrep": "001",
+  "report_date": "2026-05-14",
+  "pdf_md5": "954408634f4e2fb02b08aa31923b54e7",
+  "tables": [
+    {
+      "n": 1,
+      "caption": "",
+      "columns": [
+        "Alert",
+        "Cas Confirmés",
+        "Cas Suspects",
+        "Décès confirmés",
+        "Taux d’occupation des lits chez les confirmés",
+        "Taux d’occupation des lits chez les suspects",
+        "Guéris"
+      ],
+      "rows": [
+        {
+          "cells": [
+            "261",
+            "8",
+            "246",
+            "4",
+            "?",
+            "?",
+            "?"
+          ]
+        }
+      ]
+    },
+    {
+      "n": 2,
+      "caption": "",
+      "columns": [
+        "Indicateur",
+        "Valeur"
+      ],
+      "rows": [
+        {
+          "cells": [
+            "Cas confirmés Ebola",
+            "8"
+          ]
+        },
+        {
+          "cells": [
+            "Échantillons à reprendre",
+            "4"
+          ]
+        },
+        {
+          "cells": [
+            "Cas suspects/probables estimés",
+            "246"
+          ]
+        },
+        {
+          "cells": [
+            "Décès hospitaliers HGR Mongbwalu",
+            "55"
+          ]
+        },
+        {
+          "cells": [
+            "Décès communautaires Mongbwalu",
+            "2"
+          ]
+        },
+        {
+          "cells": [
+            "Personnel de santé décédé",
+            "≥4"
+          ]
+        },
+        {
+          "cells": [
+            "Contacts identifiés",
+            "≥82"
+          ]
+        },
+        {
+          "cells": [
+            "ZS affectées",
+            "3"
+          ]
+        }
+      ]
+    }
+  ]
+}

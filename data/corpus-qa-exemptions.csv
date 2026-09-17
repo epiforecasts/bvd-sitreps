@@ -1,0 +1,13 @@
+id,number,reason
+031,1000,"Left-axis tick of the alerts chart on PDF page 5 (tick labels '1000' paired with a percentage axis); chart values are not transcribed by design"
+031,900,"Left-axis tick of the alerts chart on PDF page 5 (tick labels '900' paired with a percentage axis); chart values are not transcribed by design"
+031,800,"Left-axis tick of the alerts chart on PDF page 5 (tick labels '800' paired with a percentage axis); chart values are not transcribed by design"
+031,700,"Left-axis tick of the alerts chart on PDF page 5 (tick labels '700' paired with a percentage axis); chart values are not transcribed by design"
+031,600,"Left-axis tick of the alerts chart on PDF page 5 (tick labels '600' paired with a percentage axis); chart values are not transcribed by design"
+031,500,"Left-axis tick of the alerts chart on PDF page 5 (tick labels '500' paired with a percentage axis); chart values are not transcribed by design"
+031,400,"Left-axis tick of the alerts chart on PDF page 5 (tick labels '400' paired with a percentage axis); chart values are not transcribed by design"
+031,300,"Left-axis tick of the alerts chart on PDF page 5 (tick labels '300' paired with a percentage axis); chart values are not transcribed by design"
+031,200,"Left-axis tick of the alerts chart on PDF page 5 (tick labels '200' paired with a percentage axis); chart values are not transcribed by design"
+031,90,"Right-axis percentage tick ('90%') of the alerts chart on PDF page 5; the only occurrence of this bare number in the PDF text layer"
+031,50,"Right-axis percentage tick ('50%') of the alerts chart on PDF page 5; the only occurrence of this bare number in the PDF text layer"
+031,40,"Right-axis percentage tick ('40%') of the alerts chart on PDF page 5; the only occurrence of this bare number in the PDF text layer"

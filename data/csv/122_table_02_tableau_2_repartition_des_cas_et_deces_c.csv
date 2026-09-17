@@ -1,0 +1,72 @@
+Province / Zone de santé,Nombre cumulatif Cas (n),Nombre cumulatif Décès (n),Nombre cumulatif Létalité,Situation du jour (24h) Nouv. Cas,Situation du jour (24h) Décès communautaires (Swab+),Situation du jour (24h) Décès confirmés intra-CTE,Situation du jour (24h) Total décès confirmés
+Ituri,5659,2583,"45,6%",44,18,6,24
+Ituri Adja,11,1,"9,1%","","","",0
+Ituri Aru,8,6,"75,0%","","","",0
+Ituri Ariwara,8,2,"25,0%","","","",0
+Ituri Aungba,12,5,"41,7%","","","",0
+Ituri Bambu,179,39,"21,8%","","","",0
+Ituri Boga,2,2,"100,0%","","","",0
+Ituri Bunia,1583,505,"31,9%",19,10,"",10
+Ituri Damas,39,9,"23,1%","","","",0
+Ituri Drodro,15,7,"46,7%","","","",0
+Ituri Fataki,78,30,"38,5%","","","",0
+Ituri Gethy,7,3,"42,9%","","","",0
+Ituri Kambala,2,0,"0,0%","","","",0
+Ituri Kilo,33,12,"36,4%","","","",0
+Ituri Komanda,135,88,"65,2%",3,0,"",0
+Ituri Lita,262,130,"49,6%",3,3,"",3
+Ituri Logo,13,5,"38,5%","","","",0
+Ituri Lolwa,31,8,"25,8%","","","",0
+Ituri Mahagi,4,1,"25,0%","","","",0
+Ituri Mambasa,17,7,"41,2%","","","",0
+Ituri Mandima,47,25,"53,2%","","","",0
+Ituri Mangala,313,146,"46,6%",1,0,"",0
+Ituri Mongbwalu,663,303,"45,7%",5,5,"",5
+Ituri Nia-Nia,239,120,"50,2%",2,0,"",0
+Ituri Nizi,732,273,"37,3%",3,0,"",0
+Ituri Nyankunde,125,36,"28,8%","","","",0
+Ituri Rimba,11,4,"36,4%","","","",0
+Ituri Rwampara,1019,349,"34,2%",6,0,"",0
+Ituri Tchomia,71,25,"35,2%",2,0,"",0
+Ituri A ventiler *,NA,442,NA,"","",6,6
+Nord-Kivu,1281,797,"62,2%",12,5,6,11
+Nord-Kivu Beni,228,166,"72,8%",6,2,2,4
+Nord-Kivu Biena,17,7,"41,2%",1,0,"",0
+Nord-Kivu Butembo,239,157,"65,7%",3,1,4,5
+Nord-Kivu Goma,1,0,"0,0%","","","",0
+Nord-Kivu Kalunguta,30,12,"40,0%","","","",0
+Nord-Kivu Katwa,523,332,"63,5%","","","",0
+Nord-Kivu Kayna,1,0,"0,0%","","","",""
+Nord-Kivu Kyondo,30,19,"63,3%",1,1,"",1
+Nord-Kivu Lubero,15,7,"46,7%","","","",0
+Nord-Kivu Mabalako,19,9,"47,4%","","","",0
+Nord-Kivu Manguredjipa,8,3,"37,5%","","","",0
+Nord-Kivu Masereka,20,8,"40,0%","","","",0
+Nord-Kivu Musienene,116,63,"54,3%",1,1,"",1
+Nord-Kivu Mutwanga,6,2,"33,3%","","","",0
+Nord-Kivu Oicha,11,7,"63,6%","","","",0
+Nord-Kivu Vuhovi,17,5,"29,4%","","","",0
+Haut-Uélé,281,115,"40,9%",2,0,0,0
+Haut-Uélé Boma Mangbetu,32,14,"43,8%","","","",0
+Haut-Uélé Gombari,3,1,"33,3%","","","",0
+Haut-Uélé Isiro,97,41,"42,3%",1,0,0,0
+Haut-Uélé Pawa,58,25,"43,1%",1,0,0,0
+Haut-Uélé Rungu,2,1,"50,0%","","","",0
+Haut-Uélé Wamba,89,33,"37,1%","","","",0
+Tshopo,28,10,"35,7%",0,0,0,0
+Tshopo Bafwasende,7,1,"14,3%","","","",0
+Tshopo Kabondo,4,1,"25,0%","","","",0
+Tshopo Lubunga,1,0,"0,0%","","","",0
+Tshopo Makiso-Kisangani,10,5,"50,0%","","","",0
+Tshopo Mangobo,4,2,"50,0%","","","",0
+Tshopo Tshopo,1,0,"0,0%","","","",0
+Tshopo Wanie-Rukula,1,1,"100,0%","","","",0
+Sud-Kivu,3,1,"33,3%",0,0,0,0
+Sud-Kivu Miti-Murhesa,3,1,"33,3%","","","",0
+Bas-Uélé,5,3,"60,0%",0,0,0,0
+Bas-Uélé Buta,1,1,"100,00%","","","",0
+Bas-Uélé Viadana,1,0,"0,00%","","","",0
+Bas-Uélé Ganga,3,2,"66,67%","","","",0
+Sud Ubangi,1,1,"100,0%",0,0,0,0
+Sud Ubangi Bulu,1,1,"100,0%","","","",0
+Total,7258,3510,"48,4%",58,23,12,35

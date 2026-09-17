@@ -1,0 +1,15 @@
+Indicateur,Ituri,Nord-Kivu,Haut-Uele,Tshopo,Ensemble
+Nombre de lits,820,141,68,20,1 049
+Patients au lit (J-1),553,220,25,1,799
+Total admissions (24 h),58,53,7,0,118
+Total admissions,771,321,47,1,1 140
+Sorties Décédés,17,2,0,0,19
+Sorties Non-cas,44,67,0,0,111
+Sorties Guéris,25,0,0,0,25
+Sorties Evadés,2,0,0,0,2
+Sorties Transférés à l'HGR,0,1,0,0,1
+Total sorties (24 h),88,70,0,0,158
+Patients en isolement (fin J),523,202,22,1,748
+dont confirmés,301,25,10,1,337
+dont suspects,222,177,12,0,411
+Taux d'occupation,"63,8%","143,3%","32,4%","5,0%","71,3%"

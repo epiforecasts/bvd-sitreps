@@ -1,0 +1,13 @@
+Indicateur,Ituri,Nord-Kivu,Sud-Kivu,Ensemble
+Patients au lit (J-1),462,147,21,630
+Total admissions (24h),79,19,6,104
+Sorties (24h) Décédés (Suspects/Conf.),10,0,0,10
+Sorties (24h) Non-cas,31,17,6,54
+Sorties (24h) Guéris,20,0,0,20
+Sorties (24h) Évadés (Suspects/Conf.),3,1,0,4
+Sorties (24h) Transférés à l'HGR,0,0,0,0
+Total sorties,64,18,6,88
+Patients en isolement (Fin J),477,148,21,646
+Patients en isolement (Fin J) dont confirmés (NC+AC),191,14,0,205
+Patients en isolement (Fin J) dont suspects,286,134,21,441
+Taux d'occupation global,"89,3%","137,0%","47,7%","94,2%"

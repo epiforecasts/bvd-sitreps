@@ -1,0 +1,980 @@
+{
+  "id": "037",
+  "sitrep": "037",
+  "report_date": "2026-06-20",
+  "pdf_md5": "68d1f122265bbf7c2facbe45295e9b04",
+  "tables": [
+    {
+      "n": 1,
+      "caption": "Tableau 1. Répartition des cas et décès confirmés par province touchée en date du 20 juin 2026.",
+      "columns": [
+        "Province",
+        "Cas confirmés",
+        "Décès (confirmés)",
+        "Létalité",
+        "Zones de santé touchées",
+        "Nouveaux cas confirmés (24h)"
+      ],
+      "rows": [
+        {
+          "cells": [
+            "Ituri",
+            "916",
+            "205",
+            "22,4%",
+            "22 sur 36 (61,1 %)",
+            "42"
+          ]
+        },
+        {
+          "cells": [
+            "Nord-Kivu",
+            "84",
+            "48",
+            "57,1%",
+            "11 sur 34 (32,3 %)",
+            "5"
+          ]
+        },
+        {
+          "cells": [
+            "Sud-Kivu",
+            "3",
+            "1",
+            "33,3%",
+            "1 sur 34 (2,9 %)",
+            "0"
+          ]
+        },
+        {
+          "cells": [
+            "Total",
+            "1003",
+            "254",
+            "25,3%",
+            "34 sur 104 (32,7 %)",
+            "47"
+          ]
+        }
+      ]
+    },
+    {
+      "n": 2,
+      "caption": "Tableau 2. Répartition des cas et décès confirmés de la maladie à virus Ebola par province et zone de santé (20 juin 2026)",
+      "columns": [
+        "Province / Zone de santé",
+        "Cas confirmés cumulés (n)",
+        "Décès confirmés cumulés (n)",
+        "Létalité (CFR, %)"
+      ],
+      "rows": [
+        {
+          "cells": [
+            "ITURI",
+            "916",
+            "205",
+            "22,4%"
+          ]
+        },
+        {
+          "cells": [
+            "Bunia",
+            "275",
+            "44",
+            "16,0%"
+          ]
+        },
+        {
+          "cells": [
+            "Rwampara",
+            "211",
+            "35",
+            "16,6%"
+          ]
+        },
+        {
+          "cells": [
+            "Mongbwalu",
+            "220",
+            "91",
+            "41,4%"
+          ]
+        },
+        {
+          "cells": [
+            "Nyankunde",
+            "79",
+            "7",
+            "8,9%"
+          ]
+        },
+        {
+          "cells": [
+            "Nizi",
+            "26",
+            "5",
+            "19,2%"
+          ]
+        },
+        {
+          "cells": [
+            "Lita",
+            "20",
+            "6",
+            "30,0%"
+          ]
+        },
+        {
+          "cells": [
+            "Komanda",
+            "10",
+            "3",
+            "30,0%"
+          ]
+        },
+        {
+          "cells": [
+            "Bambu",
+            "14",
+            "2",
+            "14,3%"
+          ]
+        },
+        {
+          "cells": [
+            "Kilo",
+            "7",
+            "1",
+            "14,3%"
+          ]
+        },
+        {
+          "cells": [
+            "Mangala",
+            "7",
+            "4",
+            "57,1%"
+          ]
+        },
+        {
+          "cells": [
+            "Tchomia",
+            "5",
+            "0",
+            "0,0%"
+          ]
+        },
+        {
+          "cells": [
+            "Damas",
+            "4",
+            "0",
+            "0,0%"
+          ]
+        },
+        {
+          "cells": [
+            "Aungba",
+            "6",
+            "2",
+            "33,3%"
+          ]
+        },
+        {
+          "cells": [
+            "Rimba",
+            "3",
+            "0",
+            "0,0%"
+          ]
+        },
+        {
+          "cells": [
+            "Aru",
+            "3",
+            "1",
+            "33,3%"
+          ]
+        },
+        {
+          "cells": [
+            "Mambasa",
+            "2",
+            "1",
+            "50,0%"
+          ]
+        },
+        {
+          "cells": [
+            "Logo",
+            "2",
+            "0",
+            "0,0%"
+          ]
+        },
+        {
+          "cells": [
+            "Drodro",
+            "1",
+            "1",
+            "100,0%"
+          ]
+        },
+        {
+          "cells": [
+            "Gety",
+            "1",
+            "0",
+            "0,0%"
+          ]
+        },
+        {
+          "cells": [
+            "Kambala",
+            "1",
+            "1",
+            "100,0%"
+          ]
+        },
+        {
+          "cells": [
+            "Nia-Nia",
+            "1",
+            "1",
+            "100,0%"
+          ]
+        },
+        {
+          "cells": [
+            "Fataki",
+            "1",
+            "0",
+            "0,0%"
+          ]
+        },
+        {
+          "cells": [
+            "Autres zones non encore identifiées",
+            "17",
+            "0",
+            "0,0%"
+          ]
+        },
+        {
+          "cells": [
+            "NORD-KIVU",
+            "84",
+            "48",
+            "57,1%"
+          ]
+        },
+        {
+          "cells": [
+            "Butembo",
+            "27",
+            "13",
+            "48,1%"
+          ]
+        },
+        {
+          "cells": [
+            "Katwa",
+            "28",
+            "17",
+            "60,7%"
+          ]
+        },
+        {
+          "cells": [
+            "Beni",
+            "17",
+            "12",
+            "70,6%"
+          ]
+        },
+        {
+          "cells": [
+            "Oicha",
+            "3",
+            "2",
+            "66,7%"
+          ]
+        },
+        {
+          "cells": [
+            "Kalunguta",
+            "2",
+            "1",
+            "50,0%"
+          ]
+        },
+        {
+          "cells": [
+            "Kyondo",
+            "2",
+            "1",
+            "50,0%"
+          ]
+        },
+        {
+          "cells": [
+            "Goma",
+            "1",
+            "0",
+            "0,0%"
+          ]
+        },
+        {
+          "cells": [
+            "Masereka",
+            "1",
+            "0",
+            "0,0%"
+          ]
+        },
+        {
+          "cells": [
+            "Vuhovi",
+            "1",
+            "1",
+            "100,0%"
+          ]
+        },
+        {
+          "cells": [
+            "Mabalako",
+            "1",
+            "0",
+            "0,0%"
+          ]
+        },
+        {
+          "cells": [
+            "Musienene",
+            "1",
+            "1",
+            "100,0%"
+          ]
+        },
+        {
+          "cells": [
+            "SUD-KIVU",
+            "3",
+            "1",
+            "33,3%"
+          ]
+        },
+        {
+          "cells": [
+            "Miti-Murhesa",
+            "3",
+            "1",
+            "33,3%"
+          ]
+        },
+        {
+          "cells": [
+            "TOTAL",
+            "1003",
+            "254",
+            "25,3%"
+          ]
+        }
+      ]
+    },
+    {
+      "n": 3,
+      "caption": "Tableau 3. Gestion des alertes épidémiologiques (24h) au 20 juin 2026",
+      "columns": [
+        "Indicateur",
+        "Ituri",
+        "Nord-Kivu",
+        "Sud-Kivu",
+        "Total"
+      ],
+      "rows": [
+        {
+          "cells": [
+            "Alertes remontées",
+            "393",
+            "436",
+            "11",
+            "840"
+          ]
+        },
+        {
+          "cells": [
+            "Alertes investiguées",
+            "393",
+            "436",
+            "10",
+            "839"
+          ]
+        },
+        {
+          "cells": [
+            "Taux d'investigation",
+            "100,0%",
+            "100,0%",
+            "90,9%",
+            "99,9%"
+          ]
+        },
+        {
+          "cells": [
+            "Alertes validées Vivantes",
+            "125",
+            "41",
+            "5",
+            "171"
+          ]
+        },
+        {
+          "cells": [
+            "Alertes validées Décédées",
+            "21",
+            "9",
+            "0",
+            "30"
+          ]
+        },
+        {
+          "cells": [
+            "Total des cas suspects du jour",
+            "146",
+            "50",
+            "5",
+            "201"
+          ]
+        }
+      ]
+    },
+    {
+      "n": 4,
+      "caption": "Tableau 4. Suivi des contacts des cas confirmés au 20 juin 2026",
+      "columns": [
+        "Province",
+        "Contacts sous suivi (n)",
+        "Contacts vus (n)",
+        "Taux de suivi (%)"
+      ],
+      "rows": [
+        {
+          "cells": [
+            "Ituri",
+            "5 920",
+            "4 056",
+            "68,5%"
+          ]
+        },
+        {
+          "cells": [
+            "Nord-Kivu",
+            "1 935",
+            "1 187",
+            "61,3%"
+          ]
+        },
+        {
+          "cells": [
+            "Sud-Kivu",
+            "58",
+            "58",
+            "100,0%"
+          ]
+        },
+        {
+          "cells": [
+            "Total",
+            "7 913",
+            "5 301",
+            "67,0%"
+          ]
+        }
+      ]
+    },
+    {
+      "n": 5,
+      "caption": "Tableau 5. Suivi des indicateurs au Points d’entrées et Points de contrôle (PoE/PoC) dans la province de l’Ituri, en date du 20 juin 2026",
+      "columns": [
+        "INDICATEURS",
+        "Ituri",
+        "Nord-Kivu",
+        "Kinshasa",
+        "Global"
+      ],
+      "rows": [
+        {
+          "cells": [
+            "Complétude des rapports",
+            "100% (44/44)",
+            "100% (12/12)",
+            "100% (4/4)",
+            "100% (60/60)"
+          ]
+        },
+        {
+          "cells": [
+            "Proportion de PoC activés et PoE renforcés",
+            "80% (44/55)",
+            "92,3%(12/13)",
+            "100%(4/4)",
+            "83,3%(60/72)"
+          ]
+        },
+        {
+          "cells": [
+            "Nombre des personnes passées aux PoE/PoC",
+            "83 708",
+            "43 021",
+            "6 825",
+            "133 554"
+          ]
+        },
+        {
+          "cells": [
+            "% des voyageurs screenés",
+            "98,0%",
+            "97,1%",
+            "92,9%",
+            "96,0%"
+          ]
+        },
+        {
+          "cells": [
+            "% des voyageurs ayant lavé les mains",
+            "97,5%",
+            "97,1%",
+            "90,8%",
+            "97,2%"
+          ]
+        },
+        {
+          "cells": [
+            "% des voyageurs sensibilisés",
+            "95,3%",
+            "97,1%",
+            "90,7%",
+            "94,4%"
+          ]
+        },
+        {
+          "cells": [
+            "Nombre d’alertes notifiées",
+            "4",
+            "0",
+            "0",
+            "4"
+          ]
+        },
+        {
+          "cells": [
+            "Nombre d’alertes vivantes validées",
+            "1",
+            "0",
+            "0",
+            "1"
+          ]
+        },
+        {
+          "cells": [
+            "Nombre des corps sans vie interceptés ce jour",
+            "3",
+            "0",
+            "0",
+            "3"
+          ]
+        },
+        {
+          "cells": [
+            "Nombre des contacts à problème interceptés ce jour",
+            "0",
+            "0",
+            "0",
+            "0"
+          ]
+        },
+        {
+          "cells": [
+            "% d’alertes vivantes validées référées au CT/CTE",
+            "0",
+            "0",
+            "0",
+            "0"
+          ]
+        },
+        {
+          "cells": [
+            "% des corps sans vie swabé",
+            "0",
+            "0",
+            "0",
+            "0"
+          ]
+        },
+        {
+          "cells": [
+            "Nombre de résultat positif des cas suspects référés",
+            "0",
+            "0",
+            "0",
+            "0"
+          ]
+        }
+      ]
+    },
+    {
+      "n": 6,
+      "caption": "Tableau 6. Mouvement des patients dans les établissements de soins (CTE/CT/CI) au 20 juin 2026",
+      "columns": [
+        "Indicateur",
+        "Ituri",
+        "Nord-Kivu",
+        "Sud-Kivu",
+        "Ensemble"
+      ],
+      "rows": [
+        {
+          "cells": [
+            "Patients au lit (J-1)",
+            "307",
+            "54",
+            "12",
+            "373"
+          ]
+        },
+        {
+          "cells": [
+            "Total admissions (24h)",
+            "62",
+            "4",
+            "1",
+            "67"
+          ]
+        },
+        {
+          "cells": [
+            "Sorties (24h) Décédés (Suspects/Conf.)",
+            "21",
+            "0",
+            "0",
+            "21"
+          ]
+        },
+        {
+          "cells": [
+            "Sorties (24h) Non-cas",
+            "34",
+            "6",
+            "0",
+            "40"
+          ]
+        },
+        {
+          "cells": [
+            "Sorties (24h) Guéris",
+            "6",
+            "0",
+            "2",
+            "8"
+          ]
+        },
+        {
+          "cells": [
+            "Sorties (24h) Évadés (Suspects/Conf.)",
+            "6",
+            "0",
+            "0",
+            "6"
+          ]
+        },
+        {
+          "cells": [
+            "Sorties (24h) Transférés à l'HGR",
+            "0",
+            "0",
+            "0",
+            "0"
+          ]
+        },
+        {
+          "cells": [
+            "Total sorties",
+            "67",
+            "6",
+            "2",
+            "75"
+          ]
+        },
+        {
+          "cells": [
+            "Patients en isolement (Fin J)",
+            "302",
+            "52",
+            "11",
+            "365"
+          ]
+        },
+        {
+          "cells": [
+            "dont confirmés (NC+AC)",
+            "139",
+            "24",
+            "0",
+            "163"
+          ]
+        },
+        {
+          "cells": [
+            "dont suspects",
+            "163",
+            "28",
+            "11",
+            "202"
+          ]
+        },
+        {
+          "cells": [
+            "Taux d'occupation global",
+            "89,3%",
+            "73,2%",
+            "34,4%",
+            "82,8%"
+          ]
+        }
+      ]
+    },
+    {
+      "n": 7,
+      "caption": "Tableau 7. Indicateurs clés des activités de santé mentale et soutien psychosocial au 20 juin 2026",
+      "columns": [
+        "INDICATEURS CLES",
+        "ITURI",
+        "NORD-KIVU",
+        "SUD-KIVU"
+      ],
+      "rows": [
+        {
+          "cells": [
+            "Nouveaux cas confirmés admis au CTE ayant bénéficié d'interventions SMSPS",
+            "13 (46,4%)",
+            "0",
+            "0"
+          ]
+        },
+        {
+          "cells": [
+            "Cas confirmés en cours de suivi ayant bénéficié d'interventions SMSPS",
+            "50 (37,9)",
+            "5 (100%)",
+            "0"
+          ]
+        },
+        {
+          "cells": [
+            "Nouveaux cas suspects ayant bénéficié d'interventions SMSPS",
+            "9 (13,4)",
+            "0",
+            "0"
+          ]
+        },
+        {
+          "cells": [
+            "Cas suspects en cours de suivi ayant bénéficié d'interventions SMSPS",
+            "31 (18,7)",
+            "18 (100%)",
+            "4 (100%)"
+          ]
+        },
+        {
+          "cells": [
+            "Résultats de laboratoire ayant été annoncés",
+            "28",
+            "0",
+            "5"
+          ]
+        },
+        {
+          "cells": [
+            "Dont positifs",
+            "13",
+            "0",
+            "0"
+          ]
+        },
+        {
+          "cells": [
+            "Nb Enfants séparés en crèche ayant bénéficié d'interventions SMSPS",
+            "8 (100%)",
+            "0",
+            "1 (100%)"
+          ]
+        },
+        {
+          "cells": [
+            "Nb Enfants séparés en communauté ayant bénéficié d'interventions SMSPS",
+            "1",
+            "0",
+            "16"
+          ]
+        },
+        {
+          "cells": [
+            "Nb Accompagnants au CTE ayant bénéficié d'interventions SMSPS",
+            "38",
+            "11",
+            "2"
+          ]
+        },
+        {
+          "cells": [
+            "Nb PPL ayant bénéficié d'interventions SMSPS",
+            "3",
+            "5",
+            "23"
+          ]
+        },
+        {
+          "cells": [
+            "Nb Membres des ménages et communautés ayant bénéficié d'interventions SMSPS",
+            "19",
+            "25",
+            "0"
+          ]
+        },
+        {
+          "cells": [
+            "Nbre d'EDS appuyés",
+            "3",
+            "0",
+            "0"
+          ]
+        }
+      ]
+    },
+    {
+      "n": 8,
+      "caption": "",
+      "columns": [
+        "N°",
+        "Défis",
+        "Impact",
+        "Actions requises"
+      ],
+      "rows": [
+        {
+          "cells": [
+            "1",
+            "Réticence aux prélèvements post mortem (EDS / swabs) et résistance communautaire",
+            "Retard de confirmation, sous-estimation des cas, perturbation des activités clés",
+            "Intensifier la CREC, implication des leaders religieux et communautaires, renforcement de la sécurité des équipes"
+          ]
+        },
+        {
+          "cells": [
+            "2",
+            "Capacité insuffisante en CTE et saturation en Ituri (82,8%)",
+            "Retards d’admission, augmentation du risque de transmission nosocomiale",
+            "Accélérer la construction et l’expansion des CTE, déployer des structures temporaires supplémentaires"
+          ]
+        },
+        {
+          "cells": [
+            "3",
+            "Faible performance du suivi des contacts (67,0% vs cible 95%)",
+            "Chaînes de transmission non interrompues",
+            "Former, déployer et motiver les relais communautaires (RECO), supervision renforcée"
+          ]
+        },
+        {
+          "cells": [
+            "4",
+            "Faible remontée des alertes dans certaines ZS affectées",
+            "Transmission non détectée, expansion silencieuse de l’épidémie",
+            "Renforcer la surveillance communautaire, améliorer la remontée et l’investigation rapide des alertes"
+          ]
+        },
+        {
+          "cells": [
+            "5",
+            "Cas confirmés non localisés ou non classifiés (17 cas)",
+            "Lacunes majeures dans la reconstruction des chaînes de transmission",
+            "Conduire une réconciliation des données, élaguer les possibles doublons, et reclassifier ou préciser la zone de santé et le statut (décès, guéris, actifs, etc.) Vérification active sur le terrain"
+          ]
+        },
+        {
+          "cells": [
+            "6",
+            "Insuffisance d’approvisionnement en MEG et intrants médicaux",
+            "Fragilisation de la prise en charge globale",
+            "Plaidoyer et approvisionnement urgent en médicaments essentiels"
+          ]
+        },
+        {
+          "cells": [
+            "7",
+            "Insuffisance des intrants PCI (EPI, chlore) et formation limitée",
+            "Risque élevé d’infections nosocomiales (78 cas HCW dont 18 décès, létalité 23,1%)",
+            "Approvisionnement urgent, renforcement des formations en PCI"
+          ]
+        },
+        {
+          "cells": [
+            "8",
+            "Stock des échantillons non encore analysés (backlog) au laboratoire au Nord-Kivu et diagnostic tardif",
+            "Retard de confirmation, létalité élevée (57,1%)",
+            "Déployer un plan de rattrapage laboratoire, renforcer capacités diagnostiques"
+          ]
+        },
+        {
+          "cells": [
+            "9",
+            "Insuffisance d’ambulances et de structures d’isolement (gap de 20 centres)",
+            "Retards de transfert et isolement, augmentation du risque de transmission",
+            "Déploiement urgent de moyens logistiques et infrastructures supplémentaires"
+          ]
+        },
+        {
+          "cells": [
+            "10",
+            "Coordination insuffisante et faible utilisation des cadres COUSP",
+            "Inefficience opérationnelle et décisions retardées",
+            "Renforcer les mécanismes de coordination à tous les niveaux, rendre opérationnels les COUSP provinciaux"
+          ]
+        },
+        {
+          "cells": [
+            "11",
+            "Insuffisance des ressources financières (gap 20 millions USD)",
+            "Limitation de la mise en œuvre de tous les piliers de la riposte",
+            "Mobilisation urgente des ressources, plaidoyer auprès des partenaires"
+          ]
+        },
+        {
+          "cells": [
+            "12",
+            "Insécurité et accès limité (CODECO, ADF)",
+            "Restriction des opérations, accès limité aux zones à haut risque",
+            "Renforcement de la coordination sécuritaire et accès humanitaire"
+          ]
+        },
+        {
+          "cells": [
+            "13",
+            "Continuité des services essentiels (CEHS) compromise",
+            "Augmentation de la mortalité indirecte (non Ebola)",
+            "Mise en œuvre effective de la gratuité des soins, renforcement CEHS"
+          ]
+        },
+        {
+          "cells": [
+            "14",
+            "Forte mobilité des populations",
+            "Risque élevé d’expansion géographique rapide",
+            "Renforcer la surveillance aux PoE/PoC et coordination transfrontalière"
+          ]
+        }
+      ]
+    }
+  ]
+}

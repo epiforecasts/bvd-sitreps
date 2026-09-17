@@ -1,0 +1,3 @@
+id,model,thinking,reason
+008,gemini-3.8-flash,,"gemini-3.1-pro-preview failed twice at default thinking (62,914 thinking tokens filled the output limit) and truncated at thinking=low (recall 0.28, 1 of ~10 tables)"
+016,gemini-3.8-flash,,"gemini-3.1-pro-preview omitted the page-1 headline figures (282* 42 220 101 238 2 45,2%) and a page-8 sentence (1800 motos) on two builds (recall 0.94); flash recall 1.00 with the same two tables"

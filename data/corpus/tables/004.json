@@ -1,0 +1,332 @@
+{
+  "id": "004",
+  "sitrep": "004",
+  "report_date": "2026-05-19",
+  "pdf_md5": "e47d34820702aa167146f176a198ef50",
+  "tables": [
+    {
+      "n": 1,
+      "caption": "",
+      "columns": [
+        "Provinces touchées",
+        "Cas confirmés",
+        "Décès confirmés",
+        "Cas probable",
+        "Cas suspects",
+        "Guéris du jour"
+      ],
+      "rows": [
+        {
+          "cells": [
+            "Ituri",
+            "30",
+            "4",
+            "ND",
+            "131",
+            "0"
+          ]
+        },
+        {
+          "cells": [
+            "Nord-Kivu",
+            "3",
+            "0",
+            "ND",
+            "ND",
+            "0"
+          ]
+        },
+        {
+          "cells": [
+            "Total",
+            "33",
+            "4",
+            "ND",
+            "0",
+            "0"
+          ]
+        }
+      ]
+    },
+    {
+      "n": 2,
+      "caption": "Tableau I : Répartition des cas et décès confirmés et probables de maladie à virus Ebola dans les zones de santé de la DPS Ituri et Nord-Kivu au 18 mai 2026*",
+      "columns": [
+        "Provinces",
+        "Zones de santé",
+        "Nbre de cas suspects",
+        "Nbre de décès suspects",
+        "Nbre de cas Confirmés",
+        "Nbre de contacts"
+      ],
+      "rows": [
+        {
+          "cells": [
+            "Ituri",
+            "Mongbwalu",
+            "302",
+            "74",
+            "1",
+            "161"
+          ]
+        },
+        {
+          "cells": [
+            "Ituri",
+            "Rwampara",
+            "136",
+            "38",
+            "19",
+            "120"
+          ]
+        },
+        {
+          "cells": [
+            "Ituri",
+            "Bunia",
+            "61",
+            "18",
+            "6",
+            "127"
+          ]
+        },
+        {
+          "cells": [
+            "Ituri",
+            "Nyankunde",
+            "14",
+            "1",
+            "4",
+            "133"
+          ]
+        },
+        {
+          "cells": [
+            "Nord-Kivu",
+            "Goma",
+            "1",
+            "0",
+            "1",
+            "ND"
+          ]
+        },
+        {
+          "cells": [
+            "Nord-Kivu",
+            "Katwa",
+            "1",
+            "0",
+            "1",
+            "ND"
+          ]
+        },
+        {
+          "cells": [
+            "Nord-Kivu",
+            "Butembo",
+            "1",
+            "0",
+            "1",
+            "ND"
+          ]
+        },
+        {
+          "cells": [
+            "Total",
+            "Total",
+            "516",
+            "131",
+            "33",
+            "541"
+          ]
+        }
+      ]
+    },
+    {
+      "n": 3,
+      "caption": "Tableau II : Situation des alertes du jour dans les zones de santé de la DPS Ituri au 18 mai 2026",
+      "columns": [
+        "Indicateurs sur les alertes",
+        "Bunia",
+        "Rwampara",
+        "Nyankunde",
+        "Mongbwalu",
+        "Nizi",
+        "Lita",
+        "Bambu",
+        "Fataki",
+        "Total"
+      ],
+      "rows": [
+        {
+          "cells": [
+            "Report des alertes (17/05)",
+            "3",
+            "7",
+            "0",
+            "0",
+            "0",
+            "0",
+            "ND",
+            "ND",
+            "10"
+          ]
+        },
+        {
+          "cells": [
+            "Nouvelles alertes (18/05)",
+            "13",
+            "23",
+            "4",
+            "11",
+            "1",
+            "2",
+            "ND",
+            "ND",
+            "54"
+          ]
+        },
+        {
+          "cells": [
+            "Total des alertes du jour (18/05)",
+            "16",
+            "30",
+            "4",
+            "11",
+            "1",
+            "2",
+            "ND",
+            "ND",
+            "64"
+          ]
+        },
+        {
+          "cells": [
+            "Alertes vivants",
+            "10",
+            "20",
+            "3",
+            "9",
+            "1",
+            "2",
+            "ND",
+            "ND",
+            "45"
+          ]
+        },
+        {
+          "cells": [
+            "Alertes décédés",
+            "6",
+            "10",
+            "1",
+            "2",
+            "0",
+            "0",
+            "ND",
+            "ND",
+            "19"
+          ]
+        },
+        {
+          "cells": [
+            "Alertes investiguées",
+            "16",
+            "22",
+            "4",
+            "9",
+            "1",
+            "2",
+            "ND",
+            "ND",
+            "54"
+          ]
+        },
+        {
+          "cells": [
+            "Alertes non investiguées",
+            "0",
+            "0",
+            "0",
+            "9",
+            "0",
+            "0",
+            "ND",
+            "ND",
+            "9"
+          ]
+        },
+        {
+          "cells": [
+            "Alertes validées",
+            "16",
+            "21",
+            "4",
+            "9",
+            "1",
+            "2",
+            "ND",
+            "ND",
+            "53"
+          ]
+        },
+        {
+          "cells": [
+            "Alertes invalidées",
+            "0",
+            "1",
+            "0",
+            "2",
+            "0",
+            "0",
+            "ND",
+            "ND",
+            "3"
+          ]
+        },
+        {
+          "cells": [
+            "Cas suspects prélevés",
+            "10",
+            "21",
+            "4",
+            "2",
+            "0",
+            "0",
+            "ND",
+            "ND",
+            "37"
+          ]
+        },
+        {
+          "cells": [
+            "Cas suspects isolés",
+            "9",
+            "46",
+            "3",
+            "9",
+            "0",
+            "2",
+            "ND",
+            "ND",
+            "69"
+          ]
+        },
+        {
+          "cells": [
+            "Cas suspects non isolés",
+            "1",
+            "0",
+            "0",
+            "0",
+            "1",
+            "0",
+            "ND",
+            "ND",
+            "2"
+          ]
+        }
+      ]
+    }
+  ]
+}

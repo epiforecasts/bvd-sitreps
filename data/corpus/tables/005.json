@@ -1,0 +1,528 @@
+{
+  "id": "005",
+  "sitrep": "005",
+  "report_date": "2026-05-19",
+  "pdf_md5": "abf500d55212263f60be9a8fb0b275d0",
+  "tables": [
+    {
+      "n": 1,
+      "caption": "",
+      "columns": [
+        "Provinces touchées",
+        "Zones de santé",
+        "Nouveaux cas confirmés",
+        "Nouveaux décès confirmés",
+        "Nouveaux cas probables",
+        "Nouveaux cas suspects",
+        "Nouveaux contacts listés",
+        "Guéris du jour"
+      ],
+      "rows": [
+        {
+          "cells": [
+            "Ituri",
+            "Bunia",
+            "0",
+            "0",
+            "ND",
+            "29",
+            "76",
+            "0"
+          ]
+        },
+        {
+          "cells": [
+            "Ituri",
+            "Rwampara",
+            "4",
+            "0",
+            "ND",
+            "18",
+            "215",
+            "0"
+          ]
+        },
+        {
+          "cells": [
+            "Ituri",
+            "Mungbwalu",
+            "12",
+            "0",
+            "ND",
+            "7",
+            "15",
+            "0"
+          ]
+        },
+        {
+          "cells": [
+            "Ituri",
+            "Nyankunde",
+            "0",
+            "0",
+            "ND",
+            "5",
+            "0",
+            "0"
+          ]
+        },
+        {
+          "cells": [
+            "Ituri",
+            "Sous total",
+            "16",
+            "0",
+            "0",
+            "59",
+            "306",
+            "0"
+          ]
+        },
+        {
+          "cells": [
+            "Nord-Kivu",
+            "Goma",
+            "0",
+            "0",
+            "ND",
+            "ND",
+            "ND",
+            "0"
+          ]
+        },
+        {
+          "cells": [
+            "Nord-Kivu",
+            "Butembo",
+            "0",
+            "0",
+            "ND",
+            "ND",
+            "ND",
+            "0"
+          ]
+        },
+        {
+          "cells": [
+            "Nord-Kivu",
+            "Katwa",
+            "0",
+            "0",
+            "ND",
+            "ND",
+            "ND",
+            "0"
+          ]
+        },
+        {
+          "cells": [
+            "Nord-Kivu",
+            "Sous total",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+          ]
+        },
+        {
+          "cells": [
+            "Total",
+            "Total",
+            "16",
+            "0",
+            "0",
+            "59",
+            "306",
+            "0"
+          ]
+        }
+      ]
+    },
+    {
+      "n": 2,
+      "caption": "Tableau I. Récapitulatif de la situation des alertes à la date du 19 mai 2026",
+      "columns": [
+        "Zones de santé",
+        "Report des alertes (18/05)",
+        "Nouvelles alertes (19/05)",
+        "Total des alertes du jour (19/05)",
+        "Alertes vivants",
+        "Alertes décédés",
+        "Alertes investiguées",
+        "Alertes non investiguées",
+        "Alertes validées",
+        "Alertes invalidées",
+        "Cas suspects prélevés",
+        "Cas suspects non prélevés",
+        "Cas suspects isolés",
+        "Cas suspects non isolés"
+      ],
+      "rows": [
+        {
+          "cells": [
+            "Bunia",
+            "0",
+            "35",
+            "35",
+            "30",
+            "5",
+            "33",
+            "2",
+            "29 (5 décès)",
+            "4",
+            "10",
+            "19",
+            "30",
+            "0"
+          ]
+        },
+        {
+          "cells": [
+            "Rwampara",
+            "8",
+            "19",
+            "27",
+            "22",
+            "5",
+            "20",
+            "7",
+            "18",
+            "2",
+            "13",
+            "5",
+            "13",
+            "0"
+          ]
+        },
+        {
+          "cells": [
+            "Nyankunde",
+            "0",
+            "6",
+            "6",
+            "2",
+            "4",
+            "5",
+            "1",
+            "5",
+            "0",
+            "5",
+            "0",
+            "5",
+            "0"
+          ]
+        },
+        {
+          "cells": [
+            "Mongbwalu",
+            "0",
+            "7",
+            "7",
+            "4",
+            "3",
+            "7",
+            "0",
+            "7",
+            "0",
+            "7",
+            "0",
+            "4",
+            "0"
+          ]
+        },
+        {
+          "cells": [
+            "Komanda",
+            "0",
+            "3",
+            "3",
+            "2",
+            "1",
+            "3",
+            "0",
+            "3",
+            "0",
+            "2",
+            "1 (décès)",
+            "2",
+            "0"
+          ]
+        },
+        {
+          "cells": [
+            "Bambu",
+            "0",
+            "1",
+            "1",
+            "0",
+            "1",
+            "1",
+            "0",
+            "1",
+            "0",
+            "0",
+            "1 (décès)",
+            "0",
+            "0"
+          ]
+        },
+        {
+          "cells": [
+            "Mangala",
+            "0",
+            "2",
+            "2",
+            "2",
+            "0",
+            "2",
+            "0",
+            "2",
+            "0",
+            "1",
+            "1 (vivant)",
+            "1",
+            "1"
+          ]
+        },
+        {
+          "cells": [
+            "Total",
+            "8",
+            "73",
+            "81",
+            "62",
+            "19",
+            "71",
+            "10",
+            "36",
+            "6",
+            "38",
+            "27",
+            "55",
+            "1"
+          ]
+        }
+      ]
+    },
+    {
+      "n": 3,
+      "caption": "Tableau II. Récapitulatif de l’identification et suivi de contacts à la date du 19 mai 2026",
+      "columns": [
+        "Zones de santé",
+        "Suivi journalier Report du 18/05/2026",
+        "Suivi journalier Nouveaux contacts le 19/05/2026",
+        "Suivi journalier Contact à suivre ce jour",
+        "Suivi journalier Contacts vus",
+        "Suivi journalier Sorties 21 Jrs",
+        "Suivi journalier Devenus Suspects",
+        "Taux de suivi",
+        "Total non vus",
+        "Raison de non vus Simple Absence",
+        "Raison de non vus Perdus de vue (≥72 heures)",
+        "Raison de non vus Jamais vus",
+        "Raison de non vus Refus",
+        "Raison de non vus Déplacés",
+        "Raison de non vus Reco n'est pas passé",
+        "Reste à suivre le jour suivant"
+      ],
+      "rows": [
+        {
+          "cells": [
+            "Bunia",
+            "127",
+            "76",
+            "203",
+            "3",
+            "0",
+            "1",
+            "1,5%",
+            "200",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "200",
+            "203"
+          ]
+        },
+        {
+          "cells": [
+            "Rwampara",
+            "120",
+            "215",
+            "335",
+            "78",
+            "0",
+            "0",
+            "23%",
+            "257",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "257",
+            "335"
+          ]
+        },
+        {
+          "cells": [
+            "Nyankunde",
+            "133",
+            "0",
+            "133",
+            "0",
+            "0",
+            "0",
+            "0%",
+            "133",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "133",
+            "133"
+          ]
+        },
+        {
+          "cells": [
+            "Mongbwalu",
+            "161",
+            "15",
+            "176",
+            "0",
+            "0",
+            "0",
+            "0%",
+            "176",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "176",
+            "176"
+          ]
+        },
+        {
+          "cells": [
+            "Total",
+            "541",
+            "306",
+            "847",
+            "81",
+            "0",
+            "1",
+            "9,6%",
+            "766",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "766",
+            "847"
+          ]
+        }
+      ]
+    },
+    {
+      "n": 4,
+      "caption": "Tableau III. Répartition des cas, décès suspects et confirmés de maladie à virus Ebola dans les zones de santé de la DPS Ituri et Nord-Kivu au 19 mai 2026",
+      "columns": [
+        "Provinces",
+        "Zones de santé",
+        "Nbre de cas suspects",
+        "Nbre de décès suspects",
+        "Nbre de cas Confirmés",
+        "Nbre de contacts"
+      ],
+      "rows": [
+        {
+          "cells": [
+            "Ituri",
+            "Mongbwalu",
+            "309",
+            "77",
+            "13",
+            "176"
+          ]
+        },
+        {
+          "cells": [
+            "Ituri",
+            "Rwampara",
+            "154",
+            "43",
+            "25",
+            "335"
+          ]
+        },
+        {
+          "cells": [
+            "Ituri",
+            "Bunia",
+            "90",
+            "23",
+            "6",
+            "203"
+          ]
+        },
+        {
+          "cells": [
+            "Ituri",
+            "Nyankunde",
+            "19",
+            "5",
+            "4",
+            "133"
+          ]
+        },
+        {
+          "cells": [
+            "Nord-Kivu",
+            "Goma",
+            "1",
+            "0",
+            "1",
+            "N"
+          ]
+        },
+        {
+          "cells": [
+            "Nord-Kivu",
+            "Katwa",
+            "1",
+            "0",
+            "1",
+            "ND"
+          ]
+        },
+        {
+          "cells": [
+            "Nord-Kivu",
+            "Butembo",
+            "1",
+            "0",
+            "1",
+            "ND"
+          ]
+        },
+        {
+          "cells": [
+            "Total",
+            "Total",
+            "575",
+            "148",
+            "51",
+            "847"
+          ]
+        }
+      ]
+    }
+  ]
+}
