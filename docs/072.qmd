@@ -6,11 +6,14 @@ sitrep: "072"
 pdf_md5: 041d4bf3e21ac1968e18076b9cef2ab0
 model: agy:gemini-3.8-flash-low
 translate_key: "041d4bf3e21ac1968e18076b9cef2ab0:c95d366fc47db0685de85290691c3ec5:2b47b40403025e32e12927f461c2f1e4:gemini-3.1-pro-preview:da5ff90cf9667d64f15f0f0a0c7b6c29:agy:gemini-3.8-flash-low"
+pdf_url: https://insp.cd/wp-content/uploads/2026/07/SitRep_MVE_RDC_N°_72_25-07-2026.pdf
 lang: en
 ---
 
 ::: {.callout-caution}
-Machine translation from the French original with Google Gemini, with no human review. Check the original before relying on any figure.
+Machine translation from the French original with Google Gemini. No person has reviewed it.
+
+Every number on this page was compared against the French transcription, and the page is published only if they match. The wording carries no such check. Before relying on any figure, read it in the [original PDF](https://insp.cd/wp-content/uploads/2026/07/SitRep_MVE_RDC_N°_72_25-07-2026.pdf).
 :::
 
 Public Health Emergency Operations Centre

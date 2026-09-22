@@ -67,4 +67,15 @@ Models are pinned in `R/lib/gemini.R`, with the comparison that chose them. Toke
 
 The `Update Sitreps` Actions workflow runs the same pipeline on demand and commits the results. It needs `GOOGLE_AI_KEY` as a repository secret.
 
+## Licence
+
+The code in `R/` is MIT, in [LICENSE](LICENSE).
+
+The reports are not ours. `data/` and the English pages under `docs/` are
+derived from situation reports published by INSP, who hold whatever rights
+attach to them; the transcription and translation are ours, under CC BY 4.0.
+[data/LICENSE.md](data/LICENSE.md) sets out both, and what the reports do and
+do not contain about individuals. The source PDF is the authority in every
+case, and every file records which one it came from.
+
 Many thanks to INSP and all those providing public access to these reports.

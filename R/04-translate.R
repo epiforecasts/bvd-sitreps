@@ -282,12 +282,22 @@ translate_one <- function(id) {
         paste0("pdf_md5: ", fr$meta$pdf_md5),
         paste0("model: ", gemini_model_label(GEMINI_MODEL_TRANSLATE, TRANSLATE_THINKING)),
         paste0("translate_key: \"", key, "\""),
+        paste0("pdf_url: ", fr$meta$pdf_url),
         "lang: en",
         "---",
         "",
+        #' The warning says what was checked as well as what was not. "No
+        #' human review" on its own tells a reader to distrust everything
+        #' equally, when in fact the numbers carry a check the wording does
+        #' not, and the source is one link away.
         "::: {.callout-caution}",
-        paste("Machine translation from the French original with Google Gemini,",
-            "with no human review. Check the original before relying on any figure."),
+        paste("Machine translation from the French original with Google",
+            "Gemini. No person has reviewed it."),
+        "",
+        paste0("Every number on this page was compared against the French ",
+            "transcription, and the page is published only if they match. ",
+            "The wording carries no such check. Before relying on any ",
+            "figure, read it in the [original PDF](", fr$meta$pdf_url, ")."),
         ":::",
         ""
     )

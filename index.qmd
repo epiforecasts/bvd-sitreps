@@ -12,6 +12,14 @@ listing:
 This website holds English translated outbreak situation reports for the 2026 Ebola-BVD outbreak.
 These are provided by the Centre d'opérations d'urgence de santé publique (COUSP) / L'Institut National de Santé Publique (INSP).
 
+::: {.callout-caution}
+## Translated by machine, not read by a person
+
+Every page here was translated from the French original by Google Gemini. No person has reviewed any of it.
+
+Each page's numbers were compared against the French transcription and the page is published only if they match, so a figure that moved in translation stops the build. Nothing checks the wording. Every page links to the original PDF: read a figure there before you rely on it, and please [tell us](https://github.com/epiforecasts/bvd-sitreps/issues) if something is wrong.
+:::
+
 Before sharing this, please cite the original sitrep source:
 
 - [INSP Sitreps](https://insp.cd/ebola-17eme-epidemie/)
@@ -30,7 +38,7 @@ The intention here is to provide an English translated, machine-readable, time-s
 - The French is then translated to English with this [prompt](https://github.com/epiforecasts/bvd-sitreps/blob/main/assets/prompt-translate.md). Each translated table is checked to hold the same numbers as the French one
 - The English pages are rendered here
 
-All data and code is available for re-use, and contributions welcome: [codebase](https://github.com/epiforecasts/bvd-sitreps)
+The code is MIT licensed. The reports themselves are INSP's, and we claim nothing over them; our transcription and translation are CC BY 4.0. See [the data terms](https://github.com/epiforecasts/bvd-sitreps/blob/main/data/LICENSE.md). Contributions welcome: [codebase](https://github.com/epiforecasts/bvd-sitreps)
 
 We welcome feedback, suggestions, and collaboration: [contribute directly](https://github.com/epiforecasts/bvd-sitreps/issues) or [get in touch](mailto:katharine.sherratt@lshtm.ac.uk).
 :::
