@@ -67,6 +67,26 @@ Models are pinned in `R/lib/gemini.R`, with the comparison that chose them. Toke
 
 The `Update Sitreps` Actions workflow runs the same pipeline on demand and commits the results. It needs `GOOGLE_AI_KEY` as a repository secret.
 
+## Citation
+
+If you use this corpus, please cite both it and the reports it transcribes:
+
+- **This corpus** — Sherratt, K. (2026). *bvd-sitreps: a machine-readable
+  corpus of the INSP situation reports for the 2026 DRC Bundibugyo virus
+  outbreak.* <https://github.com/epiforecasts/bvd-sitreps>.
+- **The situation reports** — Institut National de Santé Publique, Democratic
+  Republic of the Congo (2026). *Situation reports on the 17th Ebola virus
+  disease epidemic.* <https://insp.cd/ebola-17eme-epidemie/>.
+
+[CITATION.cff](CITATION.cff) carries the same metadata in a form GitHub and
+reference managers can read. Cite the report itself for any figure: the source
+PDF is the authority, and each file here records which one it came from.
+
+## Contributing
+
+Corrections are the most valuable contribution, because nothing here has been
+read by a person. See [CONTRIBUTING.md](CONTRIBUTING.md).
+
 ## Licence
 
 The code in `R/` is MIT, in [LICENSE](LICENSE).
