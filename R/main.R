@@ -1,17 +1,39 @@
-# Runs the full sitrep pipeline: scrape PDFs, convert to markdown, parse tables.
-# Set GOOGLE_AI_KEY before running extract-docs.R (via env var or .Renviron).
-# Run from repo root.
-if (!requireNamespace("groundhog", quietly = TRUE)) install.packages("groundhog")
+#!/usr/bin/env Rscript
+#'
+#' Run the whole pipeline in order, stopping at the first step that fails.
+#'
+#' Each step is its own Rscript process rather than being `source()`d into one
+#' session. A step that leaves state behind cannot then change how a later one
+#' behaves, and each step's exit status means what it says: the QA gate in
+#' 05-check-corpus.R exits non-zero when the corpus does not hold up, and that
+#' has to stop the run rather than scroll past.
+#'
+#' Order follows dependency, not the order a reader might expect: tables are
+#' written to CSV before translation, because each English page links its
+#' report's CSVs.
+#'
+#' Usage:
+#'     Rscript R/main.R
 
-runner_path <- "/home/runner/R_groundhog"
-if (dir.exists(dirname(runner_path))) {
-  groundhog::set.groundhog.folder(runner_path)
+steps <- c(
+    "01-fetch-pdfs.R",
+    "02-build-corpus.R",
+    "03-tables-to-csv.R",
+    "04-translate.R",
+    "05-check-corpus.R"
+)
+
+for (step in steps) {
+    message("\n==> ", step)
+    status <- system2("Rscript", here::here("R", step))
+    if (status == 3L) {
+        message("\n", step, " stopped at the API quota. Rerun after it resets ",
+            "(midnight Pacific); finished reports are cached.")
+        quit(status = 3L)
+    }
+    if (status != 0L) {
+        stop(step, " exited with status ", status, "; stopping.", call. = FALSE)
+    }
 }
 
-groundhog_date <- "2026-05-20"
-r_version <- getRversion()
-
-source("R/01-scrape-pdf.R")
-source("R/02-extract-docs.R")
-source("R/03-extract-tables.R")
-source("R/04-format-quarto.R")
+message("\nPipeline complete.")

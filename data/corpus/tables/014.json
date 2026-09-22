@@ -1,0 +1,306 @@
+{
+  "id": "014",
+  "sitrep": "014",
+  "report_date": "2026-05-28",
+  "pdf_md5": "496f7a4a3a117d8868e0ad81d36c479c",
+  "tables": [
+    {
+      "n": 1,
+      "caption": "Tableau III. Synthèse de données au PoE/PoC du 28/05/2026",
+      "columns": [
+        "Indicateurs aux PoE/PoC",
+        "TOTAL"
+      ],
+      "rows": [
+        {
+          "cells": [
+            "Voyageurs passés par le PoE/PoC",
+            "16 905"
+          ]
+        },
+        {
+          "cells": [
+            "Voyageurs screenés",
+            "16704 (98,8%)"
+          ]
+        },
+        {
+          "cells": [
+            "Voyageurs ayant lavés les mains",
+            "16 674 (98,6%)"
+          ]
+        },
+        {
+          "cells": [
+            "Voyageurs sensibilisés sur la MVE",
+            "16 704 (98,8%)"
+          ]
+        },
+        {
+          "cells": [
+            "Contacts listés",
+            "0"
+          ]
+        },
+        {
+          "cells": [
+            "Alertes remontées",
+            "2 (ZS Aru)"
+          ]
+        }
+      ]
+    },
+    {
+      "n": 2,
+      "caption": "Tableau IV. Point sur la situation de laboratoire cumul en date du 28/05/2026",
+      "columns": [
+        "Indicateurs clés",
+        "Total"
+      ],
+      "rows": [
+        {
+          "cells": [
+            "Échantillons reçus",
+            "883"
+          ]
+        },
+        {
+          "cells": [
+            "Ré prélèvements (contrôle)",
+            "8"
+          ]
+        },
+        {
+          "cells": [
+            "Nbre d’échantillons analysés",
+            "755"
+          ]
+        },
+        {
+          "cells": [
+            "Taux de positivité",
+            "27.8%"
+          ]
+        },
+        {
+          "cells": [
+            "Nbre total des cas positifs",
+            "210"
+          ]
+        }
+      ]
+    },
+    {
+      "n": 3,
+      "caption": "Tableau V. Mouvement des malades dans les établissements de soins en date du 28/05/2026",
+      "columns": [
+        "Indicateurs et Variables",
+        "HGR BUNIA (12 Lits: 08 S et 03 C )",
+        "HGR RWAMPARA (18 Lits: 08 C et 10 S)",
+        "CME (27 Lits : 08 Conf et 19 S )",
+        "HGR MUNGBWALU (40 Lits: 12 C et 28 S )",
+        "HGR NYAKUNDE",
+        "CT BAMBU",
+        "CT HEAL AFRICA (Nord-kivu) 19 lits",
+        "TOTAL et Tx d'occup"
+      ],
+      "rows": [
+        {
+          "cells": [
+            "Report",
+            "14",
+            "8",
+            "22",
+            "10",
+            "39",
+            "6",
+            "2",
+            "101"
+          ]
+        },
+        {
+          "cells": [
+            "Nouvelles PPL",
+            "0",
+            "0",
+            "0",
+            "1",
+            "0",
+            "0",
+            "0",
+            "1"
+          ]
+        },
+        {
+          "cells": [
+            "Admissions Autres",
+            "2",
+            "2",
+            "5",
+            "1",
+            "0",
+            "3",
+            "0",
+            "13"
+          ]
+        },
+        {
+          "cells": [
+            "Sorties Guéris",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+          ]
+        },
+        {
+          "cells": [
+            "Sorties Décédés",
+            "1",
+            "1",
+            "1",
+            "2",
+            "1",
+            "0",
+            "0",
+            "6"
+          ]
+        },
+        {
+          "cells": [
+            "Sorties Non Cas",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+          ]
+        },
+        {
+          "cells": [
+            "Sorties Evadés",
+            "3",
+            "0",
+            "0",
+            "1",
+            "0",
+            "0",
+            "0",
+            "4"
+          ]
+        },
+        {
+          "cells": [
+            "Sorties Transférés",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+          ]
+        },
+        {
+          "cells": [
+            "Malades Hospitalisés Total",
+            "12",
+            "9",
+            "26",
+            "9",
+            "38",
+            "9",
+            "0",
+            "103"
+          ]
+        },
+        {
+          "cells": [
+            "Malades Hospitalisés Nvx Cas Confirmés",
+            "0",
+            "1",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "1"
+          ]
+        },
+        {
+          "cells": [
+            "Malades Hospitalisés Anciens Cas Confirmés",
+            "1",
+            "0",
+            "0",
+            "0",
+            "9",
+            "1",
+            "1",
+            "12"
+          ]
+        },
+        {
+          "cells": [
+            "Malades Hospitalisés Suspects",
+            "11",
+            "8",
+            "26",
+            "9",
+            "29",
+            "8",
+            "1",
+            "92"
+          ]
+        },
+        {
+          "cells": [
+            "Malades Hospitalisés Suspect < 5 ans",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+          ]
+        },
+        {
+          "cells": [
+            "Taux d'occupation de lit Suspects",
+            "11/12(91,6%)",
+            "8/10(80%)",
+            "26/27(96%)",
+            "9/28(32%)",
+            "ND",
+            "ND",
+            "ND",
+            "70,1%"
+          ]
+        },
+        {
+          "cells": [
+            "Taux d'occupation de lit Confirmés",
+            "1/3 (33,3%)",
+            "1/8 (12%)",
+            "",
+            "0/12 (0%)",
+            "ND",
+            "ND",
+            "ND",
+            "8,7%"
+          ]
+        }
+      ]
+    }
+  ]
+}

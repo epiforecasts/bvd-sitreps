@@ -1,0 +1,370 @@
+---
+title: "SitRep 017"
+subtitle: "Report date 2026-05-31"
+date: 2026-05-31
+sitrep: "017"
+pdf_md5: bcda0a419e47fba81631b8ac1dad4ba8
+model: agy:gemini-3.8-flash-low
+translate_key: "bcda0a419e47fba81631b8ac1dad4ba8:c95d366fc47db0685de85290691c3ec5:2b47b40403025e32e12927f461c2f1e4:gemini-3.1-pro-preview:da5ff90cf9667d64f15f0f0a0c7b6c29:agy:gemini-3.8-flash-low"
+pdf_url: https://insp.cd/wp-content/uploads/2026/06/SitRep_MVE_RDC_N017_01_06_2026-Revised_JO_PA_IM-1.pdf
+lang: en
+---
+
+::: {.callout-caution}
+Machine translation from the French original with Google Gemini. No person has reviewed it.
+
+Every number on this page was compared against the French transcription, and the page is published only if they match. The wording carries no such check. Before relying on any figure, read it in the [original PDF](https://insp.cd/wp-content/uploads/2026/06/SitRep_MVE_RDC_N017_01_06_2026-Revised_JO_PA_IM-1.pdf).
+:::
+
+Provinces affected (3): ITURI, NORD-KIVU & SUD-KIVU
+
+Health Zones (ZS: health zone) affected (23): ITURI: Aru, Aungba, Bambu, Damas, Bunia, Gety, Kilo, Komanda, Lita, Mangala, Mongbwalu, Nizi, Nyankunde, Rwampara and Logo NORD-KIVU: Butembo, Goma, Oicha, Kalunguta, Katwa, Kyondo and Beni SUD-KIVU: Miti-Murhesa
+
+Reporting date: 31 mai 2026
+
+Publication date: 01 Juin 2026
+
+321* Cumulative confirmed cases
+
+48 Cumulative deaths among confirmed cases
+
+116 Suspected cases under investigation
+
+104 Suspected cases in isolation
+
+238** Active confirmed cases
+
+6 Recovered
+
+43% Contact follow-up rate
+
+*Data being harmonised
+
+**Location of these active confirmed cases is ongoing in order to harmonise the statistics
+
+## 1. HIGHLIGHTS
+
+- Twelve (12) new confirmed cases notified on 31 mai 2026, distributed across the health zones of Rwampara (5), Bunia (4), Nyankunde (1), Logo (1) and Nizi (1).
+
+- The Logo health zone is newly affected, bringing to 15 out of 36 (41,7%) the health zones affected in Ituri province.
+
+- Discharge of four (4) recovered patients from Centre Médical Évangélique de Bunia, a ceremony chaired by the Director General of the INSP (National Institute of Public Health) in the presence of the Director-General of the OMS.
+
+- Official inauguration of the standard Ebola Treatment Centre (CTE: Ebola treatment centre) of CME Rwampara, newly rehabilitated and handed over by the Director-General of the OMS to the MVE (Ebola virus disease) Incident Manager representing the Minister of Public Health.
+
+- Receipt of 162 blood units for transfusion care as part of the continuity of essential healthcare services.
+
+## 2. EPIDEMIOLOGICAL AND OPERATIONAL CONTEXT
+
+Ituri province, located in north-eastern Democratic Republic of the Congo, shares a long and porous border with Uganda and South Sudan.
+
+For more than two decades, it has been facing a chronic humanitarian crisis linked to armed conflict and recurrent population displacements.
+
+Its population is estimated at more than 8 million inhabitants, including over one million internally displaced persons.
+
+The Mongbwalu health zone, considered the starting point of the outbreak, is located in Djugu territory 70 km from Bunia.
+
+This zone is characterised by the presence of armed groups, frequent population movements towards Uganda, and numerous artisanal mining sites attracting migrant workers.
+
+In septembre 2018, Ituri province had already been affected by the 10th MVE outbreak, which was then raging in Nord-Kivu.
+
+The current outbreak, caused by the Bundibugyo ebolavirus, was officially declared on 15 mai 2026 by the Minister of Public Health.
+
+The three affected provinces have a total population estimated at nearly 15 million inhabitants, with massive internal displacements and cross-border flows towards neighbouring countries.
+
+[FIGURE: Figure 1. Timeline of events of the Ebola-Bundibugyo virus disease outbreak.]
+
+## 3. DETAILED EPIDEMIOLOGICAL ANALYSIS
+
+### 3.1 Spatial distribution
+
+
+| Province | Confirmed cases | Deaths (confirmed) | CFR | Affected health zones | New cases (24h) |
+|---|---|---|---|---|---|
+| Ituri | 299 | 46 | 15,4% | 15 out of 36 (41,7%) | 12 |
+| Nord-Kivu | 19 | 1 | 5,3% | 7 out of 34 (20,6%) | 0 |
+| Sud-Kivu | 3 | 1 | 33,3% | 1 out of 34 (2,9%) | 0 |
+| Total | 321 | 48 | 15,0% | 23 out of 104 (22,1%) | 12 |
+
+
+### 3.2 Affected health zones
+
+- Ituri (15 health zones): Aru, Aungba, Bambu, Bunia, Damas, Gety, Kilo, Komanda, Lita, Logo, Mangala, Mongbwalu, Nizi, Nyankunde, Rwampara.
+
+- Nord-Kivu (7 health zones): Beni, Butembo, Goma, Kalunguta, Katwa, Kyondo, Oicha.
+
+- Sud-Kivu (1 health zone): Miti-Murhesa.
+
+- Newly affected (31 mai 2026): Logo (Ituri).
+
+### 3.3 Temporal analysis
+
+[FIGURE: Number of confirmed cases by week of symptom onset]
+
+Although the data are not complete, the current evolution of the disease shows a decrease in transmission within the community
+
+### 3.4 Demographic analysis
+
+- The age groups ranging from 18 to 49 years are the most affected, with a male predominance among confirmed cases (approximately 55% men).
+
+- Extreme age groups (children aged 0 to 4 years and adults aged 50 years and older) show a lower proportion of cases, although their higher case fatality risk requires particular attention.
+
+[FIGURE: Distribution of confirmed cases by sex and age group]
+
+### 3.5 Epidemic mapping
+
+[FIGURE: Figures 2 & 3. Spatialisation of confirmed MVE cases by affected health zone and across the three affected provinces as of 31 mai 2026.]
+
+## 4. RESPONSE ACTIONS BY PILLAR
+
+### 4.1 Coordination
+
+- Organisation of the discharge ceremony for four (4) recovered individuals at CME/Zs Rwampara, chaired by the Director General of the INSP.
+
+- Supervised guidance by the Director General of the INSP within the technical pillars (laboratory, planning, data management and elaboration of the SITREP).
+
+- Visit by the coordination team to the health zones to evaluate the zonal approach of the response.
+
+- Technical support from the OMS to all response pillars.
+
+### 4.2 Epidemiological surveillance
+
+
+| Indicator | Value | Target | Performance |
+|---|---|---|---|
+| Alerts reported | 192 | ... | ... |
+| Alerts investigated | 170 (88,5%) | ≥ 95% | Below target |
+| Alerts validated | 117 (68,8%) | ... | ... |
+| New health zones affected | 1 (Logo) | 0 | Geographic expansion |
+
+: Surveillance indicators (24h)
+
+
+- Continuation of surveillance activities (reporting of alerts, investigations, active case finding, contact listing and follow-up, retrospective document review of cases and deaths etc.).
+
+Surveillance challenges
+
+- Community resistance in the Nizi health zone regarding the listing and follow-up of contacts around confirmed cases.
+
+- Twelve (12) alerts facing community resistance in the Bunia health zone, hindering their verification.
+
+- Nine (9) alerts of PPL (person released from treatment (discharged patient)) (Probable/Samples) undergoing verification in the Bunia health zone.
+
+
+| PoE/PoC indicator | Value (24h) | Rate |
+|---|---|---|
+| Travellers passing through PoE/PoC | 14 057 | ... |
+| Travellers screened | 13 901 | 98,8% |
+| Travellers who washed hands | 13 901 | 98,8% |
+| Travellers sensitised | 13 963 | 99,3% |
+| Contacts listed | 0 | ... |
+| Alerts reported | 1 | ... |
+
+: Surveillance at Points of Entry and Points of Control (PoE/PoC)
+
+
+### 4.3 Laboratory
+
+
+| Indicator | Value | Analysis |
+|---|---|---|
+| Samples collected | 65 | Sustained activity |
+| Samples analysed | 18 | 27,7% of collected |
+| Positive samples | 12 | Positivity rate 66,6% |
+| Samples undergoing analysis | 47 | Delay in analysis capacity |
+| Positive samples from deceased suspected cases | 6 | Transmission before confirmed death |
+
+: Laboratory indicators (24h of 31 mai 2026)
+
+
+Identified bottleneck: 47 samples awaiting analysis.
+
+Insufficient processing capacity delays diagnostic confirmation and the initiation of management.
+
+The arrival of RADIONE tests gives hope for an improvement in the coming days.
+
+### 4.4 Infection Prevention and Control (PCI: infection prevention and control)
+
+Reported incident: Popular uprising against the SDB team at the Cliniques Universitaires (providers blamed for a death).
+
+One (1) safe and dignified burial (EDS) not conducted.
+
+Similar incident in the Logo health zone.
+
+
+| Health zone | Actions conducted |
+|---|---|
+| Bunia | Provision and installation of waste management devices; decontamination of 1 ESS (Clinique Marie Claire); 5 safe and dignified burials conducted out of 6 reported alerts; 1 decontamination; 1 sample collection (SWAB) |
+| Rwampara | Ring around CME Nyankunde: 3 health facilities, 9 schools, 9 churches, 1 496 households identified; safe injection briefing at CS Ngona; 3 safe and dignified burials, 3 decontaminations, 3 SWAB |
+| Bambu | Installation of 6 handwashing devices at the HGR |
+| Aru | Provision of 4 handwashing devices to the Anglican Church |
+
+: Actions by health zone
+
+
+### 4.5 Holistic Management and Case Management
+
+Psychosocial and mental health interventions
+
+- Notification of twenty-two (22) results, of which 4 were negative.
+
+- Six (6) deaths recorded in the health zones of Rwampara, Bambu and Nyankunde.
+
+- Two (2) additional deaths (Bunia CTE and HGR Rwampara).
+
+- Four (4) bereaved families received psychosocial support.
+
+- Fifty (50) families of suspects and twelve (12) families of confirmed cases received psychosocial support.
+
+- Sixteen (16) patients before transfer including two critical cases (CME).
+
+- More than 1 000 persons reached by mental health interventions (military personnel, households, taxi drivers, religious leaders, students, teachers and healthcare workers).
+
+
+| Indicator | Value |
+|---|---|
+| Patients in isolation | 129 (all CTE combined) |
+| Confirmed cases in isolation | ... |
+| Suspected cases in isolation | 104 |
+| Recovered today | 4 |
+| Hospital case fatality rate | Data pending |
+| Available vs occupied CTE beds | Assessment ongoing |
+
+: Case management indicators
+
+
+
+| OUTCOMES | HGR Bunia | HGR Rwampara | CME | HGR Mongbwalu | HGR Nyankunde | HGR Bambu | HGR Aru | Total |
+|---|---|---|---|---|---|---|---|---|
+| Brought forward (Number of bedded patients at the end of the previous day) | 21 | 15 | 15 | 12 | 39 | 10 | 5 | 117 |
+| New Admissions of the day PPL | 0 | 1 | 3 | 1 | 0 | 0 | 0 | 5 |
+| New Admissions of the day Others | 3 | 5 | 3 | 5 | 2 | 2 | 1 | 21 |
+| Discharges Recovered | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
+| Discharges Deceased | 1 | 2 | 4 | 3 | 1 | 1 | 0 | 11 |
+| Discharges Non-Cases | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
+| Discharges Absconded | 1 | 3 | 0 | 0 | 3 | 0 | 0 | 7 |
+| Discharges Transferred to HGR | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
+| Total patients in isolation | 23 | 17 | 17 | 15 | 38 | 13 | 6 | 129 |
+| Patients in isolation NC confirmed | 3 | 0 | 2 | 1 | 0 | 0 | 0 | 6 |
+| Patients in isolation AC confirmed | 1 | 1 | 1 | 0 | 11 | 1 | 1 | 16 |
+| Patients in isolation Suspects | 19 | 15 | 14 | 14 | 27 | 10 | 5 | 104 |
+| Patients in isolation Suspect Child < 5 years | 0 | 1 | 0 | 0 | 0 | 2 | 0 | 3 |
+
+: Table I. Movement of patients in healthcare facilities as of 31 mai 2026
+
+
+### 4.6 Risk Communication and Community Engagement (CREC)
+
+
+| Health zone | Activity | Reach |
+|---|---|---|
+| Bunia | Handwashing awareness raising by the DG INSP and OMS; interactive programme on RTNC | Broad audience |
+| Rwampara | Sensitisation of 190 community leaders (17 women) on preventive measures | 190 people |
+| Bambu | Sensitisation at École Primaire Kilomoto | 305 pupils (102 girls) |
+| Aru | Briefing of 27 people on CREC and community-based surveillance | 27 people |
+| Nyankunde | Educational talk at Brahanam church (72 worshippers); sensitisation in the Sota Health Area (391 people, 233 women) | 463 people |
+
+
+Rumours and misinformation identified
+
+- "HGR Bunia is sending people to infect community latrines to spread Ebola"
+
+- "There is a lot of money in this business, once admitted to the CTE patients are injected with water so they die"
+
+- "What is the quality of care at the CTE?"
+
+- "If the suspected person's test results are negative, who will pay the treatment costs?"
+
+- "Must one stay out of the marital bed during this period?"
+
+Analysis: These rumours reveal a deep mistrust of the health system and response teams, a lack of understanding of management procedures, and legitimate economic concerns.
+
+A rumour response plan must be activated with tailored messages.
+
+### 4.7 Logistics
+
+- Receipt of 30 motorcycles as logistical support from the central Government for surveillance and coordination.
+
+### 4.8 Security
+
+The security situation in the city of Bunia (Bunia and Rwampara health zones) is relatively calm, but the presence of armed groups in the territories of Djugu, Irumu and Mambasa continues to restrict humanitarian access in several affected or at-risk health zones.
+
+## 5. MAIN CHALLENGES
+
+
+| N° | Challenge | Impact | Required action |
+|---|---|---|---|
+| 1 | Reluctance towards post-mortem sampling (swabs) | Delay in confirmation; underestimation of cases | Intensive community engagement; involvement of religious leaders |
+| 2 | Insufficient capacity in standard CTE despite the opening of Rwampara | Potential saturation of existing CTE | Acceleration of the construction of planned CTE |
+| 3 | Weakness of contact follow-up (overall rate 43%, target 95%) | Interruption of transmission chains compromised | Training, deployment and motivation of community relays |
+| 4 | Supply failure of Essential Generic Medicines (MEG) in targeted HGR | Weakening of overall management | Advocacy for the provision of MEG |
+| 5 | Lack of PCI materials (PPE, handwashing facilities, chlorine) in Nord-Kivu | Nosocomial risk | Urgent supply |
+| 6 | Low alert reporting in the 3 provinces | Delayed detection of cases | Strengthening of community surveillance |
+| 7 | Spread of rumours and traditional remedies | Mistrust towards the response; consultation delays | Rumour response plan; social mobilisation |
+| 8 | Insufficient financial resources for all pillars | Slowdown of operations | Resource mobilisation (gap of 21,5 million USD) |
+
+
+## 6. PERSPECTIVES AND PRIORITY ACTIONS (24-72h)
+
+
+| Priority | Action | Responsible pillar | Deadline |
+|---|---|---|---|
+| 1 | Training of healthcare providers on the use of RADIONE PCR | Laboratory | D+2 |
+| 2 | Briefing of healthcare providers on MVE surveillance and SBC in affected and high-risk zones | Surveillance/CREC | D+3 |
+| 3 | Briefing of community workers on MVE surveillance and SBC (Ituri province) | Surveillance/CREC | D+3 |
+| 4 | Official handover of the standard CME Rwampara CTE to the MVE Incident Manager | Coordination | D+1 |
+| 5 | Supervised guidance by the Director General of the INSP in the technical pillars | Coordination | Continuous |
+| 6 | Catch-up of contact follow-up in Ituri (current rate 35%) | Surveillance | D+7 |
+| 7 | Strengthening PCI and staff training in Nyankunde and other nosocomial zones | PCI | D+2 |
+| 8 | Deployment of a standardised daily dashboard with KPIs by pillar | Coordination | D+3 |
+| 9 | Catch-up plan for the 47 samples awaiting analysis | Laboratory | D+2 |
+
+
+[PHOTO]
+
+Handover by the DG of the OMS of the standard Ebola Treatment Centre - CME Rwampara to the MVE IM
+
+Supervised guidance by the DG of the INSP in the various works of the pillars including laboratory, data management and elaboration of the SITREP with technical support from the OMS .
+
+For the Institut National de la Santé Publique (INSP) of the DRC
+
+The Director General of the INSP
+
+Dr MWAMBA KAZADI Dieudonné
+
+E-mail: dieudonne.mwamba@insp.cd
+
+Tel.: +243 816 040 145
+
+The COUSP (public health emergency operations centre) Coordinator
+
+Prof NGANDU Christian
+
+E-mail: Christian.ngandu@insp.cd
+
+Tel.: +243998091915
+
+The Incident Manager
+
+Prof Pierre AKILIMALI
+
+E-mail: pierre.akilimali@insp.cd
+
+Tel.: +243815800288
+
+FOR ANY ADDITIONAL INFORMATION, PLEASE CONTACT
+
+## Source
+
+- [Original PDF (French), INSP](https://insp.cd/wp-content/uploads/2026/06/SitRep_MVE_RDC_N017_01_06_2026-Revised_JO_PA_IM-1.pdf)
+- [French transcription](https://github.com/epiforecasts/bvd-sitreps/blob/main/data/corpus/fr/017.md)
+- [017_table_01](https://github.com/epiforecasts/bvd-sitreps/blob/main/data/csv/017_table_01.csv)
+- [017_table_02_indicateurs_de_surveillance_24h](https://github.com/epiforecasts/bvd-sitreps/blob/main/data/csv/017_table_02_indicateurs_de_surveillance_24h.csv)
+- [017_table_03_surveillance_aux_points_dentree_et_point](https://github.com/epiforecasts/bvd-sitreps/blob/main/data/csv/017_table_03_surveillance_aux_points_dentree_et_point.csv)
+- [017_table_04_indicateurs_laboratoire_24h_du_31_mai_20](https://github.com/epiforecasts/bvd-sitreps/blob/main/data/csv/017_table_04_indicateurs_laboratoire_24h_du_31_mai_20.csv)
+- [017_table_05_actions_par_zone_de_sante](https://github.com/epiforecasts/bvd-sitreps/blob/main/data/csv/017_table_05_actions_par_zone_de_sante.csv)
+- [017_table_06_indicateurs_de_prise_en_charge](https://github.com/epiforecasts/bvd-sitreps/blob/main/data/csv/017_table_06_indicateurs_de_prise_en_charge.csv)
+- [017_table_07_tableau_i_mouvement_des_malades_dans_les](https://github.com/epiforecasts/bvd-sitreps/blob/main/data/csv/017_table_07_tableau_i_mouvement_des_malades_dans_les.csv)
+- [017_table_08](https://github.com/epiforecasts/bvd-sitreps/blob/main/data/csv/017_table_08.csv)
+- [017_table_09](https://github.com/epiforecasts/bvd-sitreps/blob/main/data/csv/017_table_09.csv)
+- [017_table_10](https://github.com/epiforecasts/bvd-sitreps/blob/main/data/csv/017_table_10.csv)

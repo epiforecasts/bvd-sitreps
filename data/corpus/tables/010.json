@@ -1,0 +1,825 @@
+{
+  "id": "010",
+  "sitrep": "010",
+  "report_date": "2026-05-24",
+  "pdf_md5": "2cfac193dab0241d88a1294b36cca801",
+  "tables": [
+    {
+      "n": 1,
+      "caption": "Tableau I. Répartition des cas et décès confirmés par zone de santé dans les provinces touchées en date du 24/05/2026",
+      "columns": [
+        "Provinces touchées",
+        "Zones de santé avec cas confirmés",
+        "Nouveaux Cas confirmés",
+        "Nouveaux Décès parmi confirmés",
+        "Nouveaux Cas probables",
+        "Nouveaux Cas suspects",
+        "Nouveaux Contacts listés**",
+        "Nouveaux Guéris du jour"
+      ],
+      "rows": [
+        {
+          "cells": [
+            "Ituri",
+            "Bunia",
+            "0",
+            "0",
+            "ND",
+            "ND",
+            "0",
+            "0"
+          ]
+        },
+        {
+          "cells": [
+            "Ituri",
+            "Rwampara",
+            "0",
+            "0",
+            "ND",
+            "ND",
+            "0",
+            "0"
+          ]
+        },
+        {
+          "cells": [
+            "Ituri",
+            "Mongbwalu",
+            "0",
+            "0",
+            "ND",
+            "ND",
+            "0",
+            "0"
+          ]
+        },
+        {
+          "cells": [
+            "Ituri",
+            "Aru",
+            "0",
+            "0",
+            "ND",
+            "ND",
+            "ND",
+            "0"
+          ]
+        },
+        {
+          "cells": [
+            "Ituri",
+            "Nyankunde",
+            "0",
+            "0",
+            "ND",
+            "ND",
+            "0",
+            "0"
+          ]
+        },
+        {
+          "cells": [
+            "Ituri",
+            "Nizi",
+            "0",
+            "0",
+            "ND",
+            "1",
+            "0",
+            "0"
+          ]
+        },
+        {
+          "cells": [
+            "Ituri",
+            "Kilo",
+            "0",
+            "0",
+            "ND",
+            "1",
+            "ND",
+            "0"
+          ]
+        },
+        {
+          "cells": [
+            "Ituri",
+            "Sous total",
+            "0",
+            "0",
+            "0",
+            "2",
+            "ND",
+            "0"
+          ]
+        },
+        {
+          "cells": [
+            "Nord-Kivu",
+            "Goma",
+            "0",
+            "0",
+            "ND",
+            "ND",
+            "ND",
+            "0"
+          ]
+        },
+        {
+          "cells": [
+            "Nord-Kivu",
+            "Butembo",
+            "2",
+            "0",
+            "ND",
+            "ND",
+            "ND",
+            "0"
+          ]
+        },
+        {
+          "cells": [
+            "Nord-Kivu",
+            "Katwa",
+            "0",
+            "0",
+            "ND",
+            "ND",
+            "ND",
+            "0"
+          ]
+        },
+        {
+          "cells": [
+            "Nord-Kivu",
+            "Oicha***",
+            "1",
+            "0",
+            "ND",
+            "ND",
+            "ND",
+            "0"
+          ]
+        },
+        {
+          "cells": [
+            "Nord-Kivu",
+            "Kalunguta***",
+            "1",
+            "0",
+            "ND",
+            "ND",
+            "ND",
+            "0"
+          ]
+        },
+        {
+          "cells": [
+            "Nord-Kivu",
+            "Sous total",
+            "4",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+          ]
+        },
+        {
+          "cells": [
+            "Sud Kivu",
+            "Miti Murhesa",
+            "0",
+            "0",
+            "ND",
+            "ND",
+            "ND",
+            "0"
+          ]
+        },
+        {
+          "cells": [
+            "Total",
+            "",
+            "4",
+            "0",
+            "0",
+            "2",
+            "0",
+            "0"
+          ]
+        }
+      ]
+    },
+    {
+      "n": 2,
+      "caption": "Tableau II. Répartition des cas, décès suspects et confirmés de maladie à virus Ebola dans les zones de santé de la DPS Ituri, Nord-Kivu et Sud Kivu au 24 mai 2026",
+      "columns": [
+        "Provinces",
+        "Zones de santé",
+        "Nbre de cas suspects",
+        "Nbre de décès suspects*",
+        "Nbre de cas Confirmés",
+        "Nbre de contacts*"
+      ],
+      "rows": [
+        {
+          "cells": [
+            "Ituri",
+            "Aru",
+            "4",
+            "1",
+            "1",
+            "0"
+          ]
+        },
+        {
+          "cells": [
+            "Ituri",
+            "Bambu",
+            "6",
+            "2",
+            "0",
+            "183"
+          ]
+        },
+        {
+          "cells": [
+            "Ituri",
+            "Bunia",
+            "249",
+            "48",
+            "24",
+            "404"
+          ]
+        },
+        {
+          "cells": [
+            "Ituri",
+            "Kilo",
+            "8",
+            "2",
+            "1",
+            "0"
+          ]
+        },
+        {
+          "cells": [
+            "Ituri",
+            "Mongbwalu",
+            "339",
+            "88",
+            "19",
+            "222"
+          ]
+        },
+        {
+          "cells": [
+            "Ituri",
+            "Nizi",
+            "6",
+            "2",
+            "2",
+            "22"
+          ]
+        },
+        {
+          "cells": [
+            "Ituri",
+            "Nyankunde",
+            "45",
+            "11",
+            "9",
+            "365"
+          ]
+        },
+        {
+          "cells": [
+            "Ituri",
+            "Rwampara",
+            "228",
+            "69",
+            "32",
+            "621"
+          ]
+        },
+        {
+          "cells": [
+            "Ituri",
+            "Echantillons sans fiche",
+            "0",
+            "0",
+            "6",
+            "0"
+          ]
+        },
+        {
+          "cells": [
+            "Nord-Kivu",
+            "Butembo",
+            "7",
+            "0",
+            "3",
+            "22"
+          ]
+        },
+        {
+          "cells": [
+            "Nord-Kivu",
+            "Goma",
+            "0",
+            "0",
+            "1",
+            "28"
+          ]
+        },
+        {
+          "cells": [
+            "Nord-Kivu",
+            "Katwa",
+            "13",
+            "0",
+            "4",
+            "99"
+          ]
+        },
+        {
+          "cells": [
+            "Nord-Kivu",
+            "Karissibi",
+            "0",
+            "0",
+            "0",
+            "249"
+          ]
+        },
+        {
+          "cells": [
+            "Nord-Kivu",
+            "Kyondo",
+            "0",
+            "0",
+            "0",
+            "16"
+          ]
+        },
+        {
+          "cells": [
+            "Nord-Kivu",
+            "Oicha**",
+            "ND",
+            "ND",
+            "1",
+            "ND"
+          ]
+        },
+        {
+          "cells": [
+            "Nord-Kivu",
+            "Kalunguta**",
+            "ND",
+            "ND",
+            "1",
+            "ND"
+          ]
+        },
+        {
+          "cells": [
+            "Sud-Kivu",
+            "Miti Murhesa",
+            "1",
+            "0",
+            "1",
+            "ND"
+          ]
+        },
+        {
+          "cells": [
+            "Total",
+            "",
+            "906",
+            "223",
+            "105",
+            "2231"
+          ]
+        }
+      ]
+    },
+    {
+      "n": 3,
+      "caption": "Tableau III. Synthèse de données au PoE/PoC du 24/05/2026",
+      "columns": [
+        "PoE/PoC",
+        "TOTAL"
+      ],
+      "rows": [
+        {
+          "cells": [
+            "Voyageurs passés par le PoE/PoC",
+            "11628"
+          ]
+        },
+        {
+          "cells": [
+            "Voyageurs screenés",
+            "11143"
+          ]
+        },
+        {
+          "cells": [
+            "Voyageurs ayant lavés les mains",
+            "11413"
+          ]
+        },
+        {
+          "cells": [
+            "Voyageurs sensibilisés sur la MVE",
+            "11628"
+          ]
+        },
+        {
+          "cells": [
+            "Contacts listés",
+            "0"
+          ]
+        },
+        {
+          "cells": [
+            "Alertes remontées",
+            "0"
+          ]
+        }
+      ]
+    },
+    {
+      "n": 4,
+      "caption": "",
+      "columns": [
+        "Echantillons",
+        "Total"
+      ],
+      "rows": [
+        {
+          "cells": [
+            "Echantillons reçus",
+            "431"
+          ]
+        },
+        {
+          "cells": [
+            "Ré prélèvements (contrôle)",
+            "3"
+          ]
+        },
+        {
+          "cells": [
+            "Cumul échantillons analysés",
+            "295"
+          ]
+        },
+        {
+          "cells": [
+            "Taux de positivité",
+            "35,6%"
+          ]
+        },
+        {
+          "cells": [
+            "Cumul positifs",
+            "105*"
+          ]
+        }
+      ]
+    },
+    {
+      "n": 5,
+      "caption": "Tableau VI. Mouvement des malades dans les établissements de soins en date du 24/05/2026",
+      "columns": [
+        "Indicateurs",
+        "HGR Bunia",
+        "SOFEPADI",
+        "Clinique Bénedicte",
+        "CH ELIKYA",
+        "CM LES MERITES",
+        "CITADELE",
+        "UNIBU",
+        "CH LA PROVIDENCE",
+        "RWAKOLE",
+        "CM MATHYSEN",
+        "SOUS TOTAL BUNIA",
+        "HGR RWAMPARA",
+        "CH SALAMA",
+        "CME",
+        "SOUS TOTAL RWAMPARA",
+        "HGR MONGBWALU",
+        "HGR NYANKUNDE",
+        "HGR BAMBU",
+        "HGR ARU",
+        "Total"
+      ],
+      "rows": [
+        {
+          "cells": [
+            "Report (Nbre de malades au lit à la fin de journeée précédente)",
+            "10",
+            "7",
+            "2",
+            "2",
+            "2",
+            "7",
+            "2",
+            "2",
+            "8",
+            "2",
+            "44",
+            "7",
+            "2",
+            "10",
+            "19",
+            "13",
+            "33",
+            "2",
+            "2",
+            "113"
+          ]
+        },
+        {
+          "cells": [
+            "Nouvelles Admissions du jour PPL",
+            "0",
+            "3",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "3",
+            "2",
+            "0",
+            "0",
+            "2",
+            "0",
+            "0",
+            "0",
+            "0",
+            "5"
+          ]
+        },
+        {
+          "cells": [
+            "Nouvelles Admissions du jour Autres",
+            "1",
+            "0",
+            "0",
+            "2",
+            "2",
+            "0",
+            "0",
+            "0",
+            "0",
+            "1",
+            "6",
+            "1",
+            "1",
+            "2",
+            "4",
+            "5",
+            "0",
+            "0",
+            "0",
+            "15"
+          ]
+        },
+        {
+          "cells": [
+            "Nouvelles Admissions du jour Total admissions du jour",
+            "1",
+            "3",
+            "0",
+            "2",
+            "2",
+            "0",
+            "0",
+            "0",
+            "0",
+            "1",
+            "9",
+            "3",
+            "1",
+            "2",
+            "6",
+            "5",
+            "0",
+            "0",
+            "0",
+            "20"
+          ]
+        },
+        {
+          "cells": [
+            "Effectif total en isolement",
+            "11",
+            "10",
+            "2",
+            "4",
+            "4",
+            "7",
+            "2",
+            "2",
+            "8",
+            "3",
+            "53",
+            "10",
+            "3",
+            "12",
+            "25",
+            "18",
+            "33",
+            "2",
+            "2",
+            "133"
+          ]
+        },
+        {
+          "cells": [
+            "Cumul de malades admis en isolement",
+            "61",
+            "13",
+            "4",
+            "8",
+            "4",
+            "7",
+            "5",
+            "2",
+            "11",
+            "3",
+            "118",
+            "38",
+            "16",
+            "ND",
+            "54",
+            "70",
+            "36",
+            "0",
+            "3",
+            "281"
+          ]
+        },
+        {
+          "cells": [
+            "Sorties Guéris",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+          ]
+        },
+        {
+          "cells": [
+            "Sorties Décédés",
+            "0",
+            "2",
+            "0",
+            "2",
+            "0",
+            "1",
+            "0",
+            "1",
+            "0",
+            "1",
+            "7",
+            "1",
+            "0",
+            "1",
+            "2",
+            "1",
+            "0",
+            "0",
+            "0",
+            "10"
+          ]
+        },
+        {
+          "cells": [
+            "Sorties Cumul des décès",
+            "42",
+            "6",
+            "0",
+            "4",
+            "1",
+            "2",
+            "2",
+            "2",
+            "3",
+            "2",
+            "64",
+            "12",
+            "0",
+            "24",
+            "36",
+            "49",
+            "1",
+            "0",
+            "1",
+            "151"
+          ]
+        },
+        {
+          "cells": [
+            "Sorties Non Cas",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "2",
+            "0",
+            "0",
+            "0",
+            "2"
+          ]
+        },
+        {
+          "cells": [
+            "Sorties Evadés",
+            "0",
+            "3",
+            "0",
+            "1",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "4",
+            "2",
+            "0",
+            "0",
+            "2",
+            "0",
+            "0",
+            "0",
+            "0",
+            "6"
+          ]
+        },
+        {
+          "cells": [
+            "Sorties Transférés à HGR",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "2",
+            "0",
+            "2",
+            "0",
+            "0",
+            "0",
+            "0",
+            "2"
+          ]
+        }
+      ]
+    }
+  ]
+}

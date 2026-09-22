@@ -1,0 +1,184 @@
+{
+  "id": "085",
+  "sitrep": "085",
+  "report_date": "2026-08-07",
+  "pdf_md5": "f7bfb6a37bcaca85c85f1cb11729e943",
+  "tables": [
+    {
+      "n": 1,
+      "caption": "Répartition des cas et décès confirmés par province touchée (au 07 août 2026)",
+      "columns": [
+        "Province",
+        "Cas confirmés",
+        "Décès (confirmés)",
+        "Létalité",
+        "Zones de santé touchées",
+        "Nouveaux cas confirmés(24h)"
+      ],
+      "rows": [
+        {
+          "cells": [
+            "Ituri",
+            "3 636",
+            "1 551",
+            "42,7 %",
+            "28/36 (77,8 %)",
+            "73"
+          ]
+        },
+        {
+          "cells": [
+            "Nord-Kivu",
+            "470",
+            "315",
+            "67,0 %",
+            "12/34 (35,3 %)",
+            "12"
+          ]
+        },
+        {
+          "cells": [
+            "Haut-Uélé",
+            "91",
+            "44",
+            "48,4 %",
+            "6/13 (46,1 %)",
+            "4"
+          ]
+        },
+        {
+          "cells": [
+            "Tshopo",
+            "9",
+            "5",
+            "55,6 %",
+            "6/23 (26,0 %)",
+            "0"
+          ]
+        },
+        {
+          "cells": [
+            "Sud-Kivu",
+            "3",
+            "1",
+            "33,3 %",
+            "1/34 (2,9 %)",
+            "0"
+          ]
+        },
+        {
+          "cells": [
+            "Total",
+            "4 209",
+            "1 916",
+            "45,5 %",
+            "53/140 (37,8 %)",
+            "89"
+          ]
+        }
+      ]
+    },
+    {
+      "n": 2,
+      "caption": "Situation des alertes notifiées par ZS, au 07 août 2026",
+      "columns": [
+        "DPS",
+        "Nouvelles Alertes Reçues Vivants",
+        "Nouvelles Alertes Reçues Décédés",
+        "Total alertes",
+        "Alertes vérifiées et validées (cas suspect) Vivants",
+        "Alertes vérifiées et validées (cas suspect) Décédés",
+        "Alertes vérifiées et invalidées (non-cas suspect) Vivants",
+        "Alertes vérifiées et invalidées (non-cas suspect) Décédés",
+        "Nombre de suspects investigués",
+        "Nombre de suspects investigués et transférés au CT/CTE (du jour)"
+      ],
+      "rows": [
+        {
+          "cells": [
+            "Haut-Uélé",
+            "13",
+            "0",
+            "13",
+            "12",
+            "0",
+            "1",
+            "0",
+            "10",
+            "10"
+          ]
+        },
+        {
+          "cells": [
+            "Ituri",
+            "467",
+            "50",
+            "517",
+            "280",
+            "50",
+            "187",
+            "0",
+            "196",
+            "135"
+          ]
+        },
+        {
+          "cells": [
+            "Nord-Kivu",
+            "743",
+            "39",
+            "782",
+            "56",
+            "39",
+            "687",
+            "0",
+            "95",
+            "49"
+          ]
+        },
+        {
+          "cells": [
+            "Sud-Kivu",
+            "6",
+            "0",
+            "6",
+            "6",
+            "0",
+            "0",
+            "0",
+            "4",
+            "4"
+          ]
+        },
+        {
+          "cells": [
+            "Tshopo",
+            "ND",
+            "ND",
+            "0",
+            "ND",
+            "ND",
+            "ND",
+            "ND",
+            "ND",
+            "ND"
+          ]
+        },
+        {
+          "cells": [
+            "Total Général",
+            "1229",
+            "89",
+            "1 318",
+            "354",
+            "89",
+            "875",
+            "0",
+            "305",
+            "198"
+          ]
+        }
+      ]
+    }
+  ]
+}

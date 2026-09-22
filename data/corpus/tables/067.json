@@ -1,0 +1,1472 @@
+{
+  "id": "067",
+  "sitrep": "067",
+  "report_date": "2026-07-20",
+  "pdf_md5": "6b7cf66a5835025686b93037fcadc6d3",
+  "tables": [
+    {
+      "n": 1,
+      "caption": "TABLEAU 1 — REPARTITION DES CAS ET DECES CONFIRMES PAR PROVINCE",
+      "columns": [
+        "Province",
+        "Cas confirmés",
+        "Décès",
+        "Létalité",
+        "Zones de santé touchées",
+        "Nouveaux cas (24 h)"
+      ],
+      "rows": [
+        {
+          "cells": [
+            "Ituri",
+            "2 202",
+            "838",
+            "38,1 %",
+            "28 / 36 (77,8 %)",
+            "42"
+          ]
+        },
+        {
+          "cells": [
+            "Nord-Kivu",
+            "247",
+            "146",
+            "59,1 %",
+            "11 / 34 (32,4 %)",
+            "8"
+          ]
+        },
+        {
+          "cells": [
+            "Sud-Kivu",
+            "3",
+            "1",
+            "33,3 %",
+            "1 / 34 (2,9 %)",
+            ""
+          ]
+        },
+        {
+          "cells": [
+            "Haut-Uélé",
+            "16",
+            "10",
+            "62,5 %",
+            "4 / 13 (30,8 %)",
+            ""
+          ]
+        },
+        {
+          "cells": [
+            "Tshopo",
+            "5",
+            "4",
+            "80,0 %",
+            "3 / 23 (13,0 %)",
+            "0"
+          ]
+        },
+        {
+          "cells": [
+            "Total",
+            "2 473",
+            "999",
+            "40,4 %",
+            "47 sur 140",
+            "50"
+          ]
+        }
+      ]
+    },
+    {
+      "n": 2,
+      "caption": "TABLEAU 2 — CAS ET DECES CONFIRMES PAR PROVINCE ET ZONE DE SANTE (CUMUL ET SITUATION DU JOUR)",
+      "columns": [
+        "Province / Zone de santé",
+        "Nombre cumulatif Cas (n)",
+        "Nombre cumulatif Décès (n)",
+        "Nombre cumulatif Létalité",
+        "Situation du jour (24 h) Nouv. cas",
+        "Situation du jour (24 h) Décès communautaires (Swab+).",
+        "Situation du jour (24 h) Décès confirmés intra-CTE",
+        "Situation du jour (24 h) Total décès confirmés"
+      ],
+      "rows": [
+        {
+          "cells": [
+            "Ituri",
+            "2 202",
+            "838",
+            "38,1 %",
+            "42",
+            "13",
+            "14",
+            "27"
+          ]
+        },
+        {
+          "cells": [
+            "Bunia",
+            "657",
+            "219",
+            "33,3%",
+            "18",
+            "4",
+            "4",
+            "8"
+          ]
+        },
+        {
+          "cells": [
+            "Rwampara",
+            "457",
+            "140",
+            "30,6%",
+            "7",
+            "2",
+            "5",
+            "7"
+          ]
+        },
+        {
+          "cells": [
+            "Mongbwalu",
+            "364",
+            "204",
+            "56,0%",
+            "1",
+            "0",
+            "1",
+            "1"
+          ]
+        },
+        {
+          "cells": [
+            "Nizi",
+            "223",
+            "99",
+            "44,4%",
+            "9",
+            "6",
+            "0",
+            "6"
+          ]
+        },
+        {
+          "cells": [
+            "Nyankunde",
+            "99",
+            "28",
+            "28,3%",
+            "",
+            "",
+            "",
+            ""
+          ]
+        },
+        {
+          "cells": [
+            "Lita",
+            "78",
+            "27",
+            "34,6%",
+            "",
+            "",
+            "",
+            ""
+          ]
+        },
+        {
+          "cells": [
+            "Mangala",
+            "61",
+            "38",
+            "62,3%",
+            "",
+            "",
+            "",
+            ""
+          ]
+        },
+        {
+          "cells": [
+            "Nia-Nia",
+            "54",
+            "16",
+            "29,6%",
+            "3",
+            "0",
+            "1",
+            "1"
+          ]
+        },
+        {
+          "cells": [
+            "Bambu",
+            "40",
+            "14",
+            "35,0%",
+            "",
+            "",
+            "",
+            ""
+          ]
+        },
+        {
+          "cells": [
+            "Komanda",
+            "27",
+            "11",
+            "40,7%",
+            "0",
+            "0",
+            "1",
+            "1"
+          ]
+        },
+        {
+          "cells": [
+            "Tchomia",
+            "23",
+            "7",
+            "30,4%",
+            "0",
+            "0",
+            "1",
+            "1"
+          ]
+        },
+        {
+          "cells": [
+            "Non identifiées",
+            "17",
+            "0",
+            "0,0 %",
+            "",
+            "",
+            "",
+            ""
+          ]
+        },
+        {
+          "cells": [
+            "Fataki",
+            "11",
+            "7",
+            "63,6%",
+            "",
+            "",
+            "",
+            ""
+          ]
+        },
+        {
+          "cells": [
+            "Kilo",
+            "11",
+            "3",
+            "27,3%",
+            "",
+            "",
+            "",
+            ""
+          ]
+        },
+        {
+          "cells": [
+            "Adja",
+            "10",
+            "1",
+            "10,0%",
+            "",
+            "",
+            "",
+            ""
+          ]
+        },
+        {
+          "cells": [
+            "Mandima",
+            "10",
+            "5",
+            "50,0%",
+            "1",
+            "1",
+            "0",
+            "1"
+          ]
+        },
+        {
+          "cells": [
+            "Mambasa",
+            "8",
+            "6",
+            "75,0%",
+            "",
+            "",
+            "",
+            ""
+          ]
+        },
+        {
+          "cells": [
+            "Logo",
+            "8",
+            "1",
+            "12,5%",
+            "",
+            "",
+            "",
+            ""
+          ]
+        },
+        {
+          "cells": [
+            "Ariwara",
+            "10",
+            "1",
+            "10,0%",
+            "3",
+            "0",
+            "0",
+            "0"
+          ]
+        },
+        {
+          "cells": [
+            "Damas",
+            "7",
+            "0",
+            "0,0%",
+            "",
+            "",
+            "",
+            ""
+          ]
+        },
+        {
+          "cells": [
+            "Aungba",
+            "6",
+            "2",
+            "33,3%",
+            "",
+            "",
+            "",
+            ""
+          ]
+        },
+        {
+          "cells": [
+            "Drodro",
+            "5",
+            "3",
+            "60,0%",
+            "",
+            "",
+            "",
+            ""
+          ]
+        },
+        {
+          "cells": [
+            "Rimba",
+            "5",
+            "0",
+            "0,0%",
+            "",
+            "",
+            "",
+            ""
+          ]
+        },
+        {
+          "cells": [
+            "Aru",
+            "4",
+            "2",
+            "50,0%",
+            "0",
+            "0",
+            "1",
+            "1"
+          ]
+        },
+        {
+          "cells": [
+            "Kambala",
+            "2",
+            "2",
+            "100,0%",
+            "",
+            "",
+            "",
+            ""
+          ]
+        },
+        {
+          "cells": [
+            "Lolwa",
+            "2",
+            "1",
+            "50,0%",
+            "",
+            "",
+            "",
+            ""
+          ]
+        },
+        {
+          "cells": [
+            "Boga",
+            "1",
+            "1",
+            "100,0%",
+            "",
+            "",
+            "",
+            ""
+          ]
+        },
+        {
+          "cells": [
+            "Gety",
+            "1",
+            "0",
+            "0,0%",
+            "",
+            "",
+            "",
+            ""
+          ]
+        },
+        {
+          "cells": [
+            "Mahagi",
+            "1",
+            "0",
+            "0,0%",
+            "",
+            "",
+            "",
+            ""
+          ]
+        },
+        {
+          "cells": [
+            "Nord-Kivu",
+            "247",
+            "146",
+            "59,1 %",
+            "8",
+            "3",
+            "2",
+            "5"
+          ]
+        },
+        {
+          "cells": [
+            "Katwa",
+            "108",
+            "74",
+            "68,5 %",
+            "4",
+            "1",
+            "1",
+            "2"
+          ]
+        },
+        {
+          "cells": [
+            "Butembo",
+            "61",
+            "31",
+            "50,8 %",
+            "3",
+            "1",
+            "0",
+            "1"
+          ]
+        },
+        {
+          "cells": [
+            "Beni",
+            "37",
+            "25",
+            "67,6 %",
+            "",
+            "",
+            "",
+            ""
+          ]
+        },
+        {
+          "cells": [
+            "Musienene",
+            "19",
+            "5",
+            "26,3 %",
+            "",
+            "",
+            "",
+            ""
+          ]
+        },
+        {
+          "cells": [
+            "Kyondo",
+            "10",
+            "5",
+            "50,0 %",
+            "1",
+            "1",
+            "0",
+            "1"
+          ]
+        },
+        {
+          "cells": [
+            "Oicha",
+            "4",
+            "4",
+            "100,0 %",
+            "0",
+            "0",
+            "1",
+            "1"
+          ]
+        },
+        {
+          "cells": [
+            "Kalunguta",
+            "2",
+            "1",
+            "50,0 %",
+            "",
+            "",
+            "",
+            ""
+          ]
+        },
+        {
+          "cells": [
+            "Masereka",
+            "3",
+            "0",
+            "0,0 %",
+            "",
+            "",
+            "",
+            ""
+          ]
+        },
+        {
+          "cells": [
+            "Goma",
+            "1",
+            "0",
+            "0,0 %",
+            "",
+            "",
+            "",
+            ""
+          ]
+        },
+        {
+          "cells": [
+            "Vuhovi",
+            "1",
+            "1",
+            "100,0 %",
+            "",
+            "",
+            "",
+            ""
+          ]
+        },
+        {
+          "cells": [
+            "Mabalako",
+            "1",
+            "0",
+            "0,0 %",
+            "",
+            "",
+            "",
+            ""
+          ]
+        },
+        {
+          "cells": [
+            "Sud-Kivu",
+            "3",
+            "1",
+            "33,3 %",
+            "—",
+            "",
+            "",
+            "—"
+          ]
+        },
+        {
+          "cells": [
+            "Miti-Murhesa",
+            "3",
+            "1",
+            "33,3 %",
+            "",
+            "",
+            "",
+            ""
+          ]
+        },
+        {
+          "cells": [
+            "Haut-Uélé",
+            "16",
+            "10",
+            "62,5 %",
+            "—",
+            "",
+            "",
+            "—"
+          ]
+        },
+        {
+          "cells": [
+            "Wamba",
+            "6",
+            "3",
+            "50,0 %",
+            "",
+            "",
+            "",
+            ""
+          ]
+        },
+        {
+          "cells": [
+            "Pawa",
+            "3",
+            "3",
+            "100,0 %",
+            "",
+            "",
+            "",
+            ""
+          ]
+        },
+        {
+          "cells": [
+            "Boma Mangbetu",
+            "4",
+            "2",
+            "50,0 %",
+            "",
+            "",
+            "",
+            ""
+          ]
+        },
+        {
+          "cells": [
+            "Isiro",
+            "3",
+            "2",
+            "66,7 %",
+            "",
+            "",
+            "",
+            ""
+          ]
+        },
+        {
+          "cells": [
+            "Tshopo",
+            "5",
+            "4",
+            "80,0 %",
+            "—",
+            "",
+            "",
+            "—"
+          ]
+        },
+        {
+          "cells": [
+            "Makiso-Kisangani",
+            "3",
+            "3",
+            "100,0 %",
+            "",
+            "",
+            "",
+            ""
+          ]
+        },
+        {
+          "cells": [
+            "Mangobo",
+            "1",
+            "1",
+            "100,0 %",
+            "",
+            "",
+            "",
+            ""
+          ]
+        },
+        {
+          "cells": [
+            "Lubunga",
+            "1",
+            "0",
+            "0,0 %",
+            "",
+            "",
+            "",
+            ""
+          ]
+        },
+        {
+          "cells": [
+            "Total",
+            "2 473",
+            "999",
+            "40,4 %",
+            "50",
+            "16",
+            "16",
+            "32"
+          ]
+        }
+      ]
+    },
+    {
+      "n": 3,
+      "caption": "TABLEAU 3 — GESTION DES ALERTES EPIDEMIOLOGIQUES AU 20/07/2026",
+      "columns": [
+        "Indicateur",
+        "Ituri",
+        "Nord-Kivu",
+        "Haut-Uélé",
+        "Tshopo",
+        "Sud-Kivu",
+        "Total"
+      ],
+      "rows": [
+        {
+          "cells": [
+            "Report (J-1)",
+            "3",
+            "67",
+            "ND",
+            "1",
+            "0",
+            "71"
+          ]
+        },
+        {
+          "cells": [
+            "Nouvelles alertes reçues",
+            "490",
+            "737",
+            "ND",
+            "3",
+            "9",
+            "1239"
+          ]
+        },
+        {
+          "cells": [
+            "Total alertes du jour",
+            "493",
+            "804",
+            "ND",
+            "4",
+            "9",
+            "1310"
+          ]
+        },
+        {
+          "cells": [
+            "Alertes investiguées",
+            "359",
+            "737",
+            "ND",
+            "3",
+            "2",
+            "1101"
+          ]
+        },
+        {
+          "cells": [
+            "Taux d'investigation (24 h)",
+            "72,8%",
+            "91,7%",
+            "ND",
+            "75,5%",
+            "22,2%",
+            "84,1 %"
+          ]
+        },
+        {
+          "cells": [
+            "Alertes validées — vivantes",
+            "132",
+            "83",
+            "ND",
+            "3",
+            "2",
+            "220"
+          ]
+        },
+        {
+          "cells": [
+            "Alertes validées — décédées (comm.)",
+            "69",
+            "33",
+            "ND",
+            "0",
+            "0",
+            "102"
+          ]
+        },
+        {
+          "cells": [
+            "Total cas suspects du jour",
+            "201",
+            "116",
+            "ND",
+            "3",
+            "2",
+            "322"
+          ]
+        }
+      ]
+    },
+    {
+      "n": 4,
+      "caption": "TABLEAU 4 — SUIVI DES CONTACTS DES CAS CONFIRMES",
+      "columns": [
+        "Province",
+        "Contacts sous suivi",
+        "Contacts vus",
+        "Taux de suivi"
+      ],
+      "rows": [
+        {
+          "cells": [
+            "Ituri",
+            "8111",
+            "6638",
+            "81,8 %"
+          ]
+        },
+        {
+          "cells": [
+            "Nord-Kivu",
+            "3553",
+            "2910",
+            "81,9 %"
+          ]
+        },
+        {
+          "cells": [
+            "Tshopo",
+            "75",
+            "75",
+            "100,0%"
+          ]
+        },
+        {
+          "cells": [
+            "Haut-Uélé",
+            "ND",
+            "ND",
+            "ND"
+          ]
+        },
+        {
+          "cells": [
+            "Sud-Kivu (fin de suivi)",
+            "0",
+            "0",
+            "NA"
+          ]
+        },
+        {
+          "cells": [
+            "Total",
+            "11739",
+            "9623",
+            "82,0 %"
+          ]
+        }
+      ]
+    },
+    {
+      "n": 5,
+      "caption": "TABLEAU 5 — SUIVI DES INDICATEURS AUX POINTS D'ENTREE ET POINTS DE CONTROLE (POE/POC), AU 20/07/2026",
+      "columns": [
+        "Indicateurs",
+        "Ituri",
+        "Nord-Kivu",
+        "Global"
+      ],
+      "rows": [
+        {
+          "cells": [
+            "Proportion de PoC activés et PoE renforcés",
+            "100 % (60/60)",
+            "100 % (15/15)",
+            "100 % (75/75)"
+          ]
+        },
+        {
+          "cells": [
+            "Nombre de personnes passées aux PoE/PoC",
+            "112190",
+            "68 304",
+            "180 494"
+          ]
+        },
+        {
+          "cells": [
+            "% des voyageurs screenés",
+            "95,0 %",
+            "97,2 %",
+            "95,8 %"
+          ]
+        },
+        {
+          "cells": [
+            "% des voyageurs ayant lavé les mains",
+            "93,5 %",
+            "97,3 %",
+            "94,9 %"
+          ]
+        },
+        {
+          "cells": [
+            "% des voyageurs sensibilisés",
+            "93,4 %",
+            "97,2 %",
+            "94,8 %"
+          ]
+        },
+        {
+          "cells": [
+            "Nombre d'alertes notifiées",
+            "12",
+            "2",
+            "14"
+          ]
+        },
+        {
+          "cells": [
+            "Nombre d'alertes vivantes validées",
+            "9",
+            "1",
+            "10"
+          ]
+        },
+        {
+          "cells": [
+            "Nombre de corps sans vie interceptés ce jour",
+            "2",
+            "0",
+            "2"
+          ]
+        },
+        {
+          "cells": [
+            "Nombre de contacts à problème interceptés ce jour",
+            "0",
+            "0",
+            "0"
+          ]
+        },
+        {
+          "cells": [
+            "% d'alertes vivantes validées référées au CT/CTE",
+            "100,0 %",
+            "100%",
+            "100,0 %"
+          ]
+        },
+        {
+          "cells": [
+            "% des corps sans vie swabés",
+            "NA",
+            "NA",
+            "0%"
+          ]
+        },
+        {
+          "cells": [
+            "Nombre de résultat positif des cas suspects référés",
+            "0",
+            "0",
+            "0"
+          ]
+        }
+      ]
+    },
+    {
+      "n": 6,
+      "caption": "TABLEAU 6 — OCCUPATION DES STRUCTURES DE SOINS (CTE/CT/CI), AU 20/07/2026",
+      "columns": [
+        "Indicateur",
+        "Ituri",
+        "Nord-Kivu",
+        "Haut-Uele",
+        "Tshopo",
+        "Ensemble"
+      ],
+      "rows": [
+        {
+          "cells": [
+            "Nombre de lits",
+            "709",
+            "141",
+            "ND",
+            "ND",
+            "850"
+          ]
+        },
+        {
+          "cells": [
+            "Patients au lit (J-1)",
+            "536",
+            "164",
+            "ND",
+            "ND",
+            "700"
+          ]
+        },
+        {
+          "cells": [
+            "Total admissions (24 h)",
+            "118",
+            "62",
+            "ND",
+            "ND",
+            "180"
+          ]
+        },
+        {
+          "cells": [
+            "Total admissions",
+            "654",
+            "226",
+            "ND",
+            "ND",
+            "880"
+          ]
+        },
+        {
+          "cells": [
+            "Sorties Décédés",
+            "25",
+            "2",
+            "ND",
+            "ND",
+            "27"
+          ]
+        },
+        {
+          "cells": [
+            "Sorties Non-cas",
+            "54",
+            "42",
+            "ND",
+            "ND",
+            "96"
+          ]
+        },
+        {
+          "cells": [
+            "Sorties Guéris",
+            "13",
+            "0",
+            "ND",
+            "ND",
+            "13"
+          ]
+        },
+        {
+          "cells": [
+            "Sorties Evadés",
+            "6",
+            "1",
+            "ND",
+            "ND",
+            "7"
+          ]
+        },
+        {
+          "cells": [
+            "Sorties Transférés à l'HGR",
+            "0",
+            "0",
+            "ND",
+            "ND",
+            "0"
+          ]
+        },
+        {
+          "cells": [
+            "Total sorties (24 h)",
+            "98",
+            "45",
+            "ND",
+            "ND",
+            "143"
+          ]
+        },
+        {
+          "cells": [
+            "Patients en isolement (fin J)",
+            "556",
+            "181",
+            "ND",
+            "ND",
+            "737"
+          ]
+        },
+        {
+          "cells": [
+            "dont confirmés",
+            "270",
+            "16",
+            "ND",
+            "ND",
+            "286"
+          ]
+        },
+        {
+          "cells": [
+            "dont suspects",
+            "286",
+            "165",
+            "ND",
+            "ND",
+            "451"
+          ]
+        },
+        {
+          "cells": [
+            "Taux d'occupation",
+            "78,4 %",
+            "128,4 %",
+            "ND",
+            "ND",
+            "86,7 %"
+          ]
+        }
+      ]
+    },
+    {
+      "n": 7,
+      "caption": "TABLEAU 7 — INDICATEURS CLES SMSPS, 20 JUILLET 2026",
+      "columns": [
+        "Indicateurs clés SMSPS",
+        "Ituri",
+        "Nord-Kivu"
+      ],
+      "rows": [
+        {
+          "cells": [
+            "Nouveaux cas confirmés ayant bénéficié d'interventions SMSPS",
+            "17 (100,0 %)",
+            "0"
+          ]
+        },
+        {
+          "cells": [
+            "Cas confirmés en cours de suivi",
+            "143 (75,7 %)",
+            "3 (100 %)"
+          ]
+        },
+        {
+          "cells": [
+            "Nouveaux cas suspects",
+            "22 (27,5 %)",
+            "15 (100 %)"
+          ]
+        },
+        {
+          "cells": [
+            "Cas suspects en cours de suivi",
+            "99 (63,9%)",
+            "6 (100 %)"
+          ]
+        },
+        {
+          "cells": [
+            "Résultats de laboratoire annoncés (dont positifs)",
+            "67(17)",
+            "6(2)"
+          ]
+        },
+        {
+          "cells": [
+            "Enfants séparés — crèche / communauté",
+            "1/0",
+            "0/0"
+          ]
+        },
+        {
+          "cells": [
+            "Accompagnants au CTE",
+            "246",
+            "36"
+          ]
+        },
+        {
+          "cells": [
+            "Personnels de première ligne (PPL)",
+            "28",
+            "34"
+          ]
+        },
+        {
+          "cells": [
+            "Membres des ménages et communautés",
+            "68",
+            "0"
+          ]
+        },
+        {
+          "cells": [
+            "EDS appuyés (SMSPS)",
+            "7",
+            "0"
+          ]
+        }
+      ]
+    },
+    {
+      "n": 8,
+      "caption": "TABLEAU 8 — PERSONNEL DE PREMIERE LIGNE (PPL) INFECTE PAR LA MVE (CUMUL AU 20 JUILLET 2026, ITURI)",
+      "columns": [
+        "Zone de santé",
+        "Cas confirmés",
+        "Guéris",
+        "En hospitalisation",
+        "Décès"
+      ],
+      "rows": [
+        {
+          "cells": [
+            "Bunia",
+            "35",
+            "18",
+            "3",
+            "14"
+          ]
+        },
+        {
+          "cells": [
+            "Rwampara",
+            "32",
+            "24",
+            "1",
+            "7"
+          ]
+        },
+        {
+          "cells": [
+            "Mongbwalu",
+            "16",
+            "6",
+            "2",
+            "8"
+          ]
+        },
+        {
+          "cells": [
+            "Nyankunde",
+            "14",
+            "11",
+            "1",
+            "2"
+          ]
+        },
+        {
+          "cells": [
+            "Nia-Nia",
+            "10",
+            "3",
+            "7",
+            "0"
+          ]
+        },
+        {
+          "cells": [
+            "Lita",
+            "4",
+            "1",
+            "2",
+            "1"
+          ]
+        },
+        {
+          "cells": [
+            "Nizi",
+            "3",
+            "0",
+            "0",
+            "3"
+          ]
+        },
+        {
+          "cells": [
+            "Mangala",
+            "3",
+            "1",
+            "1",
+            "1"
+          ]
+        },
+        {
+          "cells": [
+            "Bambu",
+            "2",
+            "2",
+            "0",
+            "0"
+          ]
+        },
+        {
+          "cells": [
+            "Kilo",
+            "2",
+            "1",
+            "1",
+            "0"
+          ]
+        },
+        {
+          "cells": [
+            "Total — létalité 29,8 %",
+            "121",
+            "67",
+            "18",
+            "36"
+          ]
+        }
+      ]
+    },
+    {
+      "n": 9,
+      "caption": "",
+      "columns": [
+        "N°",
+        "Défis",
+        "Impact",
+        "Actions requises"
+      ],
+      "rows": [
+        {
+          "cells": [
+            "1",
+            "Réticence aux prélèvements post-mortem (EDS/swabs), résistance communautaire et insécurité visant les équipes EDS (attaque au pont Muchanga, paralysie des activités à Nyankunde)",
+            "Retard de confirmation, sous-estimation des cas, perturbation des activités clés",
+            "Intensifier la CREC, impliquer les leaders religieux et communautaires, sécuriser les équipes, augmenter le nombre d'équipes EDS"
+          ]
+        },
+        {
+          "cells": [
+            "2",
+            "Non-paiement des prestataires (grève dans les ZS de Bunia et de Rwampara ; reprise annoncée après l'intervention du gouverneur militaire de l'Ituri)",
+            "Interruption des activités de riposte, dont les enterrements dignes et sécurisés",
+            "Régulariser le paiement des prestataires ; sécuriser un financement dédié"
+          ]
+        },
+        {
+          "cells": [
+            "3",
+            "Capacité des CTE/CT insuffisante : occupation de 128,4 % au Nord-Kivu (capacités de lits : 141) et de 78,4 % en Ituri (556 patients pour 709 lits) ;",
+            "Retards d'admission, augmentation du risque de transmission nosocomiale",
+            "Accélérer la construction et l'expansion des CTE, déployer des structures temporaires, rapporter systématiquement les capacités en lits"
+          ]
+        },
+        {
+          "cells": [
+            "4",
+            "Performance du suivi des contacts faible en Ituri 81,8 % ; Nord-Kivu 81,9%",
+            "Chaînes de transmission non interrompues",
+            "Former, déployer et motiver les relais communautaires (RECO) ; supervision renforcée ; investiguer la chute observée en Ituri"
+          ]
+        },
+        {
+          "cells": [
+            "5",
+            "Insuffisance d'ambulances et prépositionnement aux PoC",
+            "Retards de transfert et d'isolement",
+            "Prépositionner des ambulances (dont aux PoE/PoC), déployer des CT par ZS"
+          ]
+        },
+        {
+          "cells": [
+            "6",
+            "Insuffisance d'approvisionnement en MEG et intrants médicaux",
+            "Fragilisation de la prise en charge globale",
+            "Plaidoyer et approvisionnement urgent en médicaments essentiels"
+          ]
+        },
+        {
+          "cells": [
+            "7",
+            "Insuffisance des intrants PCI (EPI, chlore) et unités de triage fonctionnelles limitées (175/1 170, soit 15 %)",
+            "Risque élevé d'infections nosocomiales (121 cas PPL dont 36 décès)",
+            "Approvisionnement urgent, renforcement des formations en PCI"
+          ]
+        },
+        {
+          "cells": [
+            "8",
+            "Extension géographique (Haut-Uélé, Tshopo) et forte mobilité",
+            "Risque de diffusion urbaine, fluviale et transfrontalière",
+            "Activer les 23 PoE/PoC prioritaires du Haut-Uélé ; renforcer la coordination transfrontalière"
+          ]
+        },
+        {
+          "cells": [
+            "9",
+            "Installation de laboratoires de proximité (Butembo, Mambasa et Logo)",
+            "Délais de confirmation longs, transmission non détectée",
+            "Accélérer le déploiement des capacités diagnostiques décentralisées"
+          ]
+        },
+        {
+          "cells": [
+            "10",
+            "Insuffisance des ressources financières",
+            "Limitation de la mise en œuvre des piliers",
+            "Mobilisation urgente des ressources, plaidoyer auprès des partenaires"
+          ]
+        },
+        {
+          "cells": [
+            "11",
+            "Insécurité et accès limité (CODECO, ADF)",
+            "Restriction des opérations",
+            "Renforcement de la coordination sécuritaire et de l'accès humanitaire"
+          ]
+        },
+        {
+          "cells": [
+            "12",
+            "Continuité des services essentiels (CEHS) compromise",
+            "Augmentation de la mortalité indirecte (non-Ebola)",
+            "Mise en œuvre effective de la gratuité des soins, renforcement CEHS"
+          ]
+        }
+      ]
+    }
+  ]
+}

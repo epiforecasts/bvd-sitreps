@@ -1,0 +1,16 @@
+Indicateur,Ituri,Nord-Kivu,Sud-Kivu,Ensemble
+Patients présents au lit (fin de journée J-1),147,8,5,160
+Admissions (24h) Admissions PPL,2,0,0,2
+Admissions (24h) Admissions autres,19,0,1,20
+Total admissions,21,0,1,22
+Sorties (24h) Guéris,0,0,0,0
+Sorties (24h) Décédés suspects,6,0,0,6
+Sorties (24h) Décédés confirmés,1,0,0,1
+Sorties (24h) Non cas,2,0,2,4
+Sorties (24h) Évadés confirmés,1,3,0,4
+Total sorties,10,3,2,15
+Patients en isolement (fin de journée),158,8,7,173
+Patients en isolement (fin de journée) Nouveaux cas confirmés (NC),13,5,2,20
+Patients en isolement (fin de journée) Anciens cas confirmés (AC),21,0,0,21
+Patients en isolement (fin de journée) Cas suspects,122,3,3,128
+Patients en isolement (fin de journée) Suspects enfants de < 5 ans*,2,0,2,4

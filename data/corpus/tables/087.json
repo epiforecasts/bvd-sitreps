@@ -1,0 +1,608 @@
+{
+  "id": "087",
+  "sitrep": "087",
+  "report_date": "2026-08-09",
+  "pdf_md5": "bb4fbc233bf85c9bebfaf0e7eaac2327",
+  "tables": [
+    {
+      "n": 1,
+      "caption": "Répartition des cas et décès confirmés par province touchée (Au 09 août 2026)",
+      "columns": [
+        "Province",
+        "Cas confirmés",
+        "Décès (confirmés)",
+        "Létalité",
+        "Zones de santé touchées",
+        "Nouveaux cas confirmés(24h)"
+      ],
+      "rows": [
+        {
+          "cells": [
+            "Ituri",
+            "3 761",
+            "1 620",
+            "43,1%",
+            "28/36 (77,8 %)",
+            "57"
+          ]
+        },
+        {
+          "cells": [
+            "Nord-Kivu",
+            "495",
+            "338",
+            "68,3%",
+            "12/34 (35,3 %)",
+            "15"
+          ]
+        },
+        {
+          "cells": [
+            "Haut-Uélé",
+            "113",
+            "47",
+            "41,6%",
+            "6/13 (46,1 %)",
+            "15"
+          ]
+        },
+        {
+          "cells": [
+            "Tshopo",
+            "9",
+            "5",
+            "55,6%",
+            "6/23 (26,0 %)",
+            "0"
+          ]
+        },
+        {
+          "cells": [
+            "Sud-Kivu",
+            "3",
+            "1",
+            "33,3%",
+            "1/34 (2,9 %)",
+            "0"
+          ]
+        },
+        {
+          "cells": [
+            "Total",
+            "4 381",
+            "2 011",
+            "45,9%",
+            "53/140 (37,8 %)",
+            "87"
+          ]
+        }
+      ]
+    },
+    {
+      "n": 2,
+      "caption": "Cas et décès confirmés par province et zone de santé (situation du 09 août 2026)",
+      "columns": [
+        "Province",
+        "Zone de santé",
+        "Nouveaux cas confirmés",
+        "Dont décès parmi les nouveaux confirmes",
+        "Létalité",
+        "Décès communautaires",
+        "Décès intra-CTE/CT",
+        "Total décès du jour"
+      ],
+      "rows": [
+        {
+          "cells": [
+            "Ituri",
+            "Bunia",
+            "12",
+            "4",
+            "33,3%",
+            "4",
+            "ND",
+            "ND"
+          ]
+        },
+        {
+          "cells": [
+            "Ituri",
+            "Nizi",
+            "9",
+            "1",
+            "11,1%",
+            "1",
+            "ND",
+            "ND"
+          ]
+        },
+        {
+          "cells": [
+            "Ituri",
+            "Fataki",
+            "9",
+            "5",
+            "55,6%",
+            "5",
+            "ND",
+            "ND"
+          ]
+        },
+        {
+          "cells": [
+            "Ituri",
+            "Rwampara",
+            "6",
+            "2",
+            "33,3%",
+            "2",
+            "ND",
+            "ND"
+          ]
+        },
+        {
+          "cells": [
+            "Ituri",
+            "Lita",
+            "6",
+            "6",
+            "100,0%",
+            "6",
+            "ND",
+            "ND"
+          ]
+        },
+        {
+          "cells": [
+            "Ituri",
+            "Mangala",
+            "6",
+            "5",
+            "83,3%",
+            "5",
+            "ND",
+            "ND"
+          ]
+        },
+        {
+          "cells": [
+            "Ituri",
+            "Nia-Nia",
+            "4",
+            "1",
+            "25,0%",
+            "1",
+            "ND",
+            "ND"
+          ]
+        },
+        {
+          "cells": [
+            "Ituri",
+            "Tchomia",
+            "2",
+            "0",
+            "0,0%",
+            "0",
+            "ND",
+            "ND"
+          ]
+        },
+        {
+          "cells": [
+            "Ituri",
+            "Aru",
+            "1",
+            "0",
+            "0,0%",
+            "0",
+            "ND",
+            "ND"
+          ]
+        },
+        {
+          "cells": [
+            "Ituri",
+            "Mongbwalu",
+            "1",
+            "0",
+            "0,0%",
+            "0",
+            "ND",
+            "ND"
+          ]
+        },
+        {
+          "cells": [
+            "Ituri",
+            "Nyankunde",
+            "1",
+            "0",
+            "0,0%",
+            "0",
+            "ND",
+            "ND"
+          ]
+        },
+        {
+          "cells": [
+            "Ituri",
+            "Bambu-mine",
+            "0",
+            "0",
+            "0,0%",
+            "0",
+            "ND",
+            "ND"
+          ]
+        },
+        {
+          "cells": [
+            "Ituri",
+            "Mandima",
+            "0",
+            "0",
+            "0,0%",
+            "0",
+            "ND",
+            "ND"
+          ]
+        },
+        {
+          "cells": [
+            "Ituri",
+            "Mambasa",
+            "0",
+            "0",
+            "0,0%",
+            "0",
+            "ND",
+            "ND"
+          ]
+        },
+        {
+          "cells": [
+            "Ituri",
+            "Komanda",
+            "0",
+            "0",
+            "0,0%",
+            "0",
+            "ND",
+            "ND"
+          ]
+        },
+        {
+          "cells": [
+            "Ituri",
+            "Logo",
+            "0",
+            "0",
+            "0,0%",
+            "0",
+            "ND",
+            "ND"
+          ]
+        },
+        {
+          "cells": [
+            "Ituri",
+            "Lolwa",
+            "0",
+            "0",
+            "0,0%",
+            "0",
+            "ND",
+            "ND"
+          ]
+        },
+        {
+          "cells": [
+            "Ituri",
+            "Drodro",
+            "0",
+            "0",
+            "0,0%",
+            "0",
+            "ND",
+            "ND"
+          ]
+        },
+        {
+          "cells": [
+            "Ituri",
+            "Sous-total Ituri",
+            "57",
+            "24",
+            "42,1%",
+            "24",
+            "12",
+            "36"
+          ]
+        },
+        {
+          "cells": [
+            "Nord-Kivu",
+            "Beni",
+            "6",
+            "4",
+            "66,7%",
+            "4",
+            "1",
+            "5"
+          ]
+        },
+        {
+          "cells": [
+            "Nord-Kivu",
+            "Katwa",
+            "5",
+            "1",
+            "20,0%",
+            "1",
+            "0",
+            "1"
+          ]
+        },
+        {
+          "cells": [
+            "Nord-Kivu",
+            "Butembo",
+            "2",
+            "2",
+            "100,0%",
+            "2",
+            "1",
+            "3"
+          ]
+        },
+        {
+          "cells": [
+            "Nord-Kivu",
+            "Kalunguta",
+            "1",
+            "0",
+            "0,0%",
+            "0",
+            "0",
+            "0"
+          ]
+        },
+        {
+          "cells": [
+            "Nord-Kivu",
+            "Masereka",
+            "1",
+            "0",
+            "0,0%",
+            "0",
+            "0",
+            "0"
+          ]
+        },
+        {
+          "cells": [
+            "Nord-Kivu",
+            "Musienene",
+            "0",
+            "0",
+            "0,0%",
+            "0",
+            "3",
+            "3"
+          ]
+        },
+        {
+          "cells": [
+            "Nord-Kivu",
+            "Sous-total Nord-Kivu",
+            "15",
+            "7",
+            "46,7%",
+            "7",
+            "5",
+            "12"
+          ]
+        },
+        {
+          "cells": [
+            "Haut-Uélé",
+            "Wamba",
+            "14",
+            "2",
+            "14,3%",
+            "2",
+            "0",
+            "2"
+          ]
+        },
+        {
+          "cells": [
+            "Haut-Uélé",
+            "Isiro",
+            "1",
+            "1",
+            "100,0%",
+            "1",
+            "0",
+            "1"
+          ]
+        },
+        {
+          "cells": [
+            "Haut-Uélé",
+            "Pawa",
+            "0",
+            "0",
+            "0,0%",
+            "0",
+            "0",
+            "0"
+          ]
+        },
+        {
+          "cells": [
+            "Haut-Uélé",
+            "Boma Mangbetu",
+            "0",
+            "0",
+            "0,0%",
+            "0",
+            "0",
+            "0"
+          ]
+        },
+        {
+          "cells": [
+            "Haut-Uélé",
+            "Rungu",
+            "0",
+            "0",
+            "0,0%",
+            "0",
+            "0",
+            "0"
+          ]
+        },
+        {
+          "cells": [
+            "Haut-Uélé",
+            "Gombari",
+            "0",
+            "0",
+            "0,0%",
+            "0",
+            "0",
+            "0"
+          ]
+        },
+        {
+          "cells": [
+            "Haut-Uélé",
+            "Sous-total Haut-Uélé",
+            "15",
+            "3",
+            "20,0%",
+            "3",
+            "0",
+            "3"
+          ]
+        },
+        {
+          "cells": [
+            "TOTAL NATIONAL",
+            "TOTAL NATIONAL",
+            "87",
+            "34",
+            "39,1%*",
+            "34",
+            "17",
+            "51"
+          ]
+        }
+      ]
+    },
+    {
+      "n": 3,
+      "caption": "Situation des alertes notifiées par province, au 09 août 2026",
+      "columns": [
+        "DPS",
+        "Nouvelles Alertes Reçues Vivants",
+        "Nouvelles Alertes Reçues Décédés",
+        "Total alertes",
+        "Alertes vérifiées et validées (cas suspect) Vivants",
+        "Alertes vérifiées et validées (cas suspect) Décédés",
+        "Alertes vérifiées et invalidées (non-cas suspect) Vivants",
+        "Alertes vérifiées et invalidées (non-cas suspect) Décédés",
+        "Nombre de suspects investigués",
+        "Nombre de suspects investigués et transférés au CT/CTE (du jour)"
+      ],
+      "rows": [
+        {
+          "cells": [
+            "Haut-Uélé",
+            "6",
+            "3",
+            "9",
+            "5",
+            "1",
+            "1",
+            "2",
+            "6",
+            "4"
+          ]
+        },
+        {
+          "cells": [
+            "Ituri",
+            "650",
+            "58",
+            "708",
+            "68",
+            "57",
+            "563",
+            "1",
+            "125",
+            "60"
+          ]
+        },
+        {
+          "cells": [
+            "Nord-Kivu",
+            "596",
+            "61",
+            "657",
+            "52",
+            "51",
+            "544",
+            "10",
+            "103",
+            "52"
+          ]
+        },
+        {
+          "cells": [
+            "Sud-Kivu",
+            "8",
+            "0",
+            "8",
+            "1",
+            "0",
+            "7",
+            "0",
+            "1",
+            "1"
+          ]
+        },
+        {
+          "cells": [
+            "Tshopo",
+            "44",
+            "0",
+            "44",
+            "7",
+            "0",
+            "33",
+            "0",
+            "7",
+            "7"
+          ]
+        },
+        {
+          "cells": [
+            "Total Général",
+            "1304",
+            "122",
+            "1 426",
+            "133",
+            "109",
+            "1148",
+            "13",
+            "242",
+            "124"
+          ]
+        }
+      ]
+    }
+  ]
+}

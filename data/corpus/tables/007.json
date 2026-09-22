@@ -1,0 +1,1872 @@
+{
+  "id": "007",
+  "sitrep": "007",
+  "report_date": "2026-05-21",
+  "pdf_md5": "03baf09a41f640a23ef1ae9a91e02031",
+  "tables": [
+    {
+      "n": 1,
+      "caption": "Tableau I. Répartition des cas et décès confirmés par zone de santé dans les provinces touchées",
+      "columns": [
+        "Provinces touchées",
+        "Zones de santé avec cas confirmés",
+        "Nouveaux cas confirmés",
+        "Nouveaux décès parmis confirmés",
+        "Nouveaux cas probables",
+        "Nouveaux cas suspects",
+        "Nouveaux contacts listés",
+        "Guéris du jour"
+      ],
+      "rows": [
+        {
+          "cells": [
+            "Ituri",
+            "Bunia",
+            "6",
+            "1",
+            "ND",
+            "41",
+            "87",
+            "0"
+          ]
+        },
+        {
+          "cells": [
+            "Ituri",
+            "Rwampara",
+            "7",
+            "1",
+            "ND",
+            "14",
+            "0",
+            "0"
+          ]
+        },
+        {
+          "cells": [
+            "Ituri",
+            "Mongbwalu",
+            "1",
+            "0",
+            "ND",
+            "5",
+            "0",
+            "0"
+          ]
+        },
+        {
+          "cells": [
+            "Ituri",
+            "Bambu",
+            "0",
+            "0",
+            "ND",
+            "0",
+            "48",
+            "0"
+          ]
+        },
+        {
+          "cells": [
+            "Ituri",
+            "Nyankunde",
+            "2",
+            "0",
+            "ND",
+            "9",
+            "207",
+            "0"
+          ]
+        },
+        {
+          "cells": [
+            "Ituri",
+            "Nizi",
+            "1",
+            "0",
+            "ND",
+            "1",
+            "ND",
+            "0"
+          ]
+        },
+        {
+          "cells": [
+            "Ituri",
+            "Kilo",
+            "1",
+            "0",
+            "ND",
+            "1",
+            "ND",
+            "0"
+          ]
+        },
+        {
+          "cells": [
+            "Ituri",
+            "Sous total",
+            "18",
+            "2",
+            "0",
+            "70",
+            "342",
+            "0"
+          ]
+        },
+        {
+          "cells": [
+            "Nord-Kivu",
+            "Goma",
+            "0",
+            "0",
+            "ND",
+            "ND",
+            "ND",
+            "0"
+          ]
+        },
+        {
+          "cells": [
+            "Nord-Kivu",
+            "Butembo",
+            "0",
+            "0",
+            "ND",
+            "ND",
+            "ND",
+            "0"
+          ]
+        },
+        {
+          "cells": [
+            "Nord-Kivu",
+            "Katwa",
+            "0",
+            "0",
+            "ND",
+            "ND",
+            "ND",
+            "0"
+          ]
+        },
+        {
+          "cells": [
+            "Sud Kivu",
+            "Miti Murhesa",
+            "1",
+            "1",
+            "ND",
+            "ND",
+            "ND",
+            "0"
+          ]
+        },
+        {
+          "cells": [
+            "Sud Kivu",
+            "Sous total",
+            "1",
+            "1",
+            "0",
+            "0",
+            "0",
+            "0"
+          ]
+        },
+        {
+          "cells": [
+            "Total",
+            "Total",
+            "19",
+            "3",
+            "0",
+            "70",
+            "342",
+            "0"
+          ]
+        }
+      ]
+    },
+    {
+      "n": 2,
+      "caption": "Tableau II. Récapitulatif de la situation des alertes à la date du 21 mai 2026",
+      "columns": [
+        "Suivi des alertes",
+        "Report des alertes (20/05)",
+        "Nouvelles alertes (21/05)",
+        "Total des alertes du jour (21/05)",
+        "Alertes vivants",
+        "Alertes décédés",
+        "Alertes investiguées",
+        "Alertes non investiguées",
+        "Alertes validées",
+        "Alertes invalidées",
+        "Cas suspects prélevés",
+        "Cas suspects non prélévés",
+        "Cas suspects isolés",
+        "Cas suspects non isolés"
+      ],
+      "rows": [
+        {
+          "cells": [
+            "Bunia",
+            "4",
+            "39",
+            "43",
+            "40",
+            "3",
+            "41",
+            "2",
+            "41",
+            "0",
+            "17",
+            "24",
+            "41",
+            "0"
+          ]
+        },
+        {
+          "cells": [
+            "Rwampara",
+            "6",
+            "20",
+            "26",
+            "19",
+            "7",
+            "14",
+            "12",
+            "14",
+            "0",
+            "12",
+            "2",
+            "12",
+            "0"
+          ]
+        },
+        {
+          "cells": [
+            "Nyankunde",
+            "0",
+            "10",
+            "10",
+            "9",
+            "1",
+            "9",
+            "0",
+            "10",
+            "0",
+            "10",
+            "0",
+            "9",
+            "0"
+          ]
+        },
+        {
+          "cells": [
+            "Mongbwalu",
+            "0",
+            "7",
+            "7",
+            "3",
+            "4",
+            "5",
+            "2",
+            "5",
+            "0",
+            "4",
+            "1",
+            "1",
+            "0"
+          ]
+        },
+        {
+          "cells": [
+            "Bambu",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+          ]
+        },
+        {
+          "cells": [
+            "Nizi",
+            "0",
+            "1",
+            "1",
+            "0",
+            "1",
+            "1",
+            "0",
+            "1",
+            "0",
+            "1",
+            "0",
+            "O",
+            "0"
+          ]
+        },
+        {
+          "cells": [
+            "Lita",
+            "0",
+            "1",
+            "1",
+            "0",
+            "1",
+            "1",
+            "0",
+            "1",
+            "0",
+            "1",
+            "0",
+            "O",
+            "0"
+          ]
+        },
+        {
+          "cells": [
+            "Fataki",
+            "ND",
+            "ND",
+            "ND",
+            "ND",
+            "ND",
+            "ND",
+            "ND",
+            "ND",
+            "ND",
+            "ND",
+            "ND",
+            "ND",
+            "ND"
+          ]
+        },
+        {
+          "cells": [
+            "Logo",
+            "ND",
+            "ND",
+            "ND",
+            "ND",
+            "ND",
+            "ND",
+            "ND",
+            "ND",
+            "ND",
+            "ND",
+            "ND",
+            "ND",
+            "ND"
+          ]
+        },
+        {
+          "cells": [
+            "Aungba",
+            "ND",
+            "ND",
+            "ND",
+            "ND",
+            "ND",
+            "ND",
+            "ND",
+            "ND",
+            "ND",
+            "ND",
+            "ND",
+            "ND",
+            "ND"
+          ]
+        },
+        {
+          "cells": [
+            "Rethy",
+            "ND",
+            "ND",
+            "ND",
+            "ND",
+            "ND",
+            "ND",
+            "ND",
+            "ND",
+            "ND",
+            "ND",
+            "ND",
+            "ND",
+            "ND"
+          ]
+        },
+        {
+          "cells": [
+            "Komanda",
+            "ND",
+            "ND",
+            "ND",
+            "ND",
+            "ND",
+            "ND",
+            "ND",
+            "ND",
+            "ND",
+            "ND",
+            "ND",
+            "ND",
+            "ND"
+          ]
+        },
+        {
+          "cells": [
+            "Nyarambe",
+            "0",
+            "1",
+            "1",
+            "1",
+            "0",
+            "1",
+            "0",
+            "1",
+            "0",
+            "1",
+            "0",
+            "1",
+            "0"
+          ]
+        },
+        {
+          "cells": [
+            "Aru",
+            "0",
+            "3",
+            "3",
+            "3",
+            "0",
+            "3",
+            "0",
+            "3",
+            "0",
+            "3",
+            "0",
+            "3",
+            "0"
+          ]
+        },
+        {
+          "cells": [
+            "Drodro",
+            "0",
+            "1",
+            "1",
+            "1",
+            "0",
+            "1",
+            "0",
+            "1",
+            "0",
+            "1",
+            "0",
+            "1",
+            "0"
+          ]
+        },
+        {
+          "cells": [
+            "Mambassa",
+            "0",
+            "1",
+            "1",
+            "1",
+            "0",
+            "1",
+            "0",
+            "1",
+            "0",
+            "1",
+            "0",
+            "1",
+            "0"
+          ]
+        },
+        {
+          "cells": [
+            "Mangala",
+            "ND",
+            "ND",
+            "ND",
+            "ND",
+            "ND",
+            "ND",
+            "ND",
+            "ND",
+            "ND",
+            "ND",
+            "ND",
+            "ND",
+            "ND"
+          ]
+        },
+        {
+          "cells": [
+            "Lolwa",
+            "ND",
+            "ND",
+            "ND",
+            "ND",
+            "ND",
+            "ND",
+            "ND",
+            "ND",
+            "ND",
+            "ND",
+            "ND",
+            "ND",
+            "ND"
+          ]
+        }
+      ]
+    },
+    {
+      "n": 3,
+      "caption": "Tableau III. Récapitulatif de l’identification et suivi de contacts à la date du 21 mai 2026",
+      "columns": [
+        "Zones de santé",
+        "Suivi journalier Report du 19/05/2026",
+        "Suivi journalier Nouveaux contacts le 20/05/2026",
+        "Suivi journalier Contact à suivre ce jour",
+        "Suivi journalier Contacts vus",
+        "Suivi journalier Sorties 21 Jrs",
+        "Suivi journalier Devenus Suspects",
+        "Suivi journalier Taux de suivi",
+        "Raison de non vus Total non vus",
+        "Raison de non vus Simple Absence",
+        "Raison de non vus Perdus de vue (≥72 heures)",
+        "Raison de non vus Jamais vus",
+        "Raison de non vus Refus",
+        "Raison de non vus Déplacés",
+        "Raison de non vus Reco n'est pas passé",
+        "Raison de non vus Reste à suivre le jour suivant"
+      ],
+      "rows": [
+        {
+          "cells": [
+            "Bunia",
+            "203",
+            "87",
+            "290",
+            "87",
+            "0",
+            "0",
+            "30%",
+            "203",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "203",
+            "290"
+          ]
+        },
+        {
+          "cells": [
+            "Rwampara",
+            "621",
+            "0",
+            "621",
+            "0",
+            "0",
+            "0",
+            "0%",
+            "621",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "621",
+            "621"
+          ]
+        },
+        {
+          "cells": [
+            "Nyankunde",
+            "133",
+            "207",
+            "340",
+            "207",
+            "0",
+            "0",
+            "61%",
+            "133",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "133",
+            "340"
+          ]
+        },
+        {
+          "cells": [
+            "Mongbwalu",
+            "176",
+            "0",
+            "176",
+            "0",
+            "0",
+            "0",
+            "0%",
+            "176",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "176",
+            "176"
+          ]
+        },
+        {
+          "cells": [
+            "Bambu",
+            "128",
+            "48",
+            "176",
+            "48",
+            "0",
+            "1",
+            "27%",
+            "128",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "128",
+            "176"
+          ]
+        },
+        {
+          "cells": [
+            "Total",
+            "1261",
+            "342",
+            "1603",
+            "342",
+            "0",
+            "1",
+            "21%",
+            "1261",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "1261",
+            "1603"
+          ]
+        }
+      ]
+    },
+    {
+      "n": 4,
+      "caption": "Tableau IV. Répartition des cas, décès suspects et confirmés de maladie à virus Ebola dans les zones de santé de la DPS Ituri et Nord-Kivu au 21 mai 2026*",
+      "columns": [
+        "Provinces",
+        "Zones de santé",
+        "Nbre de cas suspects",
+        "Nbre de décès probable**",
+        "Nbre de cas Confirmés",
+        "Nbre de contacts"
+      ],
+      "rows": [
+        {
+          "cells": [
+            "Ituri",
+            "Mongbwalu",
+            "322",
+            "84",
+            "14",
+            "176"
+          ]
+        },
+        {
+          "cells": [
+            "Ituri",
+            "Rwampara",
+            "193",
+            "51",
+            "31",
+            "621"
+          ]
+        },
+        {
+          "cells": [
+            "Ituri",
+            "Bunia",
+            "166",
+            "34",
+            "15",
+            "290"
+          ]
+        },
+        {
+          "cells": [
+            "Ituri",
+            "Nyankunde",
+            "38",
+            "6",
+            "11",
+            "340"
+          ]
+        },
+        {
+          "cells": [
+            "Ituri",
+            "BAMBU",
+            "2",
+            "0",
+            "1",
+            "176"
+          ]
+        },
+        {
+          "cells": [
+            "Ituri",
+            "Nizi",
+            "3",
+            "1",
+            "1",
+            "ND"
+          ]
+        },
+        {
+          "cells": [
+            "Ituri",
+            "Kilo Mission",
+            "1",
+            "0",
+            "1",
+            "ND"
+          ]
+        },
+        {
+          "cells": [
+            "Ituri",
+            "Echantillons sans fiche",
+            "0",
+            "0",
+            "4",
+            "0"
+          ]
+        },
+        {
+          "cells": [
+            "Nord-Kivu",
+            "Goma",
+            "0",
+            "0",
+            "1",
+            "ND"
+          ]
+        },
+        {
+          "cells": [
+            "Nord-Kivu",
+            "Katwa",
+            "13",
+            "0",
+            "2",
+            "ND"
+          ]
+        },
+        {
+          "cells": [
+            "Nord-Kivu",
+            "Butembo",
+            "7",
+            "0",
+            "1",
+            "ND"
+          ]
+        },
+        {
+          "cells": [
+            "Sud-Kivu",
+            "Miti Murhesa",
+            "1",
+            "0",
+            "1",
+            "ND"
+          ]
+        },
+        {
+          "cells": [
+            "Total",
+            "Total",
+            "746",
+            "176",
+            "83",
+            "1603"
+          ]
+        }
+      ]
+    },
+    {
+      "n": 5,
+      "caption": "Tableau V. Synthèse de données (PoE/PoC) du 21/05/2026",
+      "columns": [
+        "Zone de santé",
+        "PoE/PoC",
+        "Tot v passées",
+        "Tot v screenés",
+        "Total lavage de mains",
+        "Tot v sensiblisés",
+        "Tot alertes",
+        "Tot refus Lavage mains",
+        "Tot refus screening"
+      ],
+      "rows": [
+        {
+          "cells": [
+            "NIZI",
+            "PONT NIZI",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+          ]
+        },
+        {
+          "cells": [
+            "BUNIA",
+            "AEROPORT",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+          ]
+        },
+        {
+          "cells": [
+            "BUNIA",
+            "MUDZIBALA",
+            "1473",
+            "1473",
+            "1473",
+            "1473",
+            "0",
+            "0",
+            "0"
+          ]
+        },
+        {
+          "cells": [
+            "BUNIA",
+            "PONT SIMBILIABO",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+          ]
+        },
+        {
+          "cells": [
+            "RWAMPARA",
+            "PONT SHARI",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+          ]
+        },
+        {
+          "cells": [
+            "RWAMPARA",
+            "DELE",
+            "940",
+            "940",
+            "940",
+            "940",
+            "0",
+            "0",
+            "0"
+          ]
+        },
+        {
+          "cells": [
+            "RWAMPARA",
+            "CHAI",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+          ]
+        },
+        {
+          "cells": [
+            "TCHOMIA",
+            "TCHOMIA",
+            "71",
+            "71",
+            "71",
+            "71",
+            "0",
+            "0",
+            "0"
+          ]
+        },
+        {
+          "cells": [
+            "TCHOMIA",
+            "NYAMUSASI",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+          ]
+        },
+        {
+          "cells": [
+            "TCHOMIA",
+            "KASENYI",
+            "59",
+            "59",
+            "59",
+            "59",
+            "0",
+            "0",
+            "0"
+          ]
+        },
+        {
+          "cells": [
+            "TCHOMIA",
+            "MANDJE",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+          ]
+        },
+        {
+          "cells": [
+            "NYAKUNDE",
+            "MARABO",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+          ]
+        },
+        {
+          "cells": [
+            "NYAKUNDE",
+            "ENTREE NYAK.",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+          ]
+        },
+        {
+          "cells": [
+            "NYAKUNDE",
+            "SOTA",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+          ]
+        },
+        {
+          "cells": [
+            "NYAKUNDE",
+            "PONT TALOLO",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+          ]
+        },
+        {
+          "cells": [
+            "MUNGWALU",
+            "POIPO",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+          ]
+        },
+        {
+          "cells": [
+            "MUNGWALU",
+            "MAHIDEDE",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+          ]
+        },
+        {
+          "cells": [
+            "MUNGWALU",
+            "PONT PLITO",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+          ]
+        },
+        {
+          "cells": [
+            "MUNGWALU",
+            "PONT KIRIKOU",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+          ]
+        }
+      ]
+    },
+    {
+      "n": 6,
+      "caption": "",
+      "columns": [
+        "Total",
+        "Total"
+      ],
+      "rows": [
+        {
+          "cells": [
+            "Cumul échantillons reçus",
+            "290"
+          ]
+        },
+        {
+          "cells": [
+            "Ré prélèvements (contrôle)",
+            "3"
+          ]
+        },
+        {
+          "cells": [
+            "Cumul échantillons analysés",
+            "171"
+          ]
+        },
+        {
+          "cells": [
+            "Cumul positifs",
+            "77"
+          ]
+        }
+      ]
+    },
+    {
+      "n": 7,
+      "caption": "REPARTITION DES ECHANTILLONS TESTES AU LABO BUNIA PAR NATURE",
+      "columns": [
+        "Date",
+        "Provenance ZS",
+        "Nombre échantillons testés",
+        "Natures d'échant Sang",
+        "Natures d'échant Swab",
+        "Reprélèvem ent",
+        "Positifs Sang",
+        "Positifs Swab",
+        "Négatifs Sang",
+        "Négatifs Swab",
+        "Indéterminés Sang",
+        "Indéterminés Swab"
+      ],
+      "rows": [
+        {
+          "cells": [
+            "21/05/2026",
+            "Bunia",
+            "11",
+            "10",
+            "1",
+            "0",
+            "5",
+            "1",
+            "5",
+            "0",
+            "0",
+            "0"
+          ]
+        },
+        {
+          "cells": [
+            "21/05/2026",
+            "Rwampara",
+            "8",
+            "7",
+            "1",
+            "0",
+            "6",
+            "1",
+            "1",
+            "0",
+            "0",
+            "0"
+          ]
+        },
+        {
+          "cells": [
+            "21/05/2026",
+            "Nyakunde",
+            "15",
+            "15",
+            "0",
+            "0",
+            "2",
+            "0",
+            "13",
+            "0",
+            "0",
+            "0"
+          ]
+        },
+        {
+          "cells": [
+            "21/05/2026",
+            "Mongbwalu",
+            "1",
+            "1",
+            "0",
+            "0",
+            "1",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+          ]
+        },
+        {
+          "cells": [
+            "21/05/2026",
+            "Bambu-mine",
+            "1",
+            "1",
+            "0",
+            "0",
+            "0",
+            "0",
+            "1",
+            "0",
+            "0",
+            "0"
+          ]
+        },
+        {
+          "cells": [
+            "21/05/2026",
+            "Nizi",
+            "1",
+            "1",
+            "0",
+            "0",
+            "1",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+          ]
+        },
+        {
+          "cells": [
+            "TOTAL",
+            "TOTAL",
+            "37",
+            "35",
+            "2",
+            "0",
+            "15",
+            "2",
+            "20",
+            "0",
+            "0",
+            "0"
+          ]
+        }
+      ]
+    },
+    {
+      "n": 8,
+      "caption": "REPARTITION DES ECHANTILLONS REPRELEVES",
+      "columns": [
+        "Date",
+        "Provenance ZS",
+        "Reprélèvement",
+        "Diagnostic",
+        "Résultats P1 Positifs",
+        "Résultats P1 Négatifs",
+        "Résultats P2 Positifs",
+        "Résultats P2 Négatifs",
+        "Résultats P1/P2 Positifs",
+        "Résultats P1/P2 Négatifs"
+      ],
+      "rows": [
+        {
+          "cells": [
+            "21/05/2026",
+            "Bunia",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+          ]
+        },
+        {
+          "cells": [
+            "21/05/2026",
+            "Rwampara",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+          ]
+        },
+        {
+          "cells": [
+            "21/05/2026",
+            "Nyakunde",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+          ]
+        },
+        {
+          "cells": [
+            "21/05/2026",
+            "Mongbwalu",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+          ]
+        },
+        {
+          "cells": [
+            "21/05/2026",
+            "Bambu-mine",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+          ]
+        },
+        {
+          "cells": [
+            "21/05/2026",
+            "Nizi",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+          ]
+        },
+        {
+          "cells": [
+            "TOTAL",
+            "TOTAL",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+          ]
+        }
+      ]
+    },
+    {
+      "n": 9,
+      "caption": "RESULTATS DU JOUR : 21/05/2026",
+      "columns": [
+        "Date",
+        "Provenance ZS",
+        "Nombre échantillons testés",
+        "Natures d'échant Sang",
+        "Natures d'échant Swab",
+        "Reprélèvem ent",
+        "Positifs Sang",
+        "Positifs Swab",
+        "Négatifs Sang",
+        "Négatifs Swab",
+        "Indéterminés Sang",
+        "Indéterminés Swab"
+      ],
+      "rows": [
+        {
+          "cells": [
+            "21/05/2026",
+            "Bunia",
+            "11",
+            "10",
+            "1",
+            "0",
+            "5",
+            "1",
+            "5",
+            "0",
+            "0",
+            "0"
+          ]
+        },
+        {
+          "cells": [
+            "21/05/2026",
+            "Rwampara",
+            "8",
+            "7",
+            "1",
+            "0",
+            "6",
+            "1",
+            "1",
+            "0",
+            "0",
+            "0"
+          ]
+        },
+        {
+          "cells": [
+            "21/05/2026",
+            "Nyakunde",
+            "15",
+            "15",
+            "0",
+            "0",
+            "2",
+            "0",
+            "13",
+            "0",
+            "0",
+            "0"
+          ]
+        },
+        {
+          "cells": [
+            "21/05/2026",
+            "Mongbwalu",
+            "1",
+            "1",
+            "0",
+            "0",
+            "1",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+          ]
+        },
+        {
+          "cells": [
+            "21/05/2026",
+            "Bambu-mine",
+            "1",
+            "1",
+            "0",
+            "0",
+            "0",
+            "0",
+            "1",
+            "0",
+            "0",
+            "0"
+          ]
+        },
+        {
+          "cells": [
+            "21/05/2026",
+            "Nizi",
+            "1",
+            "1",
+            "0",
+            "0",
+            "1",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+          ]
+        },
+        {
+          "cells": [
+            "TOTAL",
+            "TOTAL",
+            "37",
+            "35",
+            "2",
+            "0",
+            "15",
+            "2",
+            "20",
+            "0",
+            "0",
+            "0"
+          ]
+        }
+      ]
+    },
+    {
+      "n": 10,
+      "caption": "Tableau VI. Mouvement des malades dans les établissements de soins en date du 21 mai 2026",
+      "columns": [
+        "Indicateurs 1",
+        "Indicateurs 2",
+        "HGR Bunia",
+        "RWAMPARA",
+        "RWAMPARA",
+        "Mongbwalu",
+        "Mongbwalu",
+        "Nyankunde",
+        "Total Général"
+      ],
+      "rows": [
+        {
+          "cells": [
+            "Report",
+            "Report",
+            "36",
+            "21",
+            "15",
+            "35",
+            "27",
+            "16",
+            "129"
+          ]
+        },
+        {
+          "cells": [
+            "Nouvelles Admissions",
+            "PPL",
+            "1",
+            "0",
+            "0",
+            "0",
+            "0",
+            "7",
+            "8"
+          ]
+        },
+        {
+          "cells": [
+            "Nouvelles Admissions",
+            "Autres",
+            "13",
+            "2",
+            "4",
+            "6",
+            "9",
+            "0",
+            "28"
+          ]
+        },
+        {
+          "cells": [
+            "Nouvelles Admissions",
+            "Total",
+            "14",
+            "2",
+            "4",
+            "6",
+            "9",
+            "7",
+            "36"
+          ]
+        },
+        {
+          "cells": [
+            "Total en Isolement",
+            "Total en Isolement",
+            "50",
+            "23",
+            "19",
+            "46",
+            "36",
+            "23",
+            "165"
+          ]
+        },
+        {
+          "cells": [
+            "Sorties",
+            "Guéris",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+          ]
+        },
+        {
+          "cells": [
+            "Sorties",
+            "Décédés",
+            "8",
+            "4",
+            "4",
+            "10",
+            "5",
+            "0",
+            "23"
+          ]
+        },
+        {
+          "cells": [
+            "Sorties",
+            "Cumul de décès",
+            "46",
+            "10",
+            "15",
+            "25",
+            "44",
+            "1",
+            "116"
+          ]
+        },
+        {
+          "cells": [
+            "Sorties",
+            "Non Cas",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+          ]
+        },
+        {
+          "cells": [
+            "Sorties",
+            "Evadés",
+            "9",
+            "0",
+            "0",
+            "0",
+            "1",
+            "0",
+            "10"
+          ]
+        },
+        {
+          "cells": [
+            "Sorties",
+            "Transférés à HGR",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+          ]
+        },
+        {
+          "cells": [
+            "Malades en isolement",
+            "Suspects",
+            "48",
+            "21",
+            "17",
+            "38",
+            "35",
+            "17",
+            "138"
+          ]
+        },
+        {
+          "cells": [
+            "Malades en isolement",
+            "Dont prélevés",
+            "26",
+            "ND",
+            "1",
+            "1",
+            "0",
+            "7",
+            "34"
+          ]
+        },
+        {
+          "cells": [
+            "Malades en isolement",
+            "Dont sévères/critiques",
+            "12",
+            "1",
+            "1",
+            "2",
+            "0",
+            "0",
+            "14"
+          ]
+        },
+        {
+          "cells": [
+            "Malades en isolement",
+            "Dont Femmes enceintes",
+            "0",
+            "0",
+            "0",
+            "0",
+            "1",
+            "0",
+            "1"
+          ]
+        },
+        {
+          "cells": [
+            "Malades en isolement",
+            "Dont Femmes allaitantes",
+            "2",
+            "0",
+            "0",
+            "0",
+            "1",
+            "0",
+            "3"
+          ]
+        },
+        {
+          "cells": [
+            "Malades en isolement",
+            "Dont Suspect Enfant < 5 ans",
+            "6",
+            "0",
+            "0",
+            "0",
+            "1",
+            "0",
+            "7"
+          ]
+        },
+        {
+          "cells": [
+            "Malades en isolement",
+            "5 à 14 ans",
+            "3",
+            "0",
+            "0",
+            "0",
+            "2",
+            "0",
+            "5"
+          ]
+        },
+        {
+          "cells": [
+            "Malades en isolement",
+            "Total cas confirmés",
+            "4",
+            "2",
+            "2",
+            "4",
+            "1",
+            "6",
+            "15"
+          ]
+        },
+        {
+          "cells": [
+            "Malades en isolement",
+            "Dont Nouveaux cas Confirmés",
+            "2",
+            "0",
+            "0",
+            "0",
+            "1",
+            "1",
+            "4"
+          ]
+        },
+        {
+          "cells": [
+            "Malades en isolement",
+            "Dont AC Confirmés",
+            "0",
+            "2",
+            "1",
+            "5",
+            "0",
+            "4",
+            "9"
+          ]
+        },
+        {
+          "cells": [
+            "Malades en isolement",
+            "Dont sévères/critiques",
+            "2",
+            "0",
+            "1",
+            "2",
+            "0",
+            "0",
+            "4"
+          ]
+        },
+        {
+          "cells": [
+            "Malades en isolement",
+            "Dont avec comorbidités",
+            "1",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "1"
+          ]
+        },
+        {
+          "cells": [
+            "Malades en isolement",
+            "Dont Femmes enceintes",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+          ]
+        },
+        {
+          "cells": [
+            "Malades en isolement",
+            "Dont Femmes allaitantes",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+          ]
+        },
+        {
+          "cells": [
+            "Malades en isolement",
+            "Dont Suspect Enfant < 5 ans",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+          ]
+        },
+        {
+          "cells": [
+            "Malades en isolement",
+            "5 à 14 ans",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+          ]
+        }
+      ]
+    }
+  ]
+}

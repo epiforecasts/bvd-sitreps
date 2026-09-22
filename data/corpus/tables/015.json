@@ -1,0 +1,770 @@
+{
+  "id": "015",
+  "sitrep": "015",
+  "report_date": "2026-05-29",
+  "pdf_md5": "8348e3ef45ef09e3872053abd91e41ee",
+  "tables": [
+    {
+      "n": 1,
+      "caption": "Tableau I. Les indicateurs clés de la surveillance épidémiologique dans les trois provinces en date du 29 mai 2026",
+      "columns": [
+        "Provinces",
+        "Zones de santé",
+        "Nouveaux cas suspects",
+        "Nbre de décès suspects*",
+        "Nouveaux cas confirmés",
+        "Cumul de cas Confirmés",
+        "Cumul de décès confirmés",
+        "Guéris",
+        "Nbre de contacts (<21 jours)",
+        "Contacts suivis",
+        "Taux de Suivis"
+      ],
+      "rows": [
+        {
+          "cells": [
+            "Ituri",
+            "Aru",
+            "-",
+            "-",
+            "0",
+            "2",
+            "1",
+            "-",
+            "107",
+            "0",
+            "0,00%"
+          ]
+        },
+        {
+          "cells": [
+            "Ituri",
+            "Bambu",
+            "8",
+            "1",
+            "0",
+            "2",
+            "2",
+            "-",
+            "323",
+            "101",
+            "31,27%"
+          ]
+        },
+        {
+          "cells": [
+            "Ituri",
+            "Bunia",
+            "19",
+            "9",
+            "21",
+            "80",
+            "8",
+            "-",
+            "476",
+            "0",
+            "0,00%"
+          ]
+        },
+        {
+          "cells": [
+            "Ituri",
+            "Kilo",
+            "-",
+            "-",
+            "0",
+            "2",
+            "-",
+            "-",
+            "41",
+            "0",
+            "0,00%"
+          ]
+        },
+        {
+          "cells": [
+            "Ituri",
+            "Mongbwalu",
+            "7",
+            "0",
+            "8",
+            "47",
+            "10",
+            "-",
+            "235",
+            "0",
+            "0,00%"
+          ]
+        },
+        {
+          "cells": [
+            "Ituri",
+            "Nizi",
+            "-",
+            "-",
+            "0",
+            "2",
+            "-",
+            "-",
+            "288",
+            "40",
+            "13,89%"
+          ]
+        },
+        {
+          "cells": [
+            "Ituri",
+            "Nyankunde",
+            "7",
+            "1",
+            "2",
+            "19",
+            "1",
+            "-",
+            "435",
+            "346",
+            "79,54%"
+          ]
+        },
+        {
+          "cells": [
+            "Ituri",
+            "Rwampara",
+            "13",
+            "2",
+            "12",
+            "65",
+            "13",
+            "-",
+            "766",
+            "0",
+            "0,00%"
+          ]
+        },
+        {
+          "cells": [
+            "Ituri",
+            "ZS non identifiée",
+            "-",
+            "-",
+            "0",
+            "6",
+            "-",
+            "-",
+            "-",
+            "-",
+            "-"
+          ]
+        },
+        {
+          "cells": [
+            "Ituri",
+            "Mangala",
+            "-",
+            "-",
+            "0",
+            "1",
+            "-",
+            "-",
+            "-",
+            "-",
+            "-"
+          ]
+        },
+        {
+          "cells": [
+            "Ituri",
+            "Damas",
+            "1",
+            "0",
+            "0",
+            "1",
+            "-",
+            "-",
+            "-",
+            "-",
+            "-"
+          ]
+        },
+        {
+          "cells": [
+            "Ituri",
+            "Aungba",
+            "-",
+            "-",
+            "0",
+            "1",
+            "-",
+            "-",
+            "-",
+            "-",
+            "-"
+          ]
+        },
+        {
+          "cells": [
+            "Ituri",
+            "Gety",
+            "3",
+            "0",
+            "-",
+            "1",
+            "-",
+            "-",
+            "-",
+            "-",
+            "-"
+          ]
+        },
+        {
+          "cells": [
+            "Ituri",
+            "Komanda",
+            "-",
+            "-",
+            "-",
+            "1",
+            "-",
+            "-",
+            "-",
+            "-",
+            "-"
+          ]
+        },
+        {
+          "cells": [
+            "Ituri",
+            "Jiba",
+            "2",
+            "0",
+            "-",
+            "-",
+            "-",
+            "-",
+            "-",
+            "-",
+            "-"
+          ]
+        },
+        {
+          "cells": [
+            "Ituri",
+            "Lita",
+            "-",
+            "-",
+            "1",
+            "1",
+            "-",
+            "-",
+            "-",
+            "-",
+            "-"
+          ]
+        },
+        {
+          "cells": [
+            "Ituri",
+            "Sans fiche",
+            "-",
+            "-",
+            "8",
+            "14",
+            "-",
+            "-",
+            "-",
+            "-",
+            "-"
+          ]
+        },
+        {
+          "cells": [
+            "Ituri",
+            "Sous total Ituri",
+            "60",
+            "13",
+            "52",
+            "245",
+            "35",
+            "0",
+            "2671",
+            "487",
+            "18,23%"
+          ]
+        },
+        {
+          "cells": [
+            "Nord-Kivu",
+            "Butembo",
+            "-",
+            "-",
+            "-",
+            "5",
+            "2",
+            "-",
+            "24",
+            "20",
+            "83,33%"
+          ]
+        },
+        {
+          "cells": [
+            "Nord-Kivu",
+            "Goma",
+            "-",
+            "-",
+            "-",
+            "1",
+            "-",
+            "2",
+            "66",
+            "66",
+            "100,00%"
+          ]
+        },
+        {
+          "cells": [
+            "Nord-Kivu",
+            "Katwa",
+            "-",
+            "-",
+            "-",
+            "4",
+            "3",
+            "-",
+            "112",
+            "110",
+            "98,21%"
+          ]
+        },
+        {
+          "cells": [
+            "Nord-Kivu",
+            "Karisimbi",
+            "-",
+            "-",
+            "-",
+            "0",
+            "-",
+            "-",
+            "249",
+            "232",
+            "93,17%"
+          ]
+        },
+        {
+          "cells": [
+            "Nord-Kivu",
+            "Kyondo",
+            "-",
+            "-",
+            "-",
+            "1",
+            "0",
+            "-",
+            "16",
+            "-",
+            "-"
+          ]
+        },
+        {
+          "cells": [
+            "Nord-Kivu",
+            "Oicha",
+            "-",
+            "-",
+            "-",
+            "1",
+            "-",
+            "-",
+            "32",
+            "32",
+            "100,00%"
+          ]
+        },
+        {
+          "cells": [
+            "Nord-Kivu",
+            "Kalunguta",
+            "-",
+            "-",
+            "-",
+            "1",
+            "1",
+            "-",
+            "20",
+            "20",
+            "100,00%"
+          ]
+        },
+        {
+          "cells": [
+            "Nord-Kivu",
+            "Manguripa",
+            "-",
+            "-",
+            "-",
+            "0",
+            "0",
+            "-",
+            "10",
+            "-",
+            "-"
+          ]
+        },
+        {
+          "cells": [
+            "Nord-Kivu",
+            "Beni",
+            "-",
+            "-",
+            "-",
+            "2",
+            "-",
+            "-",
+            "-",
+            "-",
+            "-"
+          ]
+        },
+        {
+          "cells": [
+            "Nord-Kivu",
+            "Sous total Nord-Kivi",
+            "0",
+            "0",
+            "0",
+            "15",
+            "6",
+            "2",
+            "529",
+            "480",
+            "90,74%"
+          ]
+        },
+        {
+          "cells": [
+            "Sud-Kivu",
+            "Miti Murhesa",
+            "-",
+            "-",
+            "2",
+            "3",
+            "1",
+            "-",
+            "ND",
+            "-",
+            "-"
+          ]
+        },
+        {
+          "cells": [
+            "Sud-Kivu",
+            "Sous total Sud-Kivu",
+            "0",
+            "0",
+            "2",
+            "3",
+            "1",
+            "0",
+            "0",
+            "0",
+            "-"
+          ]
+        },
+        {
+          "cells": [
+            "Total",
+            "Total",
+            "60",
+            "13",
+            "54",
+            "263",
+            "42",
+            "2",
+            "3200",
+            "967",
+            "30,22%"
+          ]
+        }
+      ]
+    },
+    {
+      "n": 2,
+      "caption": "Tableau III. Synthèse de données au PoE/PoC du 29/05/2026",
+      "columns": [
+        "Indicateurs aux PoE/PoC",
+        "TOTAL"
+      ],
+      "rows": [
+        {
+          "cells": [
+            "Voyageurs passés par le PoE/PoC",
+            "18 239"
+          ]
+        },
+        {
+          "cells": [
+            "Voyageurs screenés",
+            "18 010 (98,7%)"
+          ]
+        },
+        {
+          "cells": [
+            "Voyageurs ayant lavés les mains",
+            "16 936 (92,8%)"
+          ]
+        },
+        {
+          "cells": [
+            "Voyageurs sensibilisés sur la MVE",
+            "17 968 (98,5%)"
+          ]
+        },
+        {
+          "cells": [
+            "Contacts listés",
+            "0"
+          ]
+        },
+        {
+          "cells": [
+            "Alertes remontées",
+            "0"
+          ]
+        }
+      ]
+    },
+    {
+      "n": 3,
+      "caption": "Tableau IV. Point sur la situation de laboratoire en date du 29/05/2026",
+      "columns": [
+        "Indicateurs clés",
+        "29/05/2026",
+        "Total"
+      ],
+      "rows": [
+        {
+          "cells": [
+            "Échantillons reçus",
+            "70",
+            "758*"
+          ]
+        },
+        {
+          "cells": [
+            "Ré prélèvements (contrôle)",
+            "0",
+            "8 dont 6 est négatifs"
+          ]
+        },
+        {
+          "cells": [
+            "Nbre d’échantillons analysés",
+            "70",
+            "ND"
+          ]
+        },
+        {
+          "cells": [
+            "Nbre des cas positifs",
+            "54",
+            "220"
+          ]
+        },
+        {
+          "cells": [
+            "Taux de positivité",
+            "77,1%",
+            "NA"
+          ]
+        }
+      ]
+    },
+    {
+      "n": 4,
+      "caption": "Tableau V. Mouvement des malades dans les établissements de soins en date du 29/05/2026",
+      "columns": [
+        "ISSUES",
+        "HGR Bunia",
+        "HGR Rwampara",
+        "CME",
+        "HGR Mongbwalu",
+        "HGR Nyankunde",
+        "HGR Bambu",
+        "HGR Aru",
+        "Total"
+      ],
+      "rows": [
+        {
+          "cells": [
+            "Report (Nombre de malades présents au lit à la fin de journeée précédente)",
+            "18",
+            "9",
+            "8",
+            "12",
+            "38",
+            "12",
+            "2",
+            "99"
+          ]
+        },
+        {
+          "cells": [
+            "Nouvelles Admissions du jour PPL",
+            "0",
+            "1",
+            "1",
+            "0",
+            "0",
+            "0",
+            "0",
+            "2"
+          ]
+        },
+        {
+          "cells": [
+            "Nouvelles Admissions du jour Autres",
+            "2",
+            "4",
+            "1",
+            "4",
+            "0",
+            "4",
+            "0",
+            "15"
+          ]
+        },
+        {
+          "cells": [
+            "Sorties Guéris",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+          ]
+        },
+        {
+          "cells": [
+            "Sorties Décédés",
+            "2",
+            "1",
+            "1",
+            "2",
+            "0",
+            "0",
+            "0",
+            "6"
+          ]
+        },
+        {
+          "cells": [
+            "Sorties Non Cas",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+          ]
+        },
+        {
+          "cells": [
+            "Sorties Evadés",
+            "1",
+            "0",
+            "0",
+            "3",
+            "0",
+            "11",
+            "0",
+            "15"
+          ]
+        },
+        {
+          "cells": [
+            "Sorties Transférés à HGR",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+          ]
+        },
+        {
+          "cells": [
+            "Malades en isolement Total",
+            "17",
+            "13",
+            "9",
+            "11",
+            "38",
+            "5",
+            "2",
+            "95"
+          ]
+        },
+        {
+          "cells": [
+            "Malades en isolement NC confirmés",
+            "1",
+            "0",
+            "0",
+            "0",
+            "0",
+            "1",
+            "0",
+            "2"
+          ]
+        },
+        {
+          "cells": [
+            "Malades en isolement AC confirmés",
+            "0",
+            "1",
+            "0",
+            "0",
+            "9",
+            "0",
+            "1",
+            "11"
+          ]
+        },
+        {
+          "cells": [
+            "Malades en isolement Suspects",
+            "16",
+            "12",
+            "9",
+            "11",
+            "29",
+            "4",
+            "1",
+            "82"
+          ]
+        },
+        {
+          "cells": [
+            "Malades en isolement Suspect Enfant < 5 ans",
+            "2",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "2"
+          ]
+        }
+      ]
+    }
+  ]
+}

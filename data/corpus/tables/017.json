@@ -1,0 +1,677 @@
+{
+  "id": "017",
+  "sitrep": "017",
+  "report_date": "2026-05-31",
+  "pdf_md5": "bcda0a419e47fba81631b8ac1dad4ba8",
+  "tables": [
+    {
+      "n": 1,
+      "caption": "",
+      "columns": [
+        "Province",
+        "Cas confirmés",
+        "Décès (confirmés)",
+        "CFR",
+        "Zones de santé touchées",
+        "Nouveaux cas (24h)"
+      ],
+      "rows": [
+        {
+          "cells": [
+            "Ituri",
+            "299",
+            "46",
+            "15,4%",
+            "15 sur 36 (41,7%)",
+            "12"
+          ]
+        },
+        {
+          "cells": [
+            "Nord-Kivu",
+            "19",
+            "1",
+            "5,3%",
+            "7 sur 34 (20,6%)",
+            "0"
+          ]
+        },
+        {
+          "cells": [
+            "Sud-Kivu",
+            "3",
+            "1",
+            "33,3%",
+            "1 sur 34 (2,9%)",
+            "0"
+          ]
+        },
+        {
+          "cells": [
+            "Total",
+            "321",
+            "48",
+            "15,0%",
+            "23 sur 104 (22,1%)",
+            "12"
+          ]
+        }
+      ]
+    },
+    {
+      "n": 2,
+      "caption": "Indicateurs de surveillance (24h)",
+      "columns": [
+        "Indicateur",
+        "Valeur",
+        "Cible",
+        "Performance"
+      ],
+      "rows": [
+        {
+          "cells": [
+            "Alertes remontées",
+            "192",
+            "...",
+            "..."
+          ]
+        },
+        {
+          "cells": [
+            "Alertes investiguées",
+            "170 (88,5%)",
+            "≥ 95%",
+            "En dessous de la cible"
+          ]
+        },
+        {
+          "cells": [
+            "Alertes validées",
+            "117 (68,8%)",
+            "...",
+            "..."
+          ]
+        },
+        {
+          "cells": [
+            "Nouvelles zones de santé touchées",
+            "1 (Logo)",
+            "0",
+            "Expansion géographique"
+          ]
+        }
+      ]
+    },
+    {
+      "n": 3,
+      "caption": "Surveillance aux Points d'Entrée et Points de Contrôle (PoE/PoC)",
+      "columns": [
+        "Indicateur PoE/PoC",
+        "Valeur (24h)",
+        "Taux"
+      ],
+      "rows": [
+        {
+          "cells": [
+            "Voyageurs passés par les PoE/PoC",
+            "14 057",
+            "..."
+          ]
+        },
+        {
+          "cells": [
+            "Voyageurs screenés",
+            "13 901",
+            "98,8%"
+          ]
+        },
+        {
+          "cells": [
+            "Voyageurs ayant lavé les mains",
+            "13 901",
+            "98,8%"
+          ]
+        },
+        {
+          "cells": [
+            "Voyageurs sensibilisés",
+            "13 963",
+            "99,3%"
+          ]
+        },
+        {
+          "cells": [
+            "Contacts listés",
+            "0",
+            "..."
+          ]
+        },
+        {
+          "cells": [
+            "Alertes remontées",
+            "1",
+            "..."
+          ]
+        }
+      ]
+    },
+    {
+      "n": 4,
+      "caption": "Indicateurs laboratoire (24h du 31 mai 2026)",
+      "columns": [
+        "Indicateur",
+        "Valeur",
+        "Analyse"
+      ],
+      "rows": [
+        {
+          "cells": [
+            "Échantillons collectés",
+            "65",
+            "Activité soutenue"
+          ]
+        },
+        {
+          "cells": [
+            "Échantillons analysés",
+            "18",
+            "27,7% des collectés"
+          ]
+        },
+        {
+          "cells": [
+            "Échantillons positifs",
+            "12",
+            "Taux de positivité 66,6%"
+          ]
+        },
+        {
+          "cells": [
+            "Échantillons en cours d'analyse",
+            "47",
+            "Retard de capacité d'analyse"
+          ]
+        },
+        {
+          "cells": [
+            "Échantillons positifs provenant de cas suspects décédés",
+            "6",
+            "Transmission avant décès confirmé"
+          ]
+        }
+      ]
+    },
+    {
+      "n": 5,
+      "caption": "Actions par zone de santé",
+      "columns": [
+        "Zone de santé",
+        "Actions réalisées"
+      ],
+      "rows": [
+        {
+          "cells": [
+            "Bunia",
+            "Dotation et installation de dispositifs de gestion des déchets; décontamination de 1 ESS (Clinique Marie Claire); 5 EDS réalisés sur 6 alertes remontées; 1 décontamination; 1 prélèvement (SWAB)"
+          ]
+        },
+        {
+          "cells": [
+            "Rwampara",
+            "Ring autour de CME Nyankunde: 3 structures sanitaires, 9 écoles, 9 églises, 1 496 ménages identifiés; briefing injection sécurisée au CS Ngona; 3 EDS, 3 décontaminations, 3 SWAB"
+          ]
+        },
+        {
+          "cells": [
+            "Bambu",
+            "Installation de 6 dispositifs de lavage des mains à l'HGR"
+          ]
+        },
+        {
+          "cells": [
+            "Aru",
+            "Dotation de 4 dispositifs de lavage des mains à l'Église Anglicane"
+          ]
+        }
+      ]
+    },
+    {
+      "n": 6,
+      "caption": "Indicateurs de prise en charge",
+      "columns": [
+        "Indicateur",
+        "Valeur"
+      ],
+      "rows": [
+        {
+          "cells": [
+            "Patients en isolement",
+            "129 (tous CTE confondus)"
+          ]
+        },
+        {
+          "cells": [
+            "Cas confirmés en isolement",
+            "..."
+          ]
+        },
+        {
+          "cells": [
+            "Cas suspects en isolement",
+            "104"
+          ]
+        },
+        {
+          "cells": [
+            "Guéris du jour",
+            "4"
+          ]
+        },
+        {
+          "cells": [
+            "Létalité hospitalière",
+            "Donnée en cours"
+          ]
+        },
+        {
+          "cells": [
+            "Lits CTE disponibles vs occupés",
+            "Évaluation en cours"
+          ]
+        }
+      ]
+    },
+    {
+      "n": 7,
+      "caption": "Tableau I. Mouvement des malades dans les établissements de soins au 31 mai 2026",
+      "columns": [
+        "ISSUES",
+        "HGR Bunia",
+        "HGR Rwampara",
+        "CME",
+        "HGR Mongbwalu",
+        "HGR Nyankunde",
+        "HGR Bambu",
+        "HGR Aru",
+        "Total"
+      ],
+      "rows": [
+        {
+          "cells": [
+            "Report (Nombre de malades au lit à la fin de journée précédente)",
+            "21",
+            "15",
+            "15",
+            "12",
+            "39",
+            "10",
+            "5",
+            "117"
+          ]
+        },
+        {
+          "cells": [
+            "Nouvelles Admissions du jour PPL",
+            "0",
+            "1",
+            "3",
+            "1",
+            "0",
+            "0",
+            "0",
+            "5"
+          ]
+        },
+        {
+          "cells": [
+            "Nouvelles Admissions du jour Autres",
+            "3",
+            "5",
+            "3",
+            "5",
+            "2",
+            "2",
+            "1",
+            "21"
+          ]
+        },
+        {
+          "cells": [
+            "Sorties Guéris",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+          ]
+        },
+        {
+          "cells": [
+            "Sorties Décédés",
+            "1",
+            "2",
+            "4",
+            "3",
+            "1",
+            "1",
+            "0",
+            "11"
+          ]
+        },
+        {
+          "cells": [
+            "Sorties Non Cas",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+          ]
+        },
+        {
+          "cells": [
+            "Sorties Evadés",
+            "1",
+            "3",
+            "0",
+            "0",
+            "3",
+            "0",
+            "0",
+            "7"
+          ]
+        },
+        {
+          "cells": [
+            "Sorties Transférés à HGR",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+          ]
+        },
+        {
+          "cells": [
+            "Malades en isolement Total",
+            "23",
+            "17",
+            "17",
+            "15",
+            "38",
+            "13",
+            "6",
+            "129"
+          ]
+        },
+        {
+          "cells": [
+            "Malades en isolement NC confirmés",
+            "3",
+            "0",
+            "2",
+            "1",
+            "0",
+            "0",
+            "0",
+            "6"
+          ]
+        },
+        {
+          "cells": [
+            "Malades en isolement AC confirmés",
+            "1",
+            "1",
+            "1",
+            "0",
+            "11",
+            "1",
+            "1",
+            "16"
+          ]
+        },
+        {
+          "cells": [
+            "Malades en isolement Suspects",
+            "19",
+            "15",
+            "14",
+            "14",
+            "27",
+            "10",
+            "5",
+            "104"
+          ]
+        },
+        {
+          "cells": [
+            "Malades en isolement Suspect Enfant < 5 ans",
+            "0",
+            "1",
+            "0",
+            "0",
+            "0",
+            "2",
+            "0",
+            "3"
+          ]
+        }
+      ]
+    },
+    {
+      "n": 8,
+      "caption": "",
+      "columns": [
+        "Zone de santé",
+        "Activité",
+        "Portée"
+      ],
+      "rows": [
+        {
+          "cells": [
+            "Bunia",
+            "Sensibilisation au lavage des mains par les DG INSP et OMS; émission interactive à la RTNC",
+            "Large audience"
+          ]
+        },
+        {
+          "cells": [
+            "Rwampara",
+            "Sensibilisation de 190 leaders communautaires (17 femmes) sur les mesures préventives",
+            "190 personnes"
+          ]
+        },
+        {
+          "cells": [
+            "Bambu",
+            "Sensibilisation à l'École Primaire Kilomoto",
+            "305 élèves (102 filles)"
+          ]
+        },
+        {
+          "cells": [
+            "Aru",
+            "Briefing de 27 personnes sur la CREC et la surveillance à base communautaire",
+            "27 personnes"
+          ]
+        },
+        {
+          "cells": [
+            "Nyankunde",
+            "Causerie éducative à l'église Brahanam (72 fidèles); sensibilisation dans l'Aire de Santé Sota (391 personnes, 233 femmes)",
+            "463 personnes"
+          ]
+        }
+      ]
+    },
+    {
+      "n": 9,
+      "caption": "",
+      "columns": [
+        "N°",
+        "Défi",
+        "Impact",
+        "Action requise"
+      ],
+      "rows": [
+        {
+          "cells": [
+            "1",
+            "Réticence aux prélèvements post-mortem (swabs)",
+            "Retard de confirmation; sous-estimation des cas",
+            "Engagement communautaire intensif; implication des leaders religieux"
+          ]
+        },
+        {
+          "cells": [
+            "2",
+            "Capacité insuffisante en CTE normés malgré l'ouverture de Rwampara",
+            "Saturation potentielle des CTE existants",
+            "Accélération de la construction des CTE planifiés"
+          ]
+        },
+        {
+          "cells": [
+            "3",
+            "Faiblesse du suivi des contacts (taux global 43%, cible 95%)",
+            "Interruption des chaînes de transmission compromise",
+            "Formation, déploiement et motivation des relais communautaires"
+          ]
+        },
+        {
+          "cells": [
+            "4",
+            "Défaut d'approvisionnement en Médicaments Essentiels Génériques (MEG) dans les HGR ciblés",
+            "Fragilisation de la prise en charge globale",
+            "Plaidoyer pour la dotation en MEG"
+          ]
+        },
+        {
+          "cells": [
+            "5",
+            "Manque de matériels PCI (EPI, DLM, chlore) au Nord-Kivu",
+            "Risque nosocomial",
+            "Approvisionnement urgent"
+          ]
+        },
+        {
+          "cells": [
+            "6",
+            "Faible remontée des alertes dans les 3 provinces",
+            "Retard de détection des cas",
+            "Renforcement de la surveillance communautaire"
+          ]
+        },
+        {
+          "cells": [
+            "7",
+            "Propagation de rumeurs et recettes traditionnelles",
+            "Défiance envers la riposte; retards de consultation",
+            "Plan de réponse aux rumeurs; mobilisation sociale"
+          ]
+        },
+        {
+          "cells": [
+            "8",
+            "Insuffisance des ressources financières pour tous les piliers",
+            "Ralentissement des opérations",
+            "Mobilisation des ressources (gap de 21,5 millions USD)"
+          ]
+        }
+      ]
+    },
+    {
+      "n": 10,
+      "caption": "",
+      "columns": [
+        "Priorité",
+        "Action",
+        "Pilier responsable",
+        "Échéance"
+      ],
+      "rows": [
+        {
+          "cells": [
+            "1",
+            "Formation des prestataires sur l'utilisation de la PCR RADIONE",
+            "Laboratoire",
+            "J+2"
+          ]
+        },
+        {
+          "cells": [
+            "2",
+            "Briefing des prestataires sur la surveillance MVE et la SBC dans les zones touchées et à haut risque",
+            "Surveillance/CREC",
+            "J+3"
+          ]
+        },
+        {
+          "cells": [
+            "3",
+            "Briefing des agents communautaires sur la surveillance MVE et la SBC (province Ituri)",
+            "Surveillance/CREC",
+            "J+3"
+          ]
+        },
+        {
+          "cells": [
+            "4",
+            "Remise officielle du CTE normé CME Rwampara à l'Incident Manager MVE",
+            "Coordination",
+            "J+1"
+          ]
+        },
+        {
+          "cells": [
+            "5",
+            "Accompagnement supervisé du Directeur Général de l'INSP dans les piliers techniques",
+            "Coordination",
+            "Continu"
+          ]
+        },
+        {
+          "cells": [
+            "6",
+            "Rattrapage du suivi des contacts en Ituri (taux actuel 35%)",
+            "Surveillance",
+            "J+7"
+          ]
+        },
+        {
+          "cells": [
+            "7",
+            "Renforcement PCI et formation du personnel à Nyankunde et autres zones nosocomiales",
+            "PCI",
+            "J+2"
+          ]
+        },
+        {
+          "cells": [
+            "8",
+            "Déploiement d'un tableau de bord quotidien standardisé avec KPI par pilier",
+            "Coordination",
+            "J+3"
+          ]
+        },
+        {
+          "cells": [
+            "9",
+            "Plan de rattrapage des 47 échantillons en attente d'analyse",
+            "Laboratoire",
+            "J+2"
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+Province,Zone de santé,Nouveaux cas confirmés,Dont décès parmi les nouveaux confirmes,Létalité,Décès communautaires,Décès intra-CTE/CT,Total décès du jour
+Ituri,Bunia,12,4,"33,3%",4,ND,ND
+Ituri,Nizi,9,1,"11,1%",1,ND,ND
+Ituri,Fataki,9,5,"55,6%",5,ND,ND
+Ituri,Rwampara,6,2,"33,3%",2,ND,ND
+Ituri,Lita,6,6,"100,0%",6,ND,ND
+Ituri,Mangala,6,5,"83,3%",5,ND,ND
+Ituri,Nia-Nia,4,1,"25,0%",1,ND,ND
+Ituri,Tchomia,2,0,"0,0%",0,ND,ND
+Ituri,Aru,1,0,"0,0%",0,ND,ND
+Ituri,Mongbwalu,1,0,"0,0%",0,ND,ND
+Ituri,Nyankunde,1,0,"0,0%",0,ND,ND
+Ituri,Bambu-mine,0,0,"0,0%",0,ND,ND
+Ituri,Mandima,0,0,"0,0%",0,ND,ND
+Ituri,Mambasa,0,0,"0,0%",0,ND,ND
+Ituri,Komanda,0,0,"0,0%",0,ND,ND
+Ituri,Logo,0,0,"0,0%",0,ND,ND
+Ituri,Lolwa,0,0,"0,0%",0,ND,ND
+Ituri,Drodro,0,0,"0,0%",0,ND,ND
+Ituri,Sous-total Ituri,57,24,"42,1%",24,12,36
+Nord-Kivu,Beni,6,4,"66,7%",4,1,5
+Nord-Kivu,Katwa,5,1,"20,0%",1,0,1
+Nord-Kivu,Butembo,2,2,"100,0%",2,1,3
+Nord-Kivu,Kalunguta,1,0,"0,0%",0,0,0
+Nord-Kivu,Masereka,1,0,"0,0%",0,0,0
+Nord-Kivu,Musienene,0,0,"0,0%",0,3,3
+Nord-Kivu,Sous-total Nord-Kivu,15,7,"46,7%",7,5,12
+Haut-Uélé,Wamba,14,2,"14,3%",2,0,2
+Haut-Uélé,Isiro,1,1,"100,0%",1,0,1
+Haut-Uélé,Pawa,0,0,"0,0%",0,0,0
+Haut-Uélé,Boma Mangbetu,0,0,"0,0%",0,0,0
+Haut-Uélé,Rungu,0,0,"0,0%",0,0,0
+Haut-Uélé,Gombari,0,0,"0,0%",0,0,0
+Haut-Uélé,Sous-total Haut-Uélé,15,3,"20,0%",3,0,3
+TOTAL NATIONAL,TOTAL NATIONAL,87,34,"39,1%*",34,17,51

@@ -1,0 +1,55 @@
+Province,Zone de santé,Nombre cumulatif Cas (n),Nombre cumulatif Décès (n),Nombre cumulatif Létalité,Situation du jour (24 h) Nouv. cas,Situation du jour (24 h) Décès communautaires (Swab+).,Situation du jour (24 h) Décès confirmés intra-CTE,Situation du jour (24 h) Total décès confirmés
+Ituri,Ituri,2 988,1 238,"41,40%",87,16,15,31
+Ituri,Adja,11,1,"9,10%",0,0,0,0
+Ituri,Aru,5,5,"100,00%",0,0,0,0
+Ituri,Ariwara,7,1,"14,30%",0,0,0,0
+Ituri,Aungba,5,4,"80,00%",0,0,0,0
+Ituri,Bambu,57,12,"21,10%",0,0,1,1
+Ituri,Boga,1,1,"100,00%",0,0,0,0
+Ituri,Bunia,801,232,"29,00%",28,5,7,12
+Ituri,Damas,16,8,"50,00%",0,0,0,0
+Ituri,Drodro,10,5,"50,00%",0,0,0,0
+Ituri,Fataki,17,6,"35,30%",0,0,0,0
+Ituri,Gethy,1,0,"0,00%",0,0,0,0
+Ituri,Kambala,2,0,"0,00%",0,0,0,0
+Ituri,Kilo,28,11,"39,30%",5,0,0,0
+Ituri,Komanda,36,25,"69,40%",1,1,0,1
+Ituri,Lita,121,67,"55,40%",4,1,0,1
+Ituri,Logo,9,3,"33,30%",0,0,0,0
+Ituri,Lolwa,4,1,"25,00%",0,0,0,0
+Ituri,Mahagi,4,1,"25,00%",1,0,0,0
+Ituri,Mambasa,9,4,"44,40%",0,0,0,0
+Ituri,Mandima,16,12,"75,00%",3,3,0,3
+Ituri,Mangala,100,64,"64,00%",0,0,0,0
+Ituri,Mongbwalu,528,252,"47,70%",22,5,3,8
+Ituri,Nia-Nia,92,48,"52,20%",2,1,0,1
+Ituri,Nizi,360,172,"47,80%",3,0,1,1
+Ituri,Nyankunde,114,31,"27,20%",0,0,0,0
+Ituri,Rimba,8,4,"50,00%",0,0,0,0
+Ituri,Rwampara,585,244,"41,70%",17,0,3,3
+Ituri,Tchomia,41,24,"58,50%",1,0,0,0
+Nord-Kivu*,Nord-Kivu*,325,223*,"68,60%",11,5,14,19
+Nord-Kivu*,Beni,46,37,"80,40%",2,1,2,3
+Nord-Kivu*,Butembo,75,61,"81,30%",2,1,11,12
+Nord-Kivu*,Goma,1,0,"0,00%",0,0,0,0
+Nord-Kivu*,Kalunguta,5,3,"60,00%",0,0,0,0
+Nord-Kivu*,Katwa,145,91,"62,80%",5,3,0,3
+Nord-Kivu*,Kyondo,12,7,"58,30%",0,0,0,0
+Nord-Kivu*,Mabalako,1,0,"0,00%",0,0,0,0
+Nord-Kivu*,Masereka,4,0,"0,00%",0,0,0,0
+Nord-Kivu*,Musienene,31,20,"64,50%",2,0,1,1
+Nord-Kivu*,Oicha,4,3,"75,00%",0,0,0,0
+Nord-Kivu*,Vuhovi,1,1,"100,00%",0,0,0,0
+Sud-Kivu,Sud-Kivu,3,1,"33,30%",—,—,"",""
+Sud-Kivu,Miti-Murhesa,3,1,"33,30%",0,0,0,0
+Haut-Uélé,Haut-Uélé,39,21,"53,80%",—,—,"",""
+Haut-Uélé,Boma Mangbetu,7,4,"57,10%",0,0,0,0
+Haut-Uélé,Isiro,12,7,"58,30%",0,0,0,0
+Haut-Uélé,Pawa,8,6,"75,00%",0,0,0,0
+Haut-Uélé,Rungu,1,0,"0,00%",0,0,0,0
+Haut-Uélé,Wamba,11,4,"36,40%",0,0,0,0
+Tshopo,Tshopo,5,4,"80,00%",—,—,"",""
+Tshopo,Lubunga,1,0,"0,00%",0,0,0,0
+Tshopo,Makiso-Kisangani,3,3,"100,00%",0,0,0,0
+Tshopo,Mangobo,1,1,"100,00%",0,0,0,0
+Total,Total,3 360,1 487,"44,30%",98,21,29,50

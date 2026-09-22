@@ -1,0 +1,32 @@
+Provinces,Zones de santé,Nouveaux cas suspects,Nbre de décès suspects*,Nouveaux cas confirmés,Cumul de cas Confirmés,Cumul de décès confirmés,Guéris,Nbre de contacts (<21 jours),Contacts suivis,Taux de Suivis
+Ituri,Aru,-,-,0,2,1,-,107,0,"0,00%"
+Ituri,Bambu,8,1,0,2,2,-,323,101,"31,27%"
+Ituri,Bunia,19,9,21,80,8,-,476,0,"0,00%"
+Ituri,Kilo,-,-,0,2,-,-,41,0,"0,00%"
+Ituri,Mongbwalu,7,0,8,47,10,-,235,0,"0,00%"
+Ituri,Nizi,-,-,0,2,-,-,288,40,"13,89%"
+Ituri,Nyankunde,7,1,2,19,1,-,435,346,"79,54%"
+Ituri,Rwampara,13,2,12,65,13,-,766,0,"0,00%"
+Ituri,ZS non identifiée,-,-,0,6,-,-,-,-,-
+Ituri,Mangala,-,-,0,1,-,-,-,-,-
+Ituri,Damas,1,0,0,1,-,-,-,-,-
+Ituri,Aungba,-,-,0,1,-,-,-,-,-
+Ituri,Gety,3,0,-,1,-,-,-,-,-
+Ituri,Komanda,-,-,-,1,-,-,-,-,-
+Ituri,Jiba,2,0,-,-,-,-,-,-,-
+Ituri,Lita,-,-,1,1,-,-,-,-,-
+Ituri,Sans fiche,-,-,8,14,-,-,-,-,-
+Ituri,Sous total Ituri,60,13,52,245,35,0,2671,487,"18,23%"
+Nord-Kivu,Butembo,-,-,-,5,2,-,24,20,"83,33%"
+Nord-Kivu,Goma,-,-,-,1,-,2,66,66,"100,00%"
+Nord-Kivu,Katwa,-,-,-,4,3,-,112,110,"98,21%"
+Nord-Kivu,Karisimbi,-,-,-,0,-,-,249,232,"93,17%"
+Nord-Kivu,Kyondo,-,-,-,1,0,-,16,-,-
+Nord-Kivu,Oicha,-,-,-,1,-,-,32,32,"100,00%"
+Nord-Kivu,Kalunguta,-,-,-,1,1,-,20,20,"100,00%"
+Nord-Kivu,Manguripa,-,-,-,0,0,-,10,-,-
+Nord-Kivu,Beni,-,-,-,2,-,-,-,-,-
+Nord-Kivu,Sous total Nord-Kivi,0,0,0,15,6,2,529,480,"90,74%"
+Sud-Kivu,Miti Murhesa,-,-,2,3,1,-,ND,-,-
+Sud-Kivu,Sous total Sud-Kivu,0,0,2,3,1,0,0,0,-
+Total,Total,60,13,54,263,42,2,3200,967,"30,22%"

@@ -1,0 +1,112 @@
+{
+  "id": "002",
+  "sitrep": "002",
+  "report_date": "2026-05-17",
+  "pdf_md5": "410e4864d64bc9e2479aada367fc07f1",
+  "tables": [
+    {
+      "n": 1,
+      "caption": "",
+      "columns": [
+        "Alertes",
+        "Alertes investiguées",
+        "Cas Confirmés",
+        "Cas Suspects",
+        "Décès confirmés",
+        "Taux d’occupation des lits chez les confirmés",
+        "Taux d’occupation des lits chez les suspects",
+        "Guéris"
+      ],
+      "rows": [
+        {
+          "cells": [
+            "340",
+            "336",
+            "13",
+            "246",
+            "ND",
+            "ND",
+            "ND",
+            "0"
+          ]
+        }
+      ]
+    },
+    {
+      "n": 2,
+      "caption": "Tableau 1. Répartition des alertes reçues, validées et investiguées par Zone de santé",
+      "columns": [
+        "Indicateurs",
+        "ZS Mongbwalu",
+        "ZS Rwampara",
+        "ZS Bunia",
+        "Total"
+      ],
+      "rows": [
+        {
+          "cells": [
+            "Alertes reçues",
+            "256",
+            "72",
+            "12",
+            "340"
+          ]
+        },
+        {
+          "cells": [
+            "Cas investigués",
+            "256",
+            "72",
+            "8",
+            "336"
+          ]
+        },
+        {
+          "cells": [
+            "Cas suspects prélevés",
+            "7",
+            "25",
+            "0",
+            "32"
+          ]
+        },
+        {
+          "cells": [
+            "Cas Confirmés",
+            "0",
+            "13",
+            "0",
+            "13"
+          ]
+        },
+        {
+          "cells": [
+            "Cas Probables",
+            "57",
+            "27",
+            "3",
+            "87"
+          ]
+        },
+        {
+          "cells": [
+            "Cas Suspects en isolement",
+            "3",
+            "5",
+            "4",
+            "12"
+          ]
+        },
+        {
+          "cells": [
+            "Cas suspects en cours de prélèvement",
+            "0",
+            "5",
+            "6",
+            "11"
+          ]
+        }
+      ]
+    }
+  ]
+}

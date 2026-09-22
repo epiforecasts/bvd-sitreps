@@ -1,0 +1,536 @@
+{
+  "id": "013",
+  "sitrep": "013",
+  "report_date": "2026-05-27",
+  "pdf_md5": "91492c9d4c3db1fa0fc07073fd180716",
+  "tables": [
+    {
+      "n": 1,
+      "caption": "Tableau II. Répartition des cas, décès suspects et confirmés de maladie à virus Ebola dans les zones de santé de la DPS Ituri, Nord-Kivu et Sud Kivu au 27 mai 2026",
+      "columns": [
+        "Provinces",
+        "Zones de santé",
+        "Nbre de cas suspects*",
+        "Nbre de décès suspects*",
+        "Nbre de cas Confirmés*",
+        "Nbre de contacts*"
+      ],
+      "rows": [
+        {
+          "cells": [
+            "Ituri",
+            "Aru",
+            "4",
+            "1",
+            "1",
+            "0"
+          ]
+        },
+        {
+          "cells": [
+            "Ituri",
+            "Bambu",
+            "6",
+            "2",
+            "0",
+            "244"
+          ]
+        },
+        {
+          "cells": [
+            "Ituri",
+            "Bunia",
+            "249",
+            "48",
+            "37",
+            "404"
+          ]
+        },
+        {
+          "cells": [
+            "Ituri",
+            "Kilo",
+            "8",
+            "2",
+            "1",
+            "41"
+          ]
+        },
+        {
+          "cells": [
+            "Ituri",
+            "Mongbwalu",
+            "339",
+            "88",
+            "20",
+            "222"
+          ]
+        },
+        {
+          "cells": [
+            "Ituri",
+            "Nizi",
+            "6",
+            "2",
+            "2",
+            "220"
+          ]
+        },
+        {
+          "cells": [
+            "Ituri",
+            "Nyankunde",
+            "45",
+            "11",
+            "10",
+            "397"
+          ]
+        },
+        {
+          "cells": [
+            "Ituri",
+            "Rwampara",
+            "228",
+            "69",
+            "33",
+            "697"
+          ]
+        },
+        {
+          "cells": [
+            "Ituri",
+            "Echantillons sans fiche",
+            "0",
+            "0",
+            "6",
+            "0"
+          ]
+        },
+        {
+          "cells": [
+            "Ituri",
+            "Sous total",
+            "885",
+            "223",
+            "110",
+            "2225"
+          ]
+        },
+        {
+          "cells": [
+            "Nord-Kivu",
+            "Butembo",
+            "7",
+            "0",
+            "5",
+            "28"
+          ]
+        },
+        {
+          "cells": [
+            "Nord-Kivu",
+            "Goma",
+            "0",
+            "0",
+            "1",
+            "74"
+          ]
+        },
+        {
+          "cells": [
+            "Nord-Kivu",
+            "Kalunguta",
+            "13",
+            "0",
+            "2",
+            "ND"
+          ]
+        },
+        {
+          "cells": [
+            "Nord-Kivu",
+            "Karisimbi",
+            "",
+            "",
+            "",
+            "181"
+          ]
+        },
+        {
+          "cells": [
+            "Nord-Kivu",
+            "Katwa",
+            "0",
+            "0",
+            "4",
+            "111"
+          ]
+        },
+        {
+          "cells": [
+            "Nord-Kivu",
+            "Kyondo",
+            "0",
+            "0",
+            "0",
+            "16"
+          ]
+        },
+        {
+          "cells": [
+            "Nord-Kivu",
+            "Oicha",
+            "0",
+            "0",
+            "2",
+            "ND"
+          ]
+        },
+        {
+          "cells": [
+            "Nord-Kivu",
+            "Sous total",
+            "20",
+            "0",
+            "14",
+            "410"
+          ]
+        },
+        {
+          "cells": [
+            "Sud-Kivu",
+            "Miti Murhesa",
+            "1",
+            "0",
+            "1",
+            "ND"
+          ]
+        },
+        {
+          "cells": [
+            "Sud-Kivu",
+            "Sous total",
+            "1",
+            "0",
+            "1",
+            "0"
+          ]
+        },
+        {
+          "cells": [
+            "Total",
+            "Total",
+            "906",
+            "223",
+            "125",
+            "2635**"
+          ]
+        }
+      ]
+    },
+    {
+      "n": 2,
+      "caption": "Tableau III. Synthèse de données au PoE/PoC du 27/05/2026",
+      "columns": [
+        "Indicateurs aux PoE/PoC",
+        "TOTAL"
+      ],
+      "rows": [
+        {
+          "cells": [
+            "Voyageurs passés par le PoE/PoC",
+            "14 662"
+          ]
+        },
+        {
+          "cells": [
+            "Voyageurs screenés",
+            "14 530"
+          ]
+        },
+        {
+          "cells": [
+            "Voyageurs ayant lavés les mains",
+            "14 314"
+          ]
+        },
+        {
+          "cells": [
+            "Voyageurs sensibilisés sur la MVE",
+            "14 530"
+          ]
+        },
+        {
+          "cells": [
+            "Contacts listés",
+            "0"
+          ]
+        },
+        {
+          "cells": [
+            "Alertes remontées",
+            "0"
+          ]
+        }
+      ]
+    },
+    {
+      "n": 3,
+      "caption": "Tableau IV. Point sur la situation de laboratoire en date du 27/05/2026",
+      "columns": [
+        "Indicateurs clés",
+        "27/05/2026",
+        "Total"
+      ],
+      "rows": [
+        {
+          "cells": [
+            "Échantillons reçus",
+            "73*",
+            "774"
+          ]
+        },
+        {
+          "cells": [
+            "Ré prélèvements (contrôle)",
+            "8 (4 négatifs)",
+            "8"
+          ]
+        },
+        {
+          "cells": [
+            "Nbre d’échantillons analysés",
+            "3",
+            "648"
+          ]
+        },
+        {
+          "cells": [
+            "Taux de positivité",
+            "0",
+            "19,2%"
+          ]
+        },
+        {
+          "cells": [
+            "Nbre des cas positifs",
+            "0",
+            "125"
+          ]
+        }
+      ]
+    },
+    {
+      "n": 4,
+      "caption": "Tableau V. Mouvement des malades dans les établissements de soins en date du 27/05/2026",
+      "columns": [
+        "Indicateurs et Variables",
+        "HGR BUNIA (12 Lits: 08 S et 03 C )",
+        "HGR RWAMPARA (18 Lits: 08 C et 10 S)",
+        "CME (27 Lits : 08 Conf et 19 S )",
+        "HGR MUNGBWALU (40 Lits: 12 C et 28 S )",
+        "HGR NYAKUNDE",
+        "CT BAMBU",
+        "CT HEAL AFRICA (Nord-kivu) 19 lits",
+        "TOTAL et Tx d'occup"
+      ],
+      "rows": [
+        {
+          "cells": [
+            "Report",
+            "14",
+            "8",
+            "22",
+            "10",
+            "39",
+            "6",
+            "2",
+            "101"
+          ]
+        },
+        {
+          "cells": [
+            "Nouvelles PPL",
+            "0",
+            "0",
+            "0",
+            "1",
+            "0",
+            "0",
+            "0",
+            "1"
+          ]
+        },
+        {
+          "cells": [
+            "Admissions Autres",
+            "2",
+            "2",
+            "5",
+            "1",
+            "0",
+            "3",
+            "0",
+            "13"
+          ]
+        },
+        {
+          "cells": [
+            "Sorties Guéris",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+          ]
+        },
+        {
+          "cells": [
+            "Sorties Décédés",
+            "1",
+            "1",
+            "1",
+            "2",
+            "1",
+            "0",
+            "0",
+            "6"
+          ]
+        },
+        {
+          "cells": [
+            "Sorties Non Cas",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+          ]
+        },
+        {
+          "cells": [
+            "Sorties Evadés",
+            "3",
+            "0",
+            "0",
+            "1",
+            "0",
+            "0",
+            "0",
+            "4"
+          ]
+        },
+        {
+          "cells": [
+            "Sorties Transférés",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+          ]
+        },
+        {
+          "cells": [
+            "Malades Hospitalisés Total",
+            "12",
+            "9",
+            "26",
+            "9",
+            "38",
+            "9",
+            "0",
+            "103"
+          ]
+        },
+        {
+          "cells": [
+            "Malades Hospitalisés Nvx Cas Confirmés",
+            "0",
+            "1",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "1"
+          ]
+        },
+        {
+          "cells": [
+            "Malades Hospitalisés Anciens Cas Confirmés",
+            "1",
+            "0",
+            "0",
+            "0",
+            "9",
+            "1",
+            "1",
+            "12"
+          ]
+        },
+        {
+          "cells": [
+            "Malades Hospitalisés Suspects",
+            "11",
+            "8",
+            "26",
+            "9",
+            "29",
+            "8",
+            "1",
+            "92"
+          ]
+        },
+        {
+          "cells": [
+            "Malades Hospitalisés Suspect < 5 ans",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+          ]
+        },
+        {
+          "cells": [
+            "Taux d’occupation de lit Suspects",
+            "11/12(91,6%)",
+            "8/10(80%)",
+            "26/27(96%)",
+            "9/28(32%)",
+            "ND",
+            "ND",
+            "ND",
+            "70,1%"
+          ]
+        },
+        {
+          "cells": [
+            "Taux d’occupation de lit Confirmés",
+            "1/3 (33,3%)",
+            "1/8 (12%)",
+            "",
+            "0/12 (0%)",
+            "ND",
+            "ND",
+            "ND",
+            "8,7%"
+          ]
+        }
+      ]
+    }
+  ]
+}

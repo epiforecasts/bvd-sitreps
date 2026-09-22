@@ -1,0 +1,353 @@
+#!/usr/bin/env Rscript
+#'
+#' Translate the French corpus into English pages for the public site.
+#'
+#' Text in, text out. No PDF is opened here: the input is the French
+#' markdown and table JSON that 02-build-corpus.R wrote, so a translation
+#' error can never reach the corpus of record, and the English is always a
+#' view of something checkable.
+#'
+#' Tables are translated too - captions, headers and label cells - because a
+#' reader who needs the English page cannot read `Patients au lit (J-1)`.
+#' Translating a table is where a model is most tempted to tidy a number, so
+#' each translated table is held to two checks before it is written: the same
+#' shape as the French, and the same numbers in every row.
+#'
+#' Usage:
+#'     Rscript R/04-translate.R [--only=007,040] [--force]
+
+suppressMessages({
+    library(data.table)
+})
+source(here::here("R", "lib", "paths.R"))
+source(here::here("R", "lib", "gemini.R"))
+
+args <- commandArgs(trailingOnly = TRUE)
+only <- grep("^--only=", args, value = TRUE)
+ONLY <- if (length(only)) trimws(strsplit(sub("^--only=", "", only[1]), ",")[[1]]) else NULL
+FORCE <- "--force" %in% args
+
+REPO_URL <- "https://github.com/epiforecasts/bvd-sitreps/blob/main"
+
+#' Low thinking for translation. On the plan route, flash at high thinking
+#' spent 80,000-120,000 thinking tokens on SitRep 005 and returned nothing
+#' twice; at low it returned the whole report in 12 seconds with every number
+#' in the body and tables intact. Translation rewrites text it is handed and
+#' gains nothing from long reasoning.
+TRANSLATE_THINKING <- "low"
+
+PROMPT <- paste(readLines(here::here("assets", "prompt-translate.md"),
+    warn = FALSE), collapse = "\n")
+
+ROW <- list(type = "OBJECT",
+    properties = list(cells = list(type = "ARRAY", items = list(type = "STRING"))),
+    required = list("cells"))
+
+SCHEMA <- list(
+    type = "OBJECT",
+    properties = list(
+        body_markdown = list(type = "STRING"),
+        tables = list(type = "ARRAY", items = list(
+            type = "OBJECT",
+            properties = list(
+                n = list(type = "INTEGER"),
+                caption = list(type = "STRING"),
+                columns = list(type = "ARRAY", items = list(type = "STRING")),
+                rows = list(type = "ARRAY", items = ROW)
+            ),
+            required = list("n", "caption", "columns", "rows"),
+            propertyOrdering = list("n", "caption", "columns", "rows")
+        ))
+    ),
+    required = list("body_markdown", "tables"),
+    propertyOrdering = list("body_markdown", "tables")
+)
+
+TABLE_INSTRUCTION <- paste(
+    "The JSON after the markdown holds this report's tables.",
+    "Translate each table's caption, column headers and any text cells into English,",
+    "following the same rules. Return every table with the same n, the same number",
+    "of columns, the same number of rows in the same order, and every number, date,",
+    "code, place name and `ND` unchanged in its cell."
+)
+
+`%||%` <- function(a, b) if (is.null(a)) b else a
+
+#' Numbers in a row, with the decimal separator normalised.
+#'
+#' `91,3` and `91.3` are the same value. The prompt asks for the French
+#' separator to be kept, but a translation that changed it would still have
+#' every figure right, so it should not fail the report.
+#' Join a thousands group onto the number it belongs to.
+#'
+#' French writes `1 048`, English writes `1,048` or `1.048`, and both are the
+#' same figure. Left alone, the separator alone failed five reports whose
+#' translation was otherwise exact. Only a separator followed by exactly three
+#' digits is joined, so `25,5%` and `68.6` keep their decimal. Applied twice
+#' so `1 234 567` collapses in full, since the first pass consumes the digit
+#' the second group would have matched on.
+join_thousands <- function(x) {
+    p <- "(\\d)[    .,](\\d{3})(?![0-9])"
+    gsub(p, "\\1\\2", gsub(p, "\\1\\2", x, perl = TRUE), perl = TRUE)
+}
+
+digits_of <- function(x) {
+    # Both arguments are the normalised string: matching one string and
+    # extracting from another takes the offsets from the first and the
+    # characters from the second, which returns fragments of words.
+    joined <- join_thousands(x)
+    out <- regmatches(joined, gregexpr("[0-9]+(?:[.,][0-9]+)?", joined))[[1]]
+    sort(gsub(",", ".", out))
+}
+
+#' Numbers in a row, cell by cell.
+#'
+#' Cells are never pasted together before the numbers are read: `18` beside
+#' `215` would join into `18215` under `join_thousands`, which is the same
+#' cell-merging error the corpus QA had to unlearn.
+digits_of_cells <- function(cells) {
+    sort(unlist(lapply(as.character(unlist(cells)), digits_of)))
+}
+
+#' Hold a translated table to the French one it came from.
+#'
+#' Shape first, then the numbers row by row. A translated table that has
+#' gained or lost a row, or changed a figure, is an error: the English page
+#' is public and a reader has no way to notice.
+check_translation <- function(fr, en, id) {
+    if (length(fr) != length(en)) {
+        stop(id, ": French has ", length(fr), " tables, English has ",
+            length(en), ".", call. = FALSE)
+    }
+    for (i in seq_along(fr)) {
+        a <- fr[[i]]; b <- en[[i]]
+        if (length(a$columns) != length(b$columns) ||
+            length(a$rows) != length(b$rows)) {
+            stop(id, " table ", a$n, ": translation changed the table's shape.",
+                call. = FALSE)
+        }
+        for (j in seq_along(a$rows)) {
+            fa <- digits_of_cells(a$rows[[j]]$cells)
+            fb <- digits_of_cells(b$rows[[j]]$cells)
+            if (!identical(fa, fb)) {
+                stop(id, " table ", a$n, " row ", j,
+                    ": numbers differ after translation (",
+                    paste(fa, collapse = " "), " vs ", paste(fb, collapse = " "),
+                    ").", call. = FALSE)
+            }
+        }
+    }
+    invisible(TRUE)
+}
+
+#' Number differences reviewed against the source and accepted.
+#'
+#' A handful of French constructions are not numbers about the outbreak, and
+#' English writes them differently: a figure caption numbered `2,3 et 4`, and
+#' `24h/24` for `24/7`. Each row of `assets/translate-exemptions.csv` names the
+#' report and the tokens allowed to appear on one side only, with the reason,
+#' so the exception is recorded rather than the check being loosened for every
+#' report. `fr` and `en` are space-separated token lists; one occurrence of
+#' each is dropped before the comparison.
+EXEMPTIONS <- local({
+    path <- here::here("assets", "translate-exemptions.csv")
+    if (file.exists(path)) fread(path, colClasses = "character") else
+        data.table(id = character(), fr = character(), en = character())
+})
+
+#' Drop one occurrence of each named token, leaving any repeats in place.
+drop_once <- function(x, tokens) {
+    for (t in tokens) {
+        i <- match(t, x)
+        if (!is.na(i)) x <- x[-i]
+    }
+    x
+}
+
+exempt_tokens <- function(report, side) {
+    # `report`, not `id`: inside EXEMPTIONS[...] a variable named `id` is the
+    # column, so every report matched every row and 113 was handed 042's
+    # tokens. The same trap as `settings_for` in 02-build-corpus.R.
+    row <- EXEMPTIONS[which(EXEMPTIONS$id == report)]
+    if (!nrow(row)) return(character())
+    strsplit(trimws(row[[side]]), " +")[[1]]
+}
+
+#' Hold the translated body to the same numbers as the French body.
+#'
+#' Tables were checked row by row from the start; the prose was not, and a
+#' changed date or count in a sentence is as misleading as one in a table.
+#' Numbers are compared as a multiset, since word order changes in
+#' translation, with the decimal separator normalised as in `digits_of`.
+check_body_numbers <- function(fr_body, en_body, id) {
+    a <- sort(drop_once(digits_of(fr_body), exempt_tokens(id, "fr")))
+    b <- sort(drop_once(digits_of(en_body), exempt_tokens(id, "en")))
+    if (!identical(a, b)) {
+        # Reported as counts, not as a set difference: where the two sides hold
+        # the same values a different number of times, setdiff is empty both
+        # ways and the message said nothing at all.
+        count <- function(x, keys) {
+            tab <- table(x)
+            out <- as.integer(tab[keys])
+            out[is.na(out)] <- 0L
+            out
+        }
+        keys <- union(a, b)
+        n_fr <- count(a, keys); n_en <- count(b, keys)
+        i <- which(n_fr != n_en)
+        stop(id, ": numbers in the body differ after translation (",
+            paste(sprintf("%s fr=%d en=%d", keys[i], n_fr[i], n_en[i]),
+                collapse = ", "), ").", call. = FALSE)
+    }
+    invisible(TRUE)
+}
+
+md_escape <- function(x) gsub("\\|", "\\\\|", x)
+
+render_table <- function(tb) {
+    cols <- md_escape(unlist(tb$columns))
+    head <- paste0("| ", paste(cols, collapse = " | "), " |")
+    rule <- paste0("|", paste(rep("---", length(cols)), collapse = "|"), "|")
+    body <- vapply(tb$rows, function(r) {
+        paste0("| ", paste(md_escape(unlist(r$cells)), collapse = " | "), " |")
+    }, character(1))
+    # Pandoc reads a caption from a paragraph starting ": " after the table,
+    # and needs the blank line to see it as a paragraph.
+    cap <- if (nzchar(tb$caption %||% "")) paste0("\n\n: ", tb$caption) else ""
+    paste(c(head, rule, body), collapse = "\n") |> paste0(cap)
+}
+
+#' Put each rendered table back where the transcription marked it.
+insert_tables <- function(body, tables) {
+    for (tb in tables) {
+        marker <- paste0("[TABLE_", tb$n, "]")
+        if (grepl(marker, body, fixed = TRUE)) {
+            body <- sub(marker, paste0("\n", render_table(tb), "\n"), body, fixed = TRUE)
+        } else {
+            body <- paste0(body, "\n\n", render_table(tb), "\n")
+        }
+    }
+    body
+}
+
+read_front <- function(lines) {
+    end <- which(lines == "---")
+    kv <- lines[(end[1] + 1):(end[2] - 1)]
+    list(
+        meta = setNames(as.list(trimws(sub("^[^:]*:", "", kv))), sub(":.*$", "", kv)),
+        body = paste(lines[-(1:end[2])], collapse = "\n")
+    )
+}
+
+translate_one <- function(id) {
+    fr_path <- corpus_fr_dir(paste0(id, ".md"))
+    tb_path <- corpus_tables_dir(paste0(id, ".json"))
+    out <- docs_dir(paste0(id, ".qmd"))
+
+    fr <- read_front(readLines(fr_path, warn = FALSE))
+    fr_tables <- jsonlite::fromJSON(tb_path, simplifyVector = FALSE)$tables
+
+    # Keyed on the French file's own build key as well as this step's prompt
+    # and model, so a rebuilt transcription or a changed translation prompt
+    # both flow through to the English page.
+    key <- paste(c(fr$meta$build_key,
+        digest::digest(PROMPT, algo = "md5", serialize = FALSE),
+        gemini_model_label(GEMINI_MODEL_TRANSLATE, TRANSLATE_THINKING)), collapse = ":")
+    if (!FORCE && file.exists(out)) {
+        if (paste0("translate_key: \"", key, "\"") %in%
+            readLines(out, n = 15, warn = FALSE)) {
+            return("cached")
+        }
+    }
+
+    res <- gemini(
+        parts = list(gemini_text_part(paste(
+            PROMPT, "\n\n---\n\n", fr$body, "\n\n---\n\n", TABLE_INSTRUCTION,
+            "\n\n", jsonlite::toJSON(fr_tables, auto_unbox = TRUE)))),
+        schema = SCHEMA,
+        model = GEMINI_MODEL_TRANSLATE,
+        label = paste0(id, "/translate"),
+        thinking_level = TRANSLATE_THINKING
+    )
+    check_translation(fr_tables, res$tables, id)
+    check_body_numbers(fr$body, res$body_markdown, id)
+
+    sitrep <- fr$meta$sitrep
+    front <- c(
+        "---",
+        sprintf('title: "SitRep %s"', sitrep),
+        sprintf('subtitle: "Report date %s"', fr$meta$report_date),
+        paste0("date: ", fr$meta$report_date),
+        paste0("sitrep: \"", sitrep, "\""),
+        paste0("pdf_md5: ", fr$meta$pdf_md5),
+        paste0("model: ", gemini_model_label(GEMINI_MODEL_TRANSLATE, TRANSLATE_THINKING)),
+        paste0("translate_key: \"", key, "\""),
+        paste0("pdf_url: ", fr$meta$pdf_url),
+        "lang: en",
+        "---",
+        "",
+        #' The warning says what was checked as well as what was not. "No
+        #' human review" on its own tells a reader to distrust everything
+        #' equally, when in fact the numbers carry a check the wording does
+        #' not, and the source is one link away.
+        "::: {.callout-caution}",
+        paste("Machine translation from the French original with Google",
+            "Gemini. No person has reviewed it."),
+        "",
+        paste0("Every number on this page was compared against the French ",
+            "transcription, and the page is published only if they match. ",
+            "The wording carries no such check. Before relying on any ",
+            "figure, read it in the [original PDF](", fr$meta$pdf_url, ")."),
+        ":::",
+        ""
+    )
+
+    csvs <- list.files(csv_dir(), pattern = paste0("^", id, "_table_"))
+    sources <- c(
+        "", "## Source", "",
+        paste0("- [Original PDF (French), INSP](", fr$meta$pdf_url, ")"),
+        paste0("- [French transcription](", REPO_URL, "/data/corpus/fr/", id, ".md)"),
+        if (length(csvs)) paste0("- [", sub("\\.csv$", "", csvs), "](",
+            REPO_URL, "/data/csv/", csvs, ")")
+    )
+
+    writeLines(c(front, insert_tables(res$body_markdown, res$tables), sources), out)
+    "translated"
+}
+
+ensure_dirs()
+
+ids <- tools::file_path_sans_ext(list.files(corpus_fr_dir(), pattern = "\\.md$"))
+if (!is.null(ONLY)) ids <- intersect(ids, ONLY)
+if (!length(ids)) {
+    stop("Nothing in the corpus. Run Rscript R/02-build-corpus.R first.", call. = FALSE)
+}
+
+status <- character(length(ids))
+quota <- NULL
+for (i in seq_along(ids)) {
+    status[i] <- tryCatch({
+        s <- translate_one(ids[i])
+        message(sprintf("[%3d/%3d] %s %s", i, length(ids), ids[i], s))
+        s
+    }, gemini_quota_stop = function(e) {
+        quota <<- e
+        "stopped"
+    }, error = function(e) {
+        message(sprintf("[%3d/%3d] %s FAILED: %s", i, length(ids), ids[i],
+            conditionMessage(e)))
+        "failed"
+    })
+    if (!is.null(quota)) break
+}
+
+message("\ntranslated ", sum(status == "translated"), ", cached ",
+    sum(status == "cached"), ", failed ", sum(status == "failed"),
+    ", not yet attempted ", sum(status %in% c("", "stopped")))
+
+# Exit 3: stopped for quota, as in 02-build-corpus.R. Rerun to resume.
+if (!is.null(quota)) {
+    message("\nSTOPPED: ", conditionMessage(quota))
+    quit(status = 3L)
+}
+if (any(status == "failed")) quit(status = 1L)

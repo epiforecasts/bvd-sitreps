@@ -1,153 +1,245 @@
 ---
-title: Sitrep 001
-sitrep: 001
-date: 2026-05-15
+title: "SitRep 001"
+subtitle: "Report date 2026-05-14"
+date: 2026-05-14
+sitrep: "001"
+pdf_md5: 954408634f4e2fb02b08aa31923b54e7
+model: agy:gemini-3.8-flash-low
+translate_key: "954408634f4e2fb02b08aa31923b54e7:c95d366fc47db0685de85290691c3ec5:2b47b40403025e32e12927f461c2f1e4:gemini-3.1-pro-preview:da5ff90cf9667d64f15f0f0a0c7b6c29:agy:gemini-3.8-flash-low"
+pdf_url: https://insp.cd/wp-content/uploads/2026/05/Draft-MVE-Ituri-ActuelB-1.pdf
+lang: en
 ---
 
 ::: {.callout-caution}
-Automatically converted and translated with Google Gemini with minimal human oversight
+Machine translation from the French original with Google Gemini. No person has reviewed it.
+
+Every number on this page was compared against the French transcription, and the page is published only if they match. The wording carries no such check. Before relying on any figure, read it in the [original PDF](https://insp.cd/wp-content/uploads/2026/05/Draft-MVE-Ituri-ActuelB-1.pdf).
 :::
 
-Ebola Virus Disease Situation Report
+Ebola Virus Disease Situation Report/17th outbreak
 
-Democratic Republic of Congo Ministry of Public Health, Hygiene and Social Welfare
+SitRep MVE (Ebola virus disease) N° 001/2026
 
-National Institute of Public Health
+Country/Province DRC/Ituri
 
-Public Health Emergency Operations Center <<< COUSP-RDC >>>
+Health Zone affected Mongbwalu, Bunia and Rwampara
 
-Situation Report of the Ebola Virus Disease Outbreak/17th epidemic
+Reporting date 14 May 2026
 
-Country/Province RDC/Ituri
+Publication date 15 May 2026
 
-Health Zone concerned Mongbwalu, Bunia and Rwampara
 
-Reporting date May 14, 2026
+| Alert | Confirmed Cases | Suspected Cases | Confirmed deaths | Bed occupancy rate among confirmed cases | Bed occupancy rate among suspected cases | Recovered |
+|---|---|---|---|---|---|---|
+| 261 | 8 | 246 | 4 | ? | ? | ? |
 
-Publication date May 15, 2026
 
-SitRep MVE No.
-001/2026
+# I. HIGHLIGHTS
 
-TABLE_1 | | | | | | | | | ---| ---| ---| ---| ---| ---| ---| | 261 | 8 | 246 | 4 | ?
-| ?
-| ?
-| | Alert | Confirmed Cases | Suspect Cases | Confirmed Deaths | Bed Occupancy Rate (Confirmed Cases) | Bed Occupancy Rate (Suspect Cases) | Recovered | 
+3 ZS (health zone) /36 are affected including Bunia, Rwampara and Mongbwalu.
 
-I.  HIGHLIGHTS
+8 confirmed cases including 4 deaths .
 
-3 Health Zones (ZS) out of 36 are affected, including Bunia, Rwampara and Mongbwalu.
-8 confirmed cases including 4 deaths.
-The second national emergency coordination meeting was held with all stakeholders around the Director General of INSP on the MVE_ITURI situation.
+Holding of the second meeting of national emergency coordination with all stakeholders around the DG of the INSP (National Institute of Public Health) on the MVE_ITURI situation.
 
-Context
+# Context
 
-The COUSP/RDC picked up an alert signaling clustered deaths of unknown etiology in the Health Zone of Mongbwalu (90 km from Bunia), Djugu territory in the Ituri province, which is located in the eastern part of the Democratic Republic of Congo.
+The COUSP (public health emergency operations centre)/DRC picked up an alert reporting clustered deaths of unknown etiology in the Mongbwalu Health Zone (90 Km from Bunia), Djugu territory in the province of Ituri, which itself is located in the eastern part of the Democratic Republic of the Congo.
 
-A preliminary health signal dated May 5, 2026, from health personnel in the Mongbwalu health zone preceded official notification on May 8, following reports of unexplained clustered deaths (50 deaths via social media).
-Between April 1 and May 13, 2026, 261-280 suspected and probable cases, including 100 deaths (55 hospitalized and 45 community deaths in the Mongbwalu health zone), were reported, among whom 4 deaths were health workers.
-All these cases originated from the Health Zones (ZS) of Mongbwalu, Rwampara, and Bunia.
-The outbreak epicenter is located in the Shun Quarter (or Sun 1) in Mongbwalu (Avenues Alimasi 1 and 2).
+A prior health signal dated 05 May 2026 from the health staff of the Mongbwalu health zone before being officially notified on 8 May following reports of unexplained clustered deaths (50 deaths via social media).
 
-The event appears to have occurred in a context of strong suspicion of a community epidemic, initially marked by rapid and unexplained deaths, some cases being linked to risky body handling practices and funeral rituals, and prayer groups.
+Between 1st April and 13 May 2026, 261 – 280 suspected and probable including 100 deaths(55 in-hospital and 45 community deaths in the health zone of Mongbwalu) were reported, among which 4 deaths, all healthcare workers.
 
-Following a review of hospitalized deaths, common clinical signs such as fever, headache, vomiting, severe physical asthenia in the majority of cases, and dyspnea, hematemesis, epistaxis, and blackish vomit in other cases were noted.
+All these cases came from the Health Zones (ZS) of Mongbwalu, Rwampara and Bunia.
 
-Investigations conducted by the EIR as of [date not specified] led to the collection of 28 samples from suspected cases.
-Initially, preliminary tests carried out at INRB/Bunia were all negative for Ebola Zaire, Dengue, Rotavirus, Cholera, Malaria, Yersinia pestis, MPOX, and COVID-19, before 13 of these samples were sent to INRB/Kinshasa.
+The focus is located in Quartier Shun (or Sun 1) in Mongbwalu (Alimasi 1 and 2 avenues).
 
-As of May 14, 2026, 8 cases tested positive for Ebola virus disease (Bundibugyo/Uganda strain) after tests conducted at INRB Kinshasa.
-This will be the 17th epidemic of Ebola virus disease in the DRC.
+The event reportedly occurred in a context of strong suspicion of a community epidemic, initially marked by rapid and unexplained deaths, of which certain cases were reportedly linked to body handling practices and high-risk funeral rituals and prayer groups .
 
-II. EPIDEMIOLOGICAL SITUATION UPDATE
+After the review of in-hospital deaths some common clinical signs such as fever, headache, vomiting, intense physical asthenia in the majority of cases and dyspnoea, haematemesis epistaxis, blackish vomiting in other cases were noted.
 
-From April 1 to May 13, 2026, 246 suspected cases including 80 deaths were reported, among whom 4 deaths were health workers.
-All these cases originated from the Health Zones (ZS) of Mongbwalu, Rwampara, and Bunia.
-The main epicenter is located in Shun Quarter (or Sun 1) in Mongbwalu, particularly on Alimasi 1 and 2 avenues.
+The investigations conducted by the EIR on the date of … enabled 28 samples to be taken from suspected cases.
 
-TABLE_2 | Indicator | Value | | ---| ---| | Confirmed Ebola Cases | 8 | | Samples to be collected | 4 | | Estimated Suspect/Probable Cases | 246 | | Hospital Deaths HGR Mongbwalu | 55 | | Community Deaths Mongbwalu | 2 | | Health Personnel Deceased | 24 | | Identified Contacts | 282 | | Affected ZS | 3 | 
+Initially, the preliminary tests carried out at the INRB/Bunia were all negative for Zaire Ebola, dengue, Rotavirus, Cholera, Malaria, Yersinia pestis, MPOX and COVID-19 before dispatching 13 of these samples to the INRB/Kinshasa.
 
-[PHOTO]
+On the date of 14 May 2026, 8 cases proved positive for Ebola virus disease (Bundibugyo/Uganda strain) after the tests performed at the INRB Kinshasa.
 
-the importance of deaths; the rapidity of evolution; the involvement of caregivers; and the hemorrhagic forms observed; suggest a high lethality compatible with a severe MVE outbreak.
+This will be the 17th epidemic of Ebola virus disease in DRC.
 
-III. COORDINATION
+# II. UPDATE ON THE EPIDEMIOLOGICAL SITUATION
 
-Holding of national coordination meetings with all stakeholders and these provinces.
-Preparation of the response plan MVE_17 ITURI to COUSP in response mode.
-Preparation for the cascading activation of EIRs and equipment.
-Preparation for the deployment of teams at all levels.
+1st April and 13 May 2026, 246 suspected cases including 80 deaths were reported, among which 4 deaths, all healthcare workers.
 
-IV. EPIDEMIOLOGICAL SURVEILLANCE
+All these cases came from the Health Zones (ZS) of Mongbwalu, Rwampara and Bunia
 
-Official notification of the alert on May 8, 2026, following rumors of clustered deaths.
-Preliminary investigation to trace the origin of the event to Shun Quarter (Mongbwalu) on May 5.
-Investigation of 3 validated and collected alerts.
-Meeting with 5 Health Territories (ITs) and Environmental Health Zones (ECZ) on active search for community and hospital deaths.
-Pre-listing of contacts (63 contacts) and to be completed.
-Strengthening of active surveillance in 3 Health Zones (AS) (CECA 20, Mongbwalu, and Abelkozo).
-Development of contact lists to initiate tracing.
-Active search for suspected FHA cases at Mongbwalu Hospital.
-Securing of bodies.
+The main focus is located in Quartier Shun (or Sun 1) in Mongbwalu, particularly on Alimasi 1 and 2 avenues
 
-V.  LABORATORY
 
-Thirteen initial samples collected, 2 analyzed by rapid diagnostic test (RDT) with negative results (Dengue, MPOX, Malaria, Yesinia pestis, COVID-19, Rotavirus, and Cholera).
-Biological samples from the 28 suspected cases collected and sent to INRB/Kinshasa for analysis.
+| Indicator | Value |
+|---|---|
+| Confirmed Ebola cases | 8 |
+| Samples to be retested | 4 |
+| Estimated suspected/probable cases | 246 |
+| HGR Mongbwalu hospital deaths | 55 |
+| Mongbwalu community deaths | 2 |
+| Healthcare workers deceased | ≥4 |
+| Contacts identified | ≥82 |
+| Affected ZS | 3 |
 
-VII. INFECTION PREVENTION AND CONTROL (IPC/WASH)
 
-IPC evaluation, CS Abelkozo (score 7%), HGR Mongbwalu (score 34%).
-IPC briefing: hand hygiene, waste management, and patient isolation ✓ Preparation of isolation at HGR Mongbwalu.
-Implementation of Infection Prevention and Control (IPC) measures in local health facilities, despite implementation difficulties.
+[FIGURE: Map]
 
-IX. RISK COMMUNICATION AND COMMUNITY ENGAGEMENT
+the magnitude of the deaths ; the rapidity of progression ; the involvement of healthcare workers ; and the haemorrhagic forms observed ; suggest high fatality compatible with a severe outbreak of MVE.
 
-Initial sensitization of community and religious leaders to counter rumors of "mystical disease."
+# III. COORDINATION
 
-X.  SECURITY
+Holding of national coordination meetings meetings with all stakeholders and these provinces.
+
+Preparation of the MVE_17 ITURI response plan at the COUSP in response mode
+
+Preparation of the cascade activation of EIRs and equipet
+
+Preparation of the deployment of teams to all levels
+
+# IV. EPIDEMIOLOGICAL SURVEILLANCE
+
+Official notification of the alert on 8 May 2026 following rumours of clustered deaths.
+
+Preliminary investigation having enabled the origin of the event to be traced to the Shun neighbourhood (Mongbwalu) as early as 5 May
+
+Investigation of 3 validated and sampled alerts,
+
+Holding of meeting with 5 ITs and ECZ on the active search for community and in-hospital deaths,
+
+Pre-listing of contacts (63 contacts) and remains to be completed
+
+Strengthening of active surveillance in 3 AS (health area) (CECA 20, Mongbwalu and Abelkozo),
+
+Compilation of contact lists to initiate tracing.
+
+Active search for suspected VHF cases at Mongbwalu hospital,
+
+Securing of bodies,
+
+# V. LABORATORY
+
+First thirteen samples taken including 2 analysed by RDT with negative result (Dengue, MPOX, Malaria, Yesinia pestis, COVID-19, Rotavirus and Cholera),
+
+Biological sampling on suspected cases of 28 samples and dispatch to INRB/Kinshasa for analysis.
+
+# VII. INFECTION PREVENTION AND CONTROL (PCI/WASH)
+
+PCI (infection prevention and control) evaluation, CS Abelkozo (score 7%), HGR (general referral hospital) Mongbwalu (score 34%)
+
+PCI briefing : hand hygiene, waste management and isolation of patients ✓ Preparation of isolation at HGR Mongbwalu
+
+Implementation of Infection Prevention and Control (PCI) measures in local healthcare facilities, despite implementation difficulties.
+
+# IX. RISK COMMUNICATION AND COMMUNITY ENGAGEMENT
+
+Initial sensitisation of community leaders and religious leaders to counter rumours of a "mystical disease".
+
+# X. SECURITY
 
 Daily security monitoring.
 
-CHALLENGES AND GAPS
+# CHALLENGES AND GAPS
 
-Lack of compliant isolation, development of the Integrated Care Plan (PAI), and designation of the Integrated Surveillance System (SGI).
-Lack of IPC inputs, sample collection kits.
-Need for Community Response Epidemic Cells (CREC) to manage community rumors.
-Personnel not trained in IPC, sample collection, transport and conservation, surveillance, and care for epidemic-potential diseases.
-Lack of triage at HGR Mongbwalu and CS.
-Completion of Epidemiological Data Sheet (EDS).
-Urgent need for standardized Treatment Centers for Epidemics (CTE) in the 3 affected Health Zones.
+Lack of compliant isolation, drafting of the PAI and designation of SGI
 
-XIII. PERSPECTIVES
+Lack of PCI supplies, sampling kits
 
-Organize and standardize Dignified and Secure Burials (EDS) to neutralize the major source of contamination represented by bodies.
-Establish or strengthen Ebola Treatment Centers (CTE) for early patient management.
-Intensify community engagement to stop mass collective prayers and risky funeral rituals.
-Resolve the crisis of trust between the Health Zone and the population by providing transparent information on biological confirmations.
-Trigger immediate cross-border coordination with Uganda and South Sudan to monitor population movements at the borders.
-Activation of the Public Health Emergency Operations Center (COUSP) through the National Institute of Public Health (INSP) in response mode, level 1 according to the operations concept.
-An appeal for mobilization of technical and financial partners to demonstrate solidarity and alleviate the suffering of populations behind the government's action, as stated: A coordination team, A plan, and A budget.
-Strengthening of epidemiological and biological surveillance in affected and at-risk health zones.
-Holistic and free care for Ebola cases and rapid, strict isolation of suspected or confirmed cases.
-Strengthening of risk communication for the disease and community engagement against this disease in a concerning security context and with a high population density and mobility.
-Immediate deployment of rapid intervention teams (EIR) in a cascading manner to protect and save human lives.
-Furthermore, the deployment of essential medicines, safe blood, therapeutic molecules, and laboratory reagents and equipment should not be delayed.
+Need for RCCE to manage community rumours,
+
+Staff not trained in PCI, sampling, transport and conservation of samples, surveillance, management of diseases with epidemic potential
+
+Lack of triage at HGR Mongbwalu and CS
+
+Performance of complete SDB
+
+Urgent need of urgent need for compliant CTE (Ebola treatment centre) in the 3 ZS in epidemics
+
+# XIII. OUTLOOK
+
+Organise and standardise Safe and Dignified Burials (EDS) to neutralise the major source of contamination represented by bodies.
+
+Install or strengthen Ebola Treatment Centres (CTE) for early patient care.
+
+Intensify community engagement to stop massive collective prayers and high-risk funeral rituals.
+
+Resolve the crisis of confidence between the Health Zone and the population by providing transparent information on biological confirmations.
+
+Trigger immediate cross-border coordination with Uganda and South Sudan to monitor population movements at borders.
+
+The activation of the Public Health Emergency Operations Centre (COUSP) through the National Institute of Public Health (INSP) in response mode, level 1 according to the concept of operations.
+
+An appeal for the mobilisation of technical and financial partners to show solidarity and relieve the suffering of populations behind the action of the government of the republic as well stated: One coordination team, One plan and One budget ;
+
+The strengthening of epidemiological and biological surveillance in affected and at-risk health zones,
+
+Holistic and free care of Ebola cases and rapid as well as strict isolation of suspected or confirmed patients,
+
+The strengthening of risk communication on the disease and community engagement against this disease in a concerning security context and high demography as well as significant population mobility,
+
+The immediate deployment of rapid response teams (EIR) in cascade to protect and save human lives.
+
+Also, the deployment of basic medicines, safe blood, therapeutic molecules and laboratory reagents and equipment cannot brook any delay ;
+
+# ILLUSTRATION
 
 [PHOTO]
 
+Coordination meeting with the DG of the INSP
+
 [PHOTO]
+
+PROVINCIAL COORDINATION MEETING
 
 FOR ANY ADDITIONAL INFORMATION, PLEASE CONTACT
 
-For the National Institute of Public Health (INSP) of the DRC Director General of INSP Dr MWAMBA KAZADI Dieudonné Tel.: +243 816 040 145 E-mail: dieudonnemwambakazadi@gmail.com
+For the National Institute of Public Health (INSP) of the DRC
 
-COUSP-SP Coordinator Prof NGANDU Christian Tel.: +243998091915 E-mail: nganduchristian@ymail.com
+The Director General of the INSP
 
-Incident Manager SGI MVE Epi17 E-mail:
+Dr MWAMBA KAZADI Dieudonné
 
-For the World Health Organization (WHO/DRC) Acting Representative of WHO in DRC Dr E-mail: @who.int
+Tel. : +243 816 040 145
 
-Incident Manager of WHO in the MVE response E-mail: @who.int
+E-mail : dieudonnemwambakazadi@gmail.com
 
-WHO Team Lead Cluster EPR in DRC Dr Mouctar Diallo E-mail: dialloam@who.int
+The COU-SP Coordinator
+
+Prof NGANDU Christian
+
+Tel. : +243998091915
+
+E-mail : nganduchristian@ymail.com
+
+The Incident Manager SGI MVE Epi17
+
+E-mail :
+
+For the World Health Organization (WHO/DRC)
+
+The ad interim Representative of WHO in DRC
+
+Dr
+
+E-mail : @who.int
+
+WHO Incident Manager in the MVE response
+
+E-mail: @who.int
+
+The Team Lead Cluster EPR of WHO in DRC
+
+Dr Mouctar Diallo
+
+E-mail : dialloam@who.int
+
+## Source
+
+- [Original PDF (French), INSP](https://insp.cd/wp-content/uploads/2026/05/Draft-MVE-Ituri-ActuelB-1.pdf)
+- [French transcription](https://github.com/epiforecasts/bvd-sitreps/blob/main/data/corpus/fr/001.md)
+- [001_table_01](https://github.com/epiforecasts/bvd-sitreps/blob/main/data/csv/001_table_01.csv)
+- [001_table_02](https://github.com/epiforecasts/bvd-sitreps/blob/main/data/csv/001_table_02.csv)

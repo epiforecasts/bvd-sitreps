@@ -1,0 +1,288 @@
+{
+  "id": "011",
+  "sitrep": "011",
+  "report_date": "2026-05-25",
+  "pdf_md5": "fef669178437d8558c404337ac8ae1e2",
+  "tables": [
+    {
+      "n": 1,
+      "caption": "Tableau II. Répartition des cas, décès suspects et confirmés de maladie à virus Ebola dans les zones de santé de la DPS Ituri, Nord-Kivu et Sud Kivu au 25 mai 2026",
+      "columns": [
+        "Provinces",
+        "Zones de santé",
+        "Nbre de cas suspects",
+        "Nbre de décès suspects*",
+        "Nbre de cas Confirmés",
+        "Nbre de contacts*"
+      ],
+      "rows": [
+        {
+          "cells": [
+            "Ituri",
+            "Aru",
+            "4",
+            "1",
+            "1",
+            "0"
+          ]
+        },
+        {
+          "cells": [
+            "Ituri",
+            "Bambu",
+            "6",
+            "2",
+            "0",
+            "183"
+          ]
+        },
+        {
+          "cells": [
+            "Ituri",
+            "Bunia",
+            "270",
+            "55",
+            "24",
+            "404"
+          ]
+        },
+        {
+          "cells": [
+            "Ituri",
+            "Kilo",
+            "18",
+            "0",
+            "1",
+            "0"
+          ]
+        },
+        {
+          "cells": [
+            "Ituri",
+            "Mongbwalu",
+            "364",
+            "88",
+            "19",
+            "222"
+          ]
+        },
+        {
+          "cells": [
+            "Ituri",
+            "Nizi",
+            "9",
+            "2",
+            "2",
+            "22"
+          ]
+        },
+        {
+          "cells": [
+            "Ituri",
+            "Nyankunde",
+            "66",
+            "15",
+            "9",
+            "365"
+          ]
+        },
+        {
+          "cells": [
+            "Ituri",
+            "Rwampara",
+            "240",
+            "75",
+            "32",
+            "621"
+          ]
+        },
+        {
+          "cells": [
+            "Ituri",
+            "Echantillons sans fiche",
+            "0",
+            "0",
+            "6",
+            "0"
+          ]
+        },
+        {
+          "cells": [
+            "Nord-Kivu",
+            "Butembo",
+            "7",
+            "0",
+            "3",
+            "22"
+          ]
+        },
+        {
+          "cells": [
+            "Nord-Kivu",
+            "Goma",
+            "0",
+            "0",
+            "1",
+            "28"
+          ]
+        },
+        {
+          "cells": [
+            "Nord-Kivu",
+            "Katwa",
+            "13",
+            "0",
+            "4",
+            "99"
+          ]
+        },
+        {
+          "cells": [
+            "Nord-Kivu",
+            "Karissibi",
+            "ND",
+            "0",
+            "0",
+            "249"
+          ]
+        },
+        {
+          "cells": [
+            "Nord-Kivu",
+            "Kyondo",
+            "ND",
+            "0",
+            "1",
+            "16"
+          ]
+        },
+        {
+          "cells": [
+            "Nord-Kivu",
+            "Oicha",
+            "ND",
+            "0",
+            "1",
+            "0"
+          ]
+        },
+        {
+          "cells": [
+            "Nord-Kivu",
+            "Kalunguta",
+            "0",
+            "0",
+            "1",
+            "0"
+          ]
+        },
+        {
+          "cells": [
+            "Sud-Kivu",
+            "Miti Murhesa",
+            "1",
+            "0",
+            "1",
+            "ND"
+          ]
+        },
+        {
+          "cells": [
+            "Total",
+            "Total",
+            "998",
+            "238",
+            "106",
+            "2231"
+          ]
+        }
+      ]
+    },
+    {
+      "n": 2,
+      "caption": "Tableau III. Synthèse de données au PoE/PoC du 25/05/2026",
+      "columns": [
+        "VARIABLES",
+        "TOTAL"
+      ],
+      "rows": [
+        {
+          "cells": [
+            "Voyageurs passés par le PoE/PoC",
+            "13 221"
+          ]
+        },
+        {
+          "cells": [
+            "Voyageurs screenés",
+            "13 075"
+          ]
+        },
+        {
+          "cells": [
+            "Voyageurs ayant lavés les mains",
+            "12 005"
+          ]
+        },
+        {
+          "cells": [
+            "Voyageurs sensibilisés sur la MVE",
+            "13 075"
+          ]
+        },
+        {
+          "cells": [
+            "Contacts listés",
+            "0"
+          ]
+        },
+        {
+          "cells": [
+            "Alertes remontées",
+            "0"
+          ]
+        }
+      ]
+    },
+    {
+      "n": 3,
+      "caption": "",
+      "columns": [
+        "Echantillons",
+        "Total"
+      ],
+      "rows": [
+        {
+          "cells": [
+            "Echantillons reçus",
+            "431"
+          ]
+        },
+        {
+          "cells": [
+            "Ré prélèvements (contrôle)",
+            "3"
+          ]
+        },
+        {
+          "cells": [
+            "Cumul échantillons analysés",
+            "295"
+          ]
+        },
+        {
+          "cells": [
+            "Taux de positivité",
+            "35,6%"
+          ]
+        },
+        {
+          "cells": [
+            "Cumul positifs",
+            "106"
+          ]
+        }
+      ]
+    }
+  ]
+}
