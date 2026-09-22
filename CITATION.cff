@@ -2,7 +2,7 @@ cff-version: 1.2.0
 message: >-
   Cite the INSP situation reports first; they are the work and this
   repository is a transcription of them. Use these metadata as a
-  secondary reference if it matters that you read them as text.
+  secondary reference.
 title: >-
   bvd-sitreps: a machine-readable corpus of the INSP situation
   reports for the 2026 DRC Bundibugyo virus outbreak

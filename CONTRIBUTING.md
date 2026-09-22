@@ -1,29 +1,25 @@
-`#ai-input`
-
 # Contributing
 
-Issues and pull requests are welcome at
+Issues and pull requests are very welcome at
 [epiforecasts/bvd-sitreps](https://github.com/epiforecasts/bvd-sitreps).
 
-Contributions of every kind are welcome: a correction, a bug report, a new
-pipeline step, a better prompt, or a question about how something works.
+Feedback, questions, corrections, bug reports, new pipeline steps, better
+prompts: all of it is welcome, and none of it needs to be polished.
 
-Corrections are especially easy to make and especially valuable, because every
-page is machine transcribed and translated with no human review. If you read a
-report here and a figure looks wrong, please
+Corrections are especially easy to make. Every page is machine transcribed and
+translated with no human review, so if a figure looks wrong, please
 [open an issue](https://github.com/epiforecasts/bvd-sitreps/issues) with the
-report number and what the source PDF says. No need to work out the cause; the
-report number is enough to go on.
+report number and what the source PDF says. There is no need to work out the
+cause.
 
 ## What this repository is for
 
-One job: turn the INSP situation report PDFs into text that can be read by a
-machine, without changing what they say. The French transcription is the
-record. Everything else, the CSVs and the English pages, is derived from it.
+Turning the INSP situation report PDFs into text a machine can read, without
+changing what they say. The French transcription is the record, and the CSVs
+and English pages are derived from it.
 
-It is not an analysis repository. Anything that interprets the reports rather
-than transcribing them belongs downstream, in a repository that reads this
-corpus by path.
+Analysis of what the reports say belongs downstream, in a repository that
+reads this corpus.
 
 ## Layout
 
@@ -70,37 +66,31 @@ finished reports are cached.
 
 ## Conventions
 
-The corpus is verbatim. A transcription that tidies the source cannot be
-checked against it, and being checkable is the only reason to trust it. If a
-report contains an obvious typo, it stays.
+The corpus is verbatim. If a report contains an obvious typo, it stays: a
+transcription that tidies its source cannot be checked against it.
 
-Model output is never trusted on its own. `02-build-corpus.R` checks recall
+Model output is checked, never trusted. `02-build-corpus.R` checks recall
 against the PDF text layer, `04-translate.R` checks that every number survives
-translation, and `05-check-corpus.R` checks the corpus against the PDFs.
-Weakening a check to make a failure disappear is the wrong fix; the right one
-is to rerun that report with a better prompt, or to leave it out.
+translation, and `05-check-corpus.R` checks the corpus against the PDFs. When
+a check fails, rerun that report with a better prompt or leave it out, rather
+than weakening the check.
 
-Models are pinned in `R/lib/gemini.R` with the comparison that chose them.
-Changing a pin changes every key and rebuilds everything, so say why in the
-commit.
+Models are pinned in `R/lib/gemini.R`. Changing a pin rebuilds everything, so
+please say why in the commit.
 
-R code uses data.table and `here::here()` for paths. Each script is runnable
-on its own with `Rscript`.
-
-British English in prose, sentence case headings, and no bold or italics in
-documentation.
+R code uses data.table and `here::here()` for paths, and each script runs on
+its own with `Rscript`. British English, sentence case headings.
 
 ## Pull requests
 
 `main` requires one approving review.
 
-Say in the description what you ran. A change to a prompt or a model pin
-invalidates the cache, so note how many reports it rebuilds and what changed
-in the output.
+Please say what you ran. A change to a prompt or a model pin invalidates the
+cache, so it helps to note how many reports it rebuilds and what changed.
 
 ## Use of AI
 
 The pipeline code was drafted by a language model under human direction, and
 commits carry a `Commit-Via` trailer recording that. The transcription and
-translation are model output by design. The named author is responsible for
-the oversight.
+translation are model output by design, which is why every step carries a
+check. The named author is responsible for the oversight.
