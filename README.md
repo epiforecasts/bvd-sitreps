@@ -1,12 +1,18 @@
 # INSP situation reports: Ebola (BDBV) DRC 2026
 
-A machine-readable corpus of the situation reports published by the Institut National de Santé Publique (INSP) / Centre d'opérations d'urgence de santé publique (COUSP) for the 2026 Bundibugyo virus disease outbreak in the Democratic Republic of the Congo, with English translations.
+This repository holds a machine-readable corpus of the situation reports published by the Institut National de Santé Publique (INSP) / Centre d'opérations d'urgence de santé publique (COUSP) for the 2026 Bundibugyo virus disease outbreak in the Democratic Republic of the Congo, with English translations.
 
-Site: https://epiforecasts.io/bvd-sitreps/
+- Access the site: https://epiforecasts.io/bvd-sitreps/
 
-We are not affiliated with INSP. All transcription and translation is done by Google Gemini and has not been reviewed by a person. Check the source PDF before relying on any figure, and please flag errors.
+Very many thanks to INSP and all those providing public access to these reports.
+
+- Authors are in no way affiliated with INSP, and INSP hold complete rights over the source material; see [citation](#citation) and [license](#licence) details.
+- All transcription and translation is done by Google Gemini, and you should assume this has **not been reviewed by a human**. Please check the source PDF before relying on any figure.
+- If you spot any errors, give feedback, or wish to contribute, you are very welcome and encouraged to open an [Issue](https://github.com/epiforecasts/bvd-sitreps/issues).
 
 ## What is here
+
+This repository holds extraction and translation only, aiming to support analysis elsewhere.
 
 | | |
 |---|---|
@@ -18,8 +24,6 @@ We are not affiliated with INSP. All transcription and translation is done by Go
 | `docs/` | English translation of each report, rendered as the site |
 
 Files are named by a three-digit report number (`040`), with `_v2` for a reissue.
-
-This repository does extraction and translation only. Analysis of what the reports say, such as treatment centre openings or bed capacity, reads this corpus from elsewhere.
 
 ## Method
 
@@ -37,13 +41,11 @@ French corpus      ──04──▶  docs/
 4. `R/04-translate.R` translates the French into English with `assets/prompt-translate.md`. It never opens a PDF. Each translated table must keep the same shape and the same numbers in every row as the French one.
 5. `R/05-check-corpus.R` checks, for every report, that the numbers `pdftools` reads from the PDF are present in the transcription, and fails below 95%.
 
-Why French first: translating while transcribing leaves nothing to check a downstream claim against, and mistranslates the terms that matter most. An earlier version of this pipeline rendered `CTE` (Centre de Traitement Ebola) as "Treatment Centers for Epidemics".
-
-Why insp.cd rather than the INRB-UMIE mirror: the mirror is missing reports and some of its copies are degraded. Its SitRep 007 has no text layer; the INSP original has 39,372 characters.
+We use insp.cd rather than the INRB-UMIE mirror as the mirror is missing reports and some of its copies are degraded (SitRep 007 has no text layer).
 
 ## Coverage
 
-INSP has published 115 report numbers between 001 and 122. Numbers 003, 029, 043, 045, 063, 075 and 076 do not appear on the INSP site or in the mirror. Report 006 was published twice.
+As at 14 September 2026, INSP has published 115 report numbers between 001 and 122. Numbers 003, 029, 043, 045, 063, 075 and 076 do not appear on the INSP site or in the mirror. Report 006 was published twice.
 
 ## Running
 
@@ -67,15 +69,33 @@ Models are pinned in `R/lib/gemini.R`, with the comparison that chose them. Toke
 
 The `Update Sitreps` Actions workflow runs the same pipeline on demand and commits the results. It needs `GOOGLE_AI_KEY` as a repository secret.
 
+## Citation
+
+Please cite the INSP situation reports.
+
+- Institut National de Santé Publique, Democratic Republic of the Congo
+  (2026). *Situation reports on the 17th Ebola virus disease epidemic.*
+  <https://insp.cd/ebola-17eme-epidemie/>. Individual report URLs and dates
+  are in [data/manifest.csv](data/manifest.csv).
+
+If you used the machine-readable text or the English translation rather than the PDFs for further work, you may wish to also cite this corpus:
+
+- Sherratt, K. (2026). *bvd-sitreps: a machine-readable corpus of the INSP
+  situation reports for the 2026 DRC Bundibugyo virus outbreak.*
+  <https://github.com/epiforecasts/bvd-sitreps>.
+
+Machine-readable citation: [CITATION.cff](CITATION.cff).
+
+For any individual statement or number, please cite the specific report it
+appears in.
+
+## Contributing
+
+All feedback, discussion, or contributions of any kind are very welcome. See [CONTRIBUTING.md](CONTRIBUTING.md).
+
 ## Licence
 
 The code in `R/` is MIT, in [LICENSE](LICENSE).
 
-The reports are not ours. `data/` and the English pages under `docs/` are
-derived from situation reports published by INSP, who hold whatever rights
-attach to them; the transcription and translation are ours, under CC BY 4.0.
-[data/LICENSE.md](data/LICENSE.md) sets out both, and what the reports do and
-do not contain about individuals. The source PDF is the authority in every
-case, and every file records which one it came from.
-
-Many thanks to INSP and all those providing public access to these reports.
+`data/` and the English pages under `docs/` are derived from situation reports published by INSP, who hold all rights
+attached to them. The transcription and translation are published here under CC BY 4.0. See [data/LICENSE.md](data/LICENSE.md).

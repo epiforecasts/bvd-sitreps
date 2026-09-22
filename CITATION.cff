@@ -1,0 +1,40 @@
+cff-version: 1.2.0
+message: >-
+  Cite the INSP situation reports first; they are the work and this
+  repository is a transcription of them. Use these metadata as a
+  secondary reference.
+title: >-
+  bvd-sitreps: a machine-readable corpus of the INSP situation
+  reports for the 2026 DRC Bundibugyo virus outbreak
+abstract: >-
+  Every situation report published by the Institut National de Sante
+  Publique of the Democratic Republic of the Congo for the 2026
+  Bundibugyo virus disease outbreak, transcribed from PDF to French
+  markdown, with the tables extracted to CSV and English translations
+  rendered as a website. Each file records the source URL and the md5
+  of the PDF it came from. Transcription and translation are machine
+  generated and have not been reviewed by a person.
+authors:
+  - family-names: Sherratt
+    given-names: Katharine
+repository-code: "https://github.com/epiforecasts/bvd-sitreps"
+url: "https://epiforecasts.io/bvd-sitreps"
+license: MIT
+keywords:
+  - Ebola
+  - Bundibugyo virus
+  - Democratic Republic of the Congo
+  - outbreak surveillance
+  - situation reports
+references:
+  - type: report
+    title: "Situation reports on the 17th Ebola virus disease epidemic"
+    authors:
+      - name: >-
+          Institut National de Sante Publique, Democratic Republic
+          of the Congo
+    year: 2026
+    url: "https://insp.cd/ebola-17eme-epidemie/"
+    notes: >-
+      The source of every report in this corpus. INSP holds whatever
+      rights attach to them; see data/LICENSE.md.

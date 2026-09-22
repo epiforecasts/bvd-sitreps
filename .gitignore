@@ -6,3 +6,5 @@ outputs/
 _site/
 .quarto/
 data/pdf/
+
+/.quarto/

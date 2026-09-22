@@ -1,5 +1,3 @@
-`#ai-input`
-
 # Terms for the contents of data/
 
 The code in this repository is under the MIT licence in [../LICENSE](../LICENSE).
