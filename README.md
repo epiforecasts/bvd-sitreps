@@ -69,23 +69,31 @@ The `Update Sitreps` Actions workflow runs the same pipeline on demand and commi
 
 ## Citation
 
-If you use this corpus, please cite both it and the reports it transcribes:
+Cite the situation reports. They are the work; this repository is a
+transcription of them.
 
-- **This corpus** — Sherratt, K. (2026). *bvd-sitreps: a machine-readable
-  corpus of the INSP situation reports for the 2026 DRC Bundibugyo virus
-  outbreak.* <https://github.com/epiforecasts/bvd-sitreps>.
-- **The situation reports** — Institut National de Santé Publique, Democratic
-  Republic of the Congo (2026). *Situation reports on the 17th Ebola virus
-  disease epidemic.* <https://insp.cd/ebola-17eme-epidemie/>.
+- Institut National de Santé Publique, Democratic Republic of the Congo
+  (2026). *Situation reports on the 17th Ebola virus disease epidemic.*
+  <https://insp.cd/ebola-17eme-epidemie/>. Individual report URLs and dates
+  are in [data/manifest.csv](data/manifest.csv).
 
-[CITATION.cff](CITATION.cff) carries the same metadata in a form GitHub and
-reference managers can read. Cite the report itself for any figure: the source
-PDF is the authority, and each file here records which one it came from.
+If it matters to your reader how you read them, for instance because you used
+the machine-readable text or the English translation rather than the PDFs, add
+this corpus as a secondary reference:
+
+- Sherratt, K. (2026). *bvd-sitreps: a machine-readable corpus of the INSP
+  situation reports for the 2026 DRC Bundibugyo virus outbreak.*
+  <https://github.com/epiforecasts/bvd-sitreps>.
+
+[CITATION.cff](CITATION.cff) carries that secondary reference in a form GitHub
+and reference managers can read. For any individual figure, cite the report it
+appears in: the source PDF is the authority, and each file here records which
+one it came from.
 
 ## Contributing
 
-Corrections are the most valuable contribution, because nothing here has been
-read by a person. See [CONTRIBUTING.md](CONTRIBUTING.md).
+Contributions of any kind are welcome, from a one-line correction to a new
+pipeline step. See [CONTRIBUTING.md](CONTRIBUTING.md).
 
 ## Licence
 

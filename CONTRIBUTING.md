@@ -5,12 +5,15 @@
 Issues and pull requests are welcome at
 [epiforecasts/bvd-sitreps](https://github.com/epiforecasts/bvd-sitreps).
 
-The most useful contribution is a correction. Every page is machine
-transcribed and machine translated with no human review, so if you read a
-report here and a figure is wrong, please
+Contributions of every kind are welcome: a correction, a bug report, a new
+pipeline step, a better prompt, or a question about how something works.
+
+Corrections are especially easy to make and especially valuable, because every
+page is machine transcribed and translated with no human review. If you read a
+report here and a figure looks wrong, please
 [open an issue](https://github.com/epiforecasts/bvd-sitreps/issues) with the
-report number and what the source PDF says. That is worth more than any
-change to the code.
+report number and what the source PDF says. No need to work out the cause; the
+report number is enough to go on.
 
 ## What this repository is for
 
