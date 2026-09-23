@@ -31,6 +31,8 @@ reads this corpus.
 | `R/03-tables-to-csv.R` | extracts each report's tables to `data/csv/` |
 | `R/04-translate.R` | translates to English and writes the Quarto pages in `docs/` |
 | `R/05-check-corpus.R` | the QA gate: checks the corpus against the PDFs and exits non-zero if it does not hold up |
+| `R/06-fetch-who.R` | fetches WHO's Disease Outbreak News and the AFRO weekly situation reports, and renders both to the corpus |
+| `R/lib/who.R` | the WHO clients: the Disease Outbreak News API, IRIS (DSpace), and PDF text extraction |
 | `R/lib/gemini.R` | the model client, with the API and Antigravity CLI backends |
 | `assets/prompt-*.md` | the transcription and translation prompts |
 | `data/manifest.csv` | every PDF: source URL, md5, pages, text-layer size |

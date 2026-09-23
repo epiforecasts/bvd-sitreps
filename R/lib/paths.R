@@ -19,7 +19,23 @@ csv_dir <- function(...) here::here("data", "csv", ...)
 #' English translations, one Quarto page per report.
 docs_dir <- function(...) here::here("docs", ...)
 
+#' WHO's own accounts of the same outbreak, kept apart from INSP's because
+#' they are a different publisher under a different licence. Disease Outbreak
+#' News is prose from an API; the AFRO weekly external situation reports are
+#' PDFs from IRIS with a text layer.
+who_don_dir <- function(...) here::here("data", "corpus", "who-dons", ...)
+
+who_afro_dir <- function(...) here::here("data", "corpus", "who-afro", ...)
+
+who_raw_dir <- function(...) here::here("data", "raw-who", ...)
+
+who_pdf_dir <- function(...) here::here("data", "pdf-who", ...)
+
 manifest_path <- function() here::here("data", "manifest.csv")
+
+#' One row a WHO document, both kinds, so a reader can see what is held
+#' without walking two directories.
+who_manifest_path <- function() here::here("data", "manifest-who.csv")
 
 qa_path <- function() here::here("data", "corpus-qa.csv")
 
@@ -29,7 +45,8 @@ log_dir <- function(...) here::here("outputs", "logs", ...)
 #' from carrying its own dir.create calls.
 ensure_dirs <- function() {
     for (d in c(pdf_dir(), corpus_fr_dir(), corpus_tables_dir(),
-                csv_dir(), docs_dir(), log_dir())) {
+                csv_dir(), docs_dir(), log_dir(),
+                who_don_dir(), who_afro_dir(), who_raw_dir(), who_pdf_dir())) {
         dir.create(d, recursive = TRUE, showWarnings = FALSE)
     }
     invisible(NULL)

@@ -1,0 +1,42 @@
+---
+title: "WHO reports on this outbreak"
+listing:
+  id: afro
+  contents: docs-who
+  sort: "date desc"
+  type: table
+  fields: [date, title]
+  date-format: "YYYY-MM-DD"
+---
+
+WHO writes about this outbreak from outside the response, in English, on its own schedule. Two publications are held here.
+
+## Weekly external situation reports
+
+Published by the WHO Regional Office for Africa as PDFs in IRIS, and republished here as text so they can be searched, linked and quoted. 19 reports, 2026-05-18 to 2026-09-20.
+
+::: {#afro}
+:::
+
+## Disease Outbreak News
+
+WHO publishes these as web pages already, so they are linked rather than copied. 12 cover this outbreak.
+
+| date | title |
+|---|---|
+| 2026-05-16 | [Ebola disease caused by Bundibugyo virus, Democratic Republic of the Congo & Uganda](https://www.who.int/emergencies/disease-outbreak-news/item/2026-DON602) |
+| 2026-05-21 | [Ebola disease caused by Bundibugyo virus – Democratic Republic of the Congo](https://www.who.int/emergencies/disease-outbreak-news/item/2026-DON603) |
+| 2026-05-29 | [Ebola disease caused by Bundibugyo virus, Democratic Republic of the Congo & Uganda](https://www.who.int/emergencies/disease-outbreak-news/item/2026-DON605) |
+| 2026-06-08 | [Ebola disease caused by Bundibugyo virus, Democratic Republic of the Congo & Uganda](https://www.who.int/emergencies/disease-outbreak-news/item/2026-DON606) |
+| 2026-06-13 | [Ebola disease caused by Bundibugyo virus, Democratic Republic of the Congo & Uganda](https://www.who.int/emergencies/disease-outbreak-news/item/2026-DON607) |
+| 2026-06-19 | [Ebola disease caused by Bundibugyo virus, Democratic Republic of the Congo & Uganda](https://www.who.int/emergencies/disease-outbreak-news/item/2026-DON608) |
+| 2026-07-03 | [Ebola disease caused by Bundibugyo virus, Democratic Republic of the Congo & Uganda](https://www.who.int/emergencies/disease-outbreak-news/item/2026-DON612) |
+| 2026-07-17 | [Ebola disease caused by Bundibugyo virus, Democratic Republic of the Congo & Uganda](https://www.who.int/emergencies/disease-outbreak-news/item/2026-DON613) |
+| 2026-08-01 | [Ebola disease caused by Bundibugyo virus - Democratic Republic of the Congo](https://www.who.int/emergencies/disease-outbreak-news/item/2026-DON614) |
+| 2026-08-14 | [Ebola disease caused by Bundibugyo virus - Democratic Republic of the Congo](https://www.who.int/emergencies/disease-outbreak-news/item/2026-DON615) |
+| 2026-08-28 | [Ebola disease caused by Bundibugyo virus - Democratic Republic of the Congo](https://www.who.int/emergencies/disease-outbreak-news/item/2026-DON616) |
+| 2026-09-10 | [Ebola disease caused by Bundibugyo virus - Democratic Republic of the Congo](https://www.who.int/emergencies/disease-outbreak-news/item/2026-DON617) |
+
+## Terms
+
+Both publications are © World Health Organization, licensed [CC BY-NC-SA 3.0 IGO](https://creativecommons.org/licenses/by-nc-sa/3.0/igo/): non-commercial use, attribution to WHO, share alike. That is not the licence on this repository's own code and translations. WHO does not endorse this site or any use made of its material here.

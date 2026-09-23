@@ -6,13 +6,20 @@ project:
   # files and doubled the render.
   render:
     - index.qmd
+    - who.qmd
     - docs/*.qmd
+    - docs-who/*.qmd
 
 website:
   title: "Ebola BVD 2026: Outbreak Sitreps"
   description: "Automated translation of Ebola-BVD 2026 outbreak situation reports"
   site-url: "https://epiforecasts.io/bvd-sitreps"
   navbar:
+    left:
+      - text: "INSP reports"
+        href: index.qmd
+      - text: "WHO reports"
+        href: who.qmd
     right:
       - icon: github
         href: https://github.com/epiforecasts/bvd-sitreps

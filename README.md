@@ -18,12 +18,33 @@ This repository holds extraction and translation only, aiming to support analysi
 |---|---|
 | `data/corpus/fr/` | French transcription of each report, one markdown file. The corpus of record |
 | `data/corpus/tables/` | Each report's tables as JSON |
+| `data/corpus/who-dons/` | WHO Disease Outbreak News on this outbreak, 12 documents, English |
+| `data/corpus/who-afro/` | WHO AFRO weekly external situation reports, 19 documents, English |
 | `data/csv/` | The same tables, one CSV each |
 | `data/manifest.csv` | Every PDF: source URL, md5, pages, text-layer size |
 | `data/corpus-qa.csv` | Per-report checks of the transcription against the PDF |
 | `docs/` | English translation of each report, rendered as the site |
 
-Files are named by a three-digit report number (`040`), with `_v2` for a reissue.
+Files are named by a three-digit report number (`040`), with `_v2` for a reissue. WHO documents keep the publisher's own identifier: `2026-DON617` for a Disease Outbreak News, `afro-19` for a weekly situation report.
+
+## WHO's account of the same outbreak
+
+INSP's daily reports are the record of what the response said. WHO writes
+about the same epidemic from outside it, in English and on a different
+schedule, and holding both lets an analysis disagree with either.
+
+| | |
+|---|---|
+| Disease Outbreak News | 12 documents, 16 May to 10 September, fetched from WHO's public API. National in scope: case counts, health zones affected, and the international dimension the INSP reports do not cover |
+| AFRO weekly external situation reports | 19 documents, fetched from IRIS. Longer, and the only source here that names treatment centres alongside bed capacity and occupancy |
+
+Neither needs a model. A Disease Outbreak News is already prose in an API
+field, and the AFRO PDFs carry a text layer, so both are read with `pdftools`
+and string handling. Only INSP's scanned PDFs need transcription.
+
+Both are © World Health Organization, licensed CC BY-NC-SA 3.0 IGO, which is
+not this repository's licence. `data/corpus/LICENSE-who.md` records the terms:
+non-commercial use, attribution to WHO, share alike.
 
 ## Method
 
@@ -53,6 +74,12 @@ Requirements: R with `data.table`, `httr2`, `jsonlite`, `pdftools`, `here`, `bas
 
 ```bash
 Rscript R/main.R
+```
+
+WHO's documents are fetched separately, and need no API key:
+
+```bash
+Rscript R/06-fetch-who.R            # both; --dons or --afro for one
 ```
 
 Transcription takes a few minutes per report, so a first build runs for hours. Run it detached:

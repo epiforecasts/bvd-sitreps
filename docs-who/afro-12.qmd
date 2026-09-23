@@ -1,0 +1,627 @@
+---
+title: "WHO AFRO weekly situation report 12"
+subtitle: "Data as of 2026-08-02"
+date: 2026-08-02
+source_url: "https://iris.who.int/handle/10665/386882"
+publisher: "World Health Organization Regional Office for Africa"
+licence: "CC BY-NC-SA 3.0 IGO"
+lang: en
+---
+
+::: {.callout-note}
+## Published by WHO, republished here as text
+
+This is the text layer of a PDF published by the WHO Regional Office for Africa, extracted without change and laid out as the PDF lays it out. The record of authority is [the PDF in IRIS](https://iris.who.int/handle/10665/386882).
+
+© World Health Organization. Licensed [CC BY-NC-SA 3.0 IGO](https://creativecommons.org/licenses/by-nc-sa/3.0/igo/). WHO does not endorse this site, its authors, or any use made of this material here.
+:::
+
+```{.text}
+
+[PAGE 1]
+
+BUNDIBUGYO VIRUS DISEASE OUTBREAK
+dr
+Democratic Republic of the Congo | Uganda | France
+Weekly External Situation Report 12, Data as of 02 August 2026
+
+Key Figures at a Glance (Democratic Republic of the Congo)
+
+5 Provinces 4 Provinces 727 72.4% 18 276
+51 Health Zones 42 Health Zones Cases Bed Contacts
+Affected Active Transmission Recovered Occupancy to follow
+
+707 140 43 1 050 19
+Active Health Worker Health Worker Bed Testing
+Cases in Isolation Cases Deaths Capacity Laboratories
+
+Summary
+New New
+Total Cases Total Deaths CFR (%)
+Confirmed Confirmed Confirmed Confirmed Probable Probable
+Country (Confirmed & (Confirmed & Confirmed &
+Cases (Last 7 Deaths (Last 7 Cases (total) Deaths (total) Cases Deaths
+Probable) Probable) Probable
+days) days)
+
+Democratic
+Republic of
+the Congo
+540 270 3 802 1 707 - - 3 802 1 707 44.9%
+
+Uganda 0 0 20 2 1 1 21 3 14.3%
+
+France 0 0 1 0 0 0 1 0 0.0%
+Note: Only confirmed and probable cases are reported.
+
+Event description
+The Bundibugyo virus disease (BVD) outbreak in the Democratic Republic of the Congo continues to expand rapidly,
+with sustained transmission, persistently high mortality, and ongoing geographic spread. It is now the largest BVD
+outbreak ever recorded and the second largest Ebola disease outbreak in history after the 2013 – 2016 West Africa
+epidemic. Since its detection only a few months ago, the epidemic has grown at an exceptional rate, highlighting its
+intensity and the challenges facing response efforts. Although no new international spread has been detected,
+continued transmission indicates that the outbreak remains in an expansion phase and continues to pose a high risk
+of regional and international spread.
+
+[PAGE 2]
+
+Democratic Republic of the Congo
+Since the last update of 26 July 2026 (Weekly External Situation Report #11), the Democratic Republic of the Congo
+has reported an additional 540 confirmed cases and 270 confirmed deaths, representing increases of 16.6% and
+18.8%, respectively, in cumulative confirmed cases and deaths. Although the absolute numbers of newly reported
+cases and deaths remain substantial, the proportional increases are markedly lower than those reported during the
+previous reporting period, reflecting the absence of the large retrospective data reconciliation that contributed to
+last week's increase. Nevertheless, the reporting of more than 500 additional confirmed cases and more than 250
+confirmed deaths within a single week indicates that transmission remains intense and that the outbreak continues
+to expand. The crude case fatality ratio (CFR) increased from 44.1% to 44.9%, reflecting persistently high mortality
+despite ongoing response efforts. During the reporting period, the cumulative number of affected health zones
+increased from 48 to 51, with Kabondo and Wanie-Rukula in Tshopo Province and Lubero in North Kivu Province
+becoming the latest affected health zones, further demonstrating the continued geographic expansion of the
+outbreak.
+Figure 1. Weekly trend of confirmed cases of Bundibugyo virus disease in the Democratic Republic of the Congo
+by epidemiological week of notification, epidemiological weeks 18 – 31, 2026
+
+Note: The shaded grey area for the most recent epidemiological week represents incomplete data due to reporting delays.
+
+During the last 21 days, transmission remained highly concentrated geographically, with an additional 1,867
+confirmed cases and 953 confirmed deaths reported nationally. Approximately 87.9% (n=1,641) of recently reported
+confirmed cases and 84.8% (n=808) of deaths occurred in Ituri Province, with the Bunia–Rwampara–Mongbwalu–
+Nizi corridor continuing to represent the principal transmission focus. North Kivu, Haut-Uélé, and Tshopo together
+accounted for 223 cases (11.9%) and 144 deaths (15.1%), while South Kivu reported no new confirmed cases.
+However, an imported confirmed death from Tshopo Province generated new contacts requiring follow-up in South
+Kivu. Of the 51 affected health zones, 42 reported at least one confirmed case during the preceding 21 days, whereas
+nine health zones (Gety, Kambala, Lubunga, Mangobo, Mabalako, Makiso-Kisangani, Miti-Murhesa, Rungu, and
+Vuhovi) have not reported a confirmed case for more than three weeks, suggesting that transmission may have been
+interrupted in these areas, provided surveillance remains sufficiently sensitive to detect any ongoing transmission.
+
+1
+
+[PAGE 3]
+
+The largest increases in confirmed cases over the previous 21 days were recorded in Bunia (312 cases), Nizi (285),
+Rwampara (216), Mongbwalu (207), Katwa (104), Lita (84), Nia-Nia (66), Mangala (63), Fataki (31), and Butembo (29).
+Together, these ten health zones accounted for approximately 84% of all additional confirmed cases reported
+nationally during the period. Bunia, Nizi, Mongbwalu, and Rwampara remained the principal transmission corridor,
+accounting for nearly 55% of all newly reported confirmed cases. Continued increases in Lita, Nia-Nia, Mangala, and
+Fataki indicate sustained transmission within the Ituri epicentre, while ongoing transmission in Katwa and Butembo
+confirms persistent transmission in North Kivu. Continued increases in Isiro and Wamba further indicate that the
+outbreak is becoming increasingly established in Haut-Uélé Province.
+Mortality remained concentrated within the same transmission corridor driving the epidemic. More than half (55.4%)
+of all confirmed deaths continue to occur outside designated treatment facilities, indicating that many patients are
+still being detected only late in illness or after death. Delayed case detection and delayed access to specialised
+treatment therefore remain major contributors to mortality. Recent analyses indicate a median interval of eight days
+from symptom onset to death, with almost half of deaths occurring within the first week of illness, emphasizing the
+narrow window available for life-saving clinical intervention.
+Figure 2. Reported Bundibugyo virus disease deaths in the Democratic Republic of the Congo by place of
+occurrence, 24 June – 02 August 2026
+
+Children younger than five years continue to experience disproportionately high mortality. Although they account
+for fewer than one in ten confirmed cases nationally, they represent approximately 17% of all confirmed deaths,
+experience the highest case fatality ratios of any age group, and have the shortest interval between symptom onset
+and death. Conversely, adults aged 20 – 59 years continue to account for most transmission, representing nearly
+two-thirds of confirmed cases. These findings suggest that outbreak control should continue to prioritise interrupting
+transmission among working-age adults while simultaneously strengthening rapid identification and referral of
+young children to reduce mortality.
+
+2
+
+[PAGE 4]
+
+Figure 3. Bundibugyo virus disease case fatality ratio by age group and sex, Democratic Republic of the Congo,
+data as of 02 August 2026 (n=1,052 deaths)
+
+Figure 4. Weekly proportion of Bundibugyo virus disease deaths by age group, Democratic Republic of the Congo,
+data as of 02 August 2026 (n=1,052 deaths)
+
+3
+
+[PAGE 5]
+
+Surveillance performance remains suboptimal. As of 2 August 2026, 18,276 contacts were under follow-up nationally,
+of whom 14,466 (79.2%) were successfully seen during the previous 24 hours, remaining well below the operational
+target of 95%. Contact tracing capacity continues to lag behind the growing number of contacts to follow, particularly
+in Ituri and North Kivu, while persistently low follow-up rates and intermittent reporting in Haut-Uélé and Tshopo
+limit interpretation of recent trends.
+
+Figure 5. Trend in Contacts Under Follow-up and Daily Contact Follow-up Performance, Democratic Republic of
+the Congo, 22 June - 02 August 2026
+
+Since the beginning of the outbreak, the Democratic Republic of the Congo has reported 3,802 confirmed cases,
+including 1,707 confirmed deaths, corresponding to a crude CFR of 44.9%. The outbreak now affects 51 health zones
+across five provinces. Ituri Province remains the epicentre, accounting for 3,317 confirmed cases (87.2%) and 1,382
+confirmed deaths (81.0%) nationwide. The most affected health zones remain Bunia (914 cases, 270 deaths),
+Rwampara (655 cases, 263 deaths), Mongbwalu (552 cases, 263 deaths), Nizi (402 cases, 194 deaths), Lita (141 cases,
+84 deaths), and Nyankunde (115 cases, 34 deaths) in Ituri Province, together with Katwa (186 cases, 122 deaths) and
+Butembo (87 cases, 69 deaths) in North Kivu Province. Collectively, these health zones account for the overwhelming
+majority of confirmed cases and deaths reported nationwide.
+
+4
+
+[PAGE 6]
+
+Figure 6. Geographical distribution of cumulative confirmed cases of Bundibugyo virus disease in the Democratic
+Republic of the Congo and Uganda, data as of 02 August 2026
+
+Uganda and France
+No new cases have been reported in Uganda or France since the previous update. In Uganda, the last confirmed
+patient was discharged on 16 July 2026, and 17 days have passed without a new confirmed case. All identified
+contacts have completed the required 21-day follow-up, and no contacts remain under active monitoring. In France,
+the imported confirmed BVD case reported on 24 June 2026 recovered and was discharged on 4 July 2026 after two
+consecutive negative PCR test results. No secondary transmission was identified, and all five flight contacts
+completed their 21-day follow-up without developing symptoms. As of 2 August 2026, 29 days have passed since the
+patient's discharge without any additional confirmed BVD cases being reported from France. Despite the absence of
+new cases, Uganda remains at high risk of reintroduction because of the ongoing outbreak in the neighbouring
+Democratic Republic of the Congo.
+Risk Assessment
+
+The overall public health risk in the Democratic Republic of the Congo remains very high. The outbreak continues to
+expand, with sustained transmission, persistently high mortality, and continued spread to newly affected health
+zones. Transmission remains concentrated within the Bunia–Rwampara–Mongbwalu–Nizi corridor, while ongoing
+spread in Haut-Uélé and Tshopo indicates progressive geographic expansion beyond the original epicentre.
+
+The risk of further national and international spread remains high because transmission continues along major
+
+5
+
+[PAGE 7]
+
+internal and cross-border mobility corridors linking the outbreak to Uganda, South Sudan, and other neighbouring
+countries. Although Uganda and France have reported no additional cases since their previous imported events,
+sustained transmission in eastern Democratic Republic of the Congo continues to pose a significant risk of cross-
+border spread. Continued cross-border surveillance, rapid information sharing, and preparedness remain essential
+to ensure early detection and rapid containment of any imported cases.
+
+Figure 7. Bundibugyo virus disease transmission risk along major mobility corridor in the Democratic Republic of
+the Congo, data as of 02 August 2026
+
+6
+
+[PAGE 8]
+
+Table 1. Confirmed cases and deaths of Bundibugyo virus disease in the Democratic Republic of the Congo
+and Uganda by geographic area, as of 02 August 2026
+
+Province/ Health zone/ Cum. Cum. Cases (last Deaths (last Date last Days since
+Country CFR %
+Region district cases deaths 21 d) 21 d) case last case
+Boma Mangbetu 13 4 30.8 11 3 2026-07-29 4
+Democratic Isiro 19 11 57.9 18 10 2026-08-02 0
+Republic Haut-Uélé Pawa 12 10 83.3 9 7 2026-08-01 1
+of the Congo Rungu 1 0 0.0 1 0 2026-07-24 9
+Wamba 16 9 56.2 8 1 2026-08-01 1
+Subtotal—Haut-Uélé
+61 34 55.7 47 21
+
+Adja 11 1 9.1 11 1 2026-07-26 7
+Ariwara 7 2 28.6 6 1 2026-07-20 13
+Aru 5 5 100.0 2 4 2026-07-22 11
+Aungba 10 5 50.0 4 3 2026-08-02 0
+Bambu 64 15 23.4 33 5 2026-08-02 0
+Boga 1 1 100.0 0 0 2026-07-11 22
+Bunia 914 270 29.5 380 98 2026-08-02 0
+Damas 18 8 44.4 13 8 2026-08-01 1
+Drodro 11 6 54.5 6 3 2026-08-01 1
+Fataki 35 17 48.6 30 13 2026-07-31 2
+Gety 1 0 0.0 0 0 2026-05-21 73
+Kambala 2 0 0.0 0 0 2026-05-30 64
+Kilo 29 11 37.9 20 10 2026-07-27 6
+Democratic Komanda 37 27 73.0 10 17 2026-08-01 1
+Republic Ituri
+of the Congo Lita 141 84 59.6 82 61 2026-08-02 0
+Logo 9 4 44.4 2 4 2026-07-24 9
+Lolwa 7 2 28.6 5 1 2026-07-29 4
+Mahagi 4 1 25.0 4 1 2026-07-27 6
+Mambasa 10 6 60.0 5 2 2026-08-01 1
+Mandima 16 12 75.0 8 9 2026-07-27 6
+Mangala 105 66 62.9 55 37 2026-08-01 1
+Mongbwalu 552 263 47.6 216 81 2026-08-02 0
+Nia-Nia 104 57 54.8 68 50 2026-08-02 0
+Nizi 402 194 48.3 271 144 2026-08-02 0
+Nyankunde 115 34 29.6 16 8 2026-07-31 2
+Rimba 9 4 44.4 5 4 2026-07-24 9
+Rwampara 655 263 40.2 250 168 2026-08-02 0
+Tchomia 43 24 55.8 24 20 2026-08-02 0
+Subtotal—Ituri
+3,317 1,382 41.7 1,526 751
+
+Beni 64 49 76.6 33 29 2026-08-02 0
+Butembo 87 69 79.3 41 47 2026-08-01 1
+Goma 1 0 0.0 0 0 2026-05-25 69
+Kalunguta 7 4 57.1 5 3 2026-08-02 0
+Katwa 186 122 65.6 110 67 2026-08-02 0
+Democratic Kyondo 13 10 76.9 6 7 2026-07-24 9
+Republic North Kivu
+of the Congo Lubero 1 1 100.0 1 1 2026-08-02 0
+Mabalako 1 0 0.0 0 0 2026-06-13 50
+Masereka 5 1 20.0 2 1 2026-07-22 11
+Musienene 43 25 58.1 32 23 2026-08-02 0
+Oicha 4 3 75.0 1 1 2026-07-19 14
+Vuhovi 2 1 50.0 1 0 2026-08-02 0
+
+7
+
+[PAGE 9]
+
+Province/ Health zone/ Cum. Cum. Cases (last Deaths (last Date last Days since
+Country CFR %
+Region district cases deaths 21 d) 21 d) case last case
+Subtotal—North Kivu
+414 285 68.8 232 179
+
+Democratic
+Republic South Kivu Miti-Murhesa 3 1 33.3 0 0 2026-05-20 74
+of the Congo
+Subtotal—South Kivu
+3 1 33.3 0 0
+
+Kabondo 1 1 100.0 1 1 2026-07-27 6
+Democratic Lubunga 1 0 0.0 0 0 2026-07-11 22
+Republic Tshopo Makiso-Kisangani 3 3 100.0 0 0 2026-07-11 22
+of the Congo Mangobo 1 1 100.0 0 0 2026-07-11 22
+Wanie-Rukula 1 0 0.0 1 0 2026-07-29 4
+Subtotal—Tshopo
+7 5 71.4 2 1
+
+Uganda Kampala Kampala 21 3 14.3 0 0 2026-06-21 42
+Subtotal—Uganda
+21 3 14.3 0 0
+
+Cells shaded green indicate health zones with no newly reported confirmed case for 21 or more days. Values are reproduced as published in the source situation
+report.
+
+Public health response
+Coordination
+• WHO continues to coordinate the international response to the BVD outbreak under the Public Health
+Emergency of International Concern (PHEIC) framework, working closely with the Ministries of Health of
+the Democratic Republic of the Congo and Uganda, neighbouring countries, and technical partners.
+
+• WHO, the Africa Centres for Disease Control and Prevention (Africa CDC), and partners continue to
+implement the Joint Continental Preparedness and Response Plan. Since its launch in June, the plan has
+remained the primary continental coordination mechanism for supporting preparedness and response
+across affected and at-risk African countries.
+
+• National coordination in the Democratic Republic of the Congo remains fully activated through the Public
+Health Emergency Operations Centre (PHEOC), with multisectoral response activities continuing across all
+five affected provinces.
+
+• Cross-border coordination with neighbouring countries remains a priority because of sustained
+transmission along major population movement corridors linking the eastern Democratic Republic of the
+Congo with Uganda and South Sudan.
+
+• The National Incident Management Systems in the Democratic Republic of the Congo and Uganda
+continued to receive operational support from WHO; Africa CDC; the United Nations Children's Fund
+(UNICEF); the International Organization for Migration (IOM); Médecins Sans Frontières (MSF); the Alliance
+for International Medical Action (ALIMA); International Medical Corps (IMC); Samaritan's Purse; the
+
+8
+
+[PAGE 10]
+
+European Union (EU); the Global Outbreak Alert and Response Network (GOARN); Emergency Medical
+Teams (EMTs); the Health Cluster; the Standby Partnership (SBP); and other partners through technical
+assistance, expert deployments, surge capacity, laboratory strengthening, logistics, and field operations.
+
+Operations Support and Logistics (OSL)
+• Procurement and deployment of critical response supplies continued during the reporting period. The total
+emergency supply pipeline increased from approximately US$10.62 million to US$11.29 million. Of this
+amount, the value of delivered supplies increased from US$3.59 million (34%) to US$4.14 million (37%), while
+the value of supplies in transit decreased from US$2.86 million (27%) to US$2.52 million (22%). The value of
+commodities not yet ready for shipment increased to US$4.64 million (41%), reflecting continued
+procurement to support the expanding response.
+
+• Delivery of emergency supplies continued to increase during the reporting period. The cumulative value of
+delivered commodities rose by approximately US$550,000, while delivered cargo increased from 265.5
+metric tons to 312.5 metric tons and from 1,583.2 cubic metres to 1,827.2 cubic metres, further
+strengthening operational support for response activities in the Ituri and Kivu hubs.
+
+• Essential response commodities continued to reach affected areas, including 66,974 hooded coveralls, more
+than 5.53 million examination gloves, 158,800 Level 3 gowns, 261 hospital beds, 20,016 PCR tests, 10,076
+infrared thermometers, patient liners, medicines, and laboratory equipment. Personal protective equipment
+(PPE) and infection prevention and control (IPC) supplies remained the largest procurement category
+(US$5.99 million), followed by medical equipment (US$1.82 million), laboratory supplies (US$1.18 million),
+logistics equipment (US$1.00 million), and medicines (US$0.89 million).
+
+• Supply chain operations continued to support case management, laboratory diagnostics, surveillance,
+infection prevention and control, and field operations. Although the proportion of supplies in transit declined
+to 22%, 41% of the procurement pipeline (US$4.64 million) remained not yet ready for shipment, highlighting
+the need for continued monitoring to ensure the timely availability of critical response supplies as the
+outbreak continues to expand.
+
+• Procurement and shipment coordination continued through WHO's international supply network and
+logistics hubs in Kinshasa (Democratic Republic of the Congo), Nairobi (Kenya), Dubai (United Arab Emirates),
+and Dakar (Senegal). Most procurement (81%; US$8.85 million) continued to originate directly from
+international suppliers, while regional logistics hubs supported consolidation, onward transportation,
+shipment tracking, and distribution to affected areas..
+
+Surveillance
+• Surveillance activities continued across affected and at-risk areas, including active case finding, alert
+management, case investigation, contact tracing, mortality surveillance, community-based surveillance, and
+cross-border surveillance.
+
+• A high volume of alerts continued to be reported. On 2 August 2026, 1,265 alerts were reported in the
+Democratic Republic of the Congo, of which 1,164 (92.0%) were investigated within 24 hours. Most alerts
+originated from North Kivu (731) and Ituri (531), while three alerts were reported from South Kivu.
+Investigation performance was highest in South Kivu (100%), followed by North Kivu (99.6%) and Ituri
+
+9
+
+[PAGE 11]
+
+(81.5%). Reporting from Haut-Uélé and Tshopo was unavailable, limiting the assessment of surveillance
+performance in these provinces. A total of 275 suspected cases, including 123 community deaths, were
+validated.
+
+• Surveillance at points of entry (PoE) and points of control (PoC) continued to be strengthened. As of 2 August
+2026, 72.7% of planned PoE/PoC sites were operational nationally, including 100% of planned sites in Ituri
+(60/60), North Kivu (18/18), and South Kivu (9/9), compared with 30.3% in Haut-Uélé and 21.1% in Tshopo.
+During the reporting period, 253,043 travellers passed through operational PoE/PoC sites, of whom 98.0%
+were screened for BVD symptoms. Four alerts were generated through PoE/PoC surveillance, two of which
+were validated as live alerts. One community death was intercepted and sampled. No confirmed cases were
+identified through PoE/PoC screening during the reporting period.
+
+• Contact tracing continued but remained below the operational target. As of 2 August 2026, 18,276 contacts
+were under follow-up, of whom 14,466 (79.2%) were successfully seen during the previous 24 hours,
+remaining well below the operational target of 95%. Follow-up performance was highest in South Kivu
+(100%), followed by Ituri (82.1%), North Kivu (74.7%), and Haut-Uélé (66.7%). No contact tracing data were
+reported from Tshopo during the reporting period, limiting the assessment of contact tracing performance
+in that province.
+
+Laboratory
+• Laboratory decentralization continued to expand with the goal to reduce turnaround times. As of 29 July
+2026, 19 diagnostic laboratories and testing units were operational across Ituri, South Kivu, Tshopo, Haut-
+Uélé and North Kivu provinces, in addition to the Institut National de Recherche Biomédicale (INRB) in
+Kinshasa and INRB-Goma laboratories.
+
+• Laboratory testing capacity has been further strengthened through the deployment of 54 laboratory experts
+(approximately five per facility), as well as the distribution of 2496 polymerase chain reaction (PCR) test kits
+and 14,000 RadiOne tests.
+
+• Laboratory testing throughput remained high, particularly in Ituri, where positivity rates ranged from 37.9%
+to 63.3%, indicating sustained intense transmission, while North Kivu maintained lower positivity rates
+between 3% and 4.2%, alongside the clearance of residual testing backlog.
+
+• Despite ongoing scale-up efforts, laboratory operations continued to face challenges related to delayed
+result reporting, weak data integration and information management systems, limited logistics capacity, and
+shortages of complementary diagnostic tests for clinical care.
+
+Case Management
+• Case management capacity expansion continued to expand across the Democratic Republic of the Congo,
+with bed capacity increasing to 1050 across 33 treatment facilities.
+
+• As of 2 August 2026, 707 patients were in isolation, corresponding to an overall bed occupancy rate of 67.3%.
+However, bed occupancy is not uniformed and remained particularly high in North Kivu (131.9%).
+
+• Clinical outcomes continued to improve, with cumulative recoveries increasing to 727 by 2 August 2026,
+reflecting the continued provision of supportive clinical care despite increasing case numbers.
+
+10
+
+[PAGE 12]
+
+• Capacity building on management of critically ill patients has been initiated with 3 cycles of training
+conducted. Over 40 healthcare workers have been trained on the use of High Flow Oxygen, with an additional
+20 undergoing training for subsequent deployment in various treatment centres across affected provinces.
+
+Operational Research
+• Clinical research and access to investigational therapeutics continued through the WHO-supported
+PARTNERS clinical trial, which began on 2 July 2026 in the Democratic Republic of the Congo and is evaluating
+MBP134 and remdesivir for the treatment of BVD. This is complemented by the partner-supported EBO-PEP
+trial, which commenced on 14 July 2026 and is assessing obeldesivir as post-exposure prophylaxis for high-
+risk contacts.
+
+• Additionally, Phase I evaluation of vaccine candidates for Bundibugyo virus are underway in the United
+Kingdom and Canada with additional studies expected to begin in Africa. WHO continues to support research
+preparedness through the development of standardized epidemiologic protocols, a regional research
+tracking system, and community engagement materials to improve understanding of clinical research.
+
+Infection Prevention and Control (IPC) and Water, Sanitation and Hygiene (WASH)
+• In the Democratic Republic of the Congo, as of 26 July 2026, 947 health care facilities (HCFs) had been
+assessed for IPC readiness across the four affected provinces (Ituri, North Kivu, South Kivu, and Tshopo),
+covering 51 health zones. The average overall IPC score was 38.0% (median: 37.1%), indicating that IPC
+capacity across the response area remained critically low compared with the 80% threshold considered
+satisfactory for Ebola preparedness.
+
+• Of the 947 HCFs assessed, 705 (74%) were classified as "Insufficient", 221 (23%) as "Partial", and only 21 (2%)
+met the "Satisfactory" threshold (≥80%). Additionally, 248 facilities (26%) had reported at least one
+suspected or confirmed case, underscoring the urgency of addressing these IPC gaps.
+
+• Across the 17 standardized IPC components assessed, the weakest areas were personal protective
+equipment (PPE) (11%), training (13%), isolation area set-up (17%), post-exposure management (23%), and
+cleaning and disinfection (25%), all of which were rated "Insufficient." Even the strongest-performing
+components – injection safety (75%), patient placement (72%), waste treatment (65%), sterilization (58%),
+and water supply (52%) – remained within the "Partial" category, indicating that no IPC component had yet
+reached the standard required for adequate Ebola response readiness at the national level.
+
+• Healthcare worker infections continued to increase, with 123 infections and 37 deaths reported among
+healthcare workers, corresponding to a CFR of 29.8%. This underscores persistent occupational exposure
+risks and inadequate implementation of IPC measures in health facilities. Gaps also remain in the availability
+of appropriate personal protective equipment (PPE) for different categories of healthcare workers.
+
+• In response to these findings, WHO and partners continued to scale up IPC/WASH interventions across
+affected areas. More than 1,000 frontline health workers, supervisors, hygienists, and members of safe and
+dignified burial (SDB) teams received IPC training. In addition, more than 450 IPC rings were activated,
+resulting in the decontamination of over 1,000 households and health facilities, the distribution of more than
+130 IPC kits to health facilities, and over 450 assessments of exposed health workers. Furthermore, more
+than 115 screening and triage points were established, with over 500 supportive supervision and mentorship
+
+11
+
+[PAGE 13]
+
+visits conducted. IPC/WASH assessments were also completed at all eight Ebola treatment centres (ETCs).
+
+• Safe and dignified burial (SDB) operations and decontamination activities continued across affected health
+zones, including the decontamination of households, health facilities, and transport vehicles linked to
+confirmed cases.
+
+Risk Communication and Community Engagement (RCCE)
+• RCCE activities continued across affected provinces to strengthen community awareness, promote early alert
+reporting, support contact tracing, and SDB operations, particularly in hotspot areas of Ituri and North Kivu.
+Additional RCCE personnel and anthropological expertise were deployed to newly affected provinces to
+strengthen community engagement.
+
+• Community feedback and rapid community assessments continued to inform the response by identifying
+concerns related to transmission risks, access to services, vaccination, and response activities. Findings are
+being translated into community-led interventions and expanded across affected areas of the Democratic
+Republic of the Congo, with plans to extend implementation to Uganda and South Sudan.
+
+• Capacity-building efforts continued through the development of an RCCE Humanizing the Response training
+package and the training of trainers for response partners. A targeted RCCE strategy was also developed for
+IDP camps, incorporating findings from rapid community assessments to strengthen community
+engagement.
+
+• Key RCCE challenges persisted, including delay in intervention services (like SDB), insecurity in hotspot areas,
+limited community trust and acceptance in mining and conflict-affected communities, misinformation, and
+highly mobility of populations. Community engagement efforts therefore remained focused on building trust
+in response services and improving access among high-risk populations.
+
+Preventing and Responding to Sexual Exploitation, Abuse, and Harassment (PRSEAH)
+• National and provincial coordination mechanisms continued to strengthen strategic oversight, operational
+alignment, information sharing, and accountability across all levels of the response.
+
+• PRSEAH activities were expanded through induction briefings, community awareness sessions, and training
+for response workers, healthcare personnel, community leaders, and transport workers across the affected
+provinces.
+
+• Institutional capacity for PRSEAH was further strengthened through the launch of a Health Cluster capacity
+assessment in Ituri and specialized training, enhancing systems for reporting, referral, and the management
+of complaints related to sexual exploitation and abuse.
+
+Public health preparedness
+Operational Readiness
+• Regional preparedness continued to improve during the reporting period. Since the previous update, one
+additional Member State completed and submitted its readiness assessment, increasing coverage from 30
+
+12
+
+[PAGE 14]
+
+to 31 of the 47 Member States (64% to 66%), while the overall assessment completion rate remained high
+at 90%. The average readiness score among Priority 1 and 2 countries remained 58%.
+
+• Repeat readiness assessments expanded from three to six high-priority countries. In addition to Angola,
+South Sudan, and Tanzania, Kenya, Rwanda, and Zambia completed repeat assessments, demonstrating
+continued improvements in national preparedness capacities.
+
+• Regional deployments to strengthen preparedness continued in high-risk Member States. During the
+reporting period, South Sudan was added to the list of countries receiving ongoing regional support,
+alongside Burundi, the Central African Republic, and the Democratic Republic of the Congo.
+
+Border Health, Travel and Mass Gatherings
+• Screening and public health measures have been reinforced at airports, high-risk border crossings, and
+internal transit routes in both the Democratic Republic of the Congo and Uganda. National authorities, the
+International Organization for Migration (IOM), and partners continue to support the implementation of
+WHO border health guidance, strengthen cross-border coordination, and facilitate the timely detection,
+reporting and referral of suspected cases at PoEs and PoCs along priority travel corridors.
+
+• Cross-border preparedness and response are being strengthened through enhanced coordination among the
+Democratic Republic of the Congo, Uganda, and South Sudan to improve the early detection of cases and
+reduce the risk of cross-border spread. Priority actions include strengthening coordinated cross-border
+disease surveillance, event-based surveillance, active case finding, joint investigations and contact tracing
+where required, and real-time information sharing through regular cross-border coordination meetings and
+harmonized reporting mechanisms.
+
+• Priority operational actions include rapid assessments and mapping of PoEs, strengthening surveillance along
+high-risk cross-border mobility corridors, including informal crossings, and major congregation points, and
+ensuring readiness capacities through the provision of trained personnel, equipment, PPE, referral
+mechanisms, disinfectants, risk communication materials and contingency plans for the safe management of
+suspected cases
+
+• Mass gathering risk assessment capacity is being strengthened through training and technical support. The
+postponement of mass gatherings is advised in areas with documented BVD transmission until transmission
+is interrupted, while a risk-based approach is recommended for events held elsewhere in the region.
+
+• Event-specific risk assessments should be conducted using the WHO all-hazards mass gathering risk
+assessment tool. These assessments should be complemented by implementation of measures before,
+during, and after events, as outlined in WHO guidance for mass gatherings attended by individuals from
+areas with documented Bundibugyo virus detection, including the establishment of referral pathways and
+RT-PCR testing capacity.
+
+• Event organisers should distribute participant information to all attendees before and during the event,
+covering BVD symptoms, what to do if feeling unwell, and available health services, in line with WHO
+guidance for mass gathering events attended by individuals from areas with documented BDBV detection.
+
+13
+
+[PAGE 15]
+
+Situation interpretation
+The BVD outbreak in the Democratic Republic of the Congo remains in an expansion phase despite an increasingly
+robust response. Persistently high mortality, frequent community deaths, delayed case detection, and suboptimal
+contact tracing continue to sustain transmission, while weak infection prevention and control in health facilities
+contributes to ongoing healthcare-associated transmission. Although response capacity has expanded substantially,
+including laboratory services, case management, logistics, and regional preparedness, further progress will depend
+on rapidly improving early case detection, achieving high-quality contact tracing, strengthening infection prevention
+and control, reducing community deaths through earlier access to treatment, and maintaining coordinated cross-
+border preparedness to prevent regional and international spread.
+
+14
+
+[PAGE 16]
+
+Contributors Editorial Advisory Group, WHO Regional
+Office for Africa
+• WILLIAMS, George Sie (WHO AFRO)
+• OTSHUDIEMA, John (WHO AFRO) • Dr Marie Roseline Darnycka Belizaire —
+• CONTEH, Ishata (WHO AFRO) Regional Emergency Director, EPR/AFRO
+• MASINA, John (WHO AFRO)
+• MAMADU, Ibrahim (WHO AFRO) • Dr Otim Patrick Ramadan — Programme
+• ROQUILLE, Denise (WHO AFRO) Area Manager, EMR/EPR/AFRO &
+• MUTEBA, Michel (WHO AFRO)
+Deputy Regional Incident Manager, BVD
+Response
+• BORIS, Pavlin (WHO HQ)
+• HAMBLION, Esther (WHO HQ)
+• KASSAMALI, Zyleen (WHO HQ) • Dr Etien Koua — Programme Area
+Manager, HIS/EPR/AFRO
+• DIAZ, Janet Victoria (WHO HQ)
+• ALLAIN IOOS, Sophie (WHO HQ)
+• HAMOUDA, Mahmoud Aly Zeenelabdin (WHO HQ) • Dr Dick Chamla — Programme Area
+• MOLINARO, Paul (WHO HQ)
+Manager, HEP/EPR/AFRO
+• LEGAND, Anaïs (WHO HQ)
+• WAUQUIER, Nadia (WHO HQ) • Mr Adama Thiam — Programme Area
+• SODAGAR, Vaishali (WHO HQ) Manager, OSL/EPR/AFRO
+• WANG, Ninglan (WHO HQ)
+• SELENIC MINET, Dubravka (WHO HQ)
+• ALEXANDROVA EZERSKA, Lidia (WHO HQ)
+• MORAN, Thomas (WHO HQ)
+• RUBANGAKENE, Moses (WCO Uganda)
+• MGAMB, Elizabeth Adhiambo (WCO Uganda)
+• FOTSING, Richard (WCO DR Congo)
+• AJONG, Brian (WCO DR Congo)
+
+© WHO Regional Office for Africa
+This is not an official publication of the World Health Organization.
+
+Correspondence on this publication may be directed to:
+Health Emergency Intelligence, Surveillance and Laboratory Programme
+WHO Emergency Preparedness and Response
+WHO Regional Office for Africa
+Email: afrooutbreak@who.int
+Subscribe here to receive regular updates via email: SUBSCRIBE
+
+15
+Requests for permission to reproduce or translate this publication – whether for sale or for noncommercial
+distribution – should be sent to the same addresses.
+```
