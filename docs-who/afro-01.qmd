@@ -1,0 +1,307 @@
+---
+title: "WHO AFRO weekly situation report 1"
+subtitle: "Data as of 2026-05-18"
+date: 2026-05-18
+source_url: "https://iris.who.int/handle/10665/385886"
+publisher: "World Health Organization Regional Office for Africa"
+licence: "CC BY-NC-SA 3.0 IGO"
+lang: en
+---
+
+::: {.callout-note}
+## Published by WHO, republished here as text
+
+This is the text layer of a PDF published by the WHO Regional Office for Africa, extracted without change and laid out as the PDF lays it out. The record of authority is [the PDF in IRIS](https://iris.who.int/handle/10665/385886).
+
+© World Health Organization. Licensed [CC BY-NC-SA 3.0 IGO](https://creativecommons.org/licenses/by-nc-sa/3.0/igo/). WHO does not endorse this site, its authors, or any use made of this material here.
+:::
+
+```{.text}
+
+[PAGE 1]
+
+EBOLA BUNDIBUGYO VIRUS DISEASE OUTBREAK
+Democratic Republic of the Congo | Uganda
+Weekly External Situation Report 01, Data as of 18 May 2026
+
+Summary
+Country 1
+Suspected 1
+Suspected CFR (%) Confirmed Confirmed CFR (%)
+Cases Deaths Suspected Cases Deaths Confirmed
+
+Democratic Republic
+of the Congo 516 131 25.4% 33 4 12.1%
+Uganda2 - - - 2 1 50.0%
+Total 516 131 25.4% 35 5 14.3%
+1
+Data remain provisional and may be revised following ongoing epidemiological and laboratory investigations.
+All suspected cases in Uganda have been reclassified following investigations; only confirmed cases are reported.
+2
+
+Event description
+On 5 May 2026, the World Health Organization (WHO) received an alert regarding an unknown illness with high mortality
+in Mongbwalu Health Zone (HZ), Ituri Province, Democratic Republic of the Congo (DRC), including reports of four health
+workers who died within four days. Rapid response teams deployed to Mongbwalu and Rwampara HZs conducted
+investigations, and on 15 May 2026, laboratory testing by the Institut National de la Recherche Biomédicale (INRB),
+Kinshasa confirmed Bundibugyo virus disease (BVD) caused by Bundibugyo virus. On the same day, the Ministry of Public
+Health, Hygiene and Social Welfare of DRC officially declared the country’s 17th Ebola disease outbreak, initially affecting
+Rwampara, Mongbwalu and Bunia HZs. Uganda subsequently confirmed two imported cases on 15 and 16 May 2026. On
+16 May 2026, the WHO Director-General determined that the outbreak constituted a Public Health Emergency of
+International Concern (PHEIC) under the International Health Regulations (2005).
+
+As of 18 May 2026, the DRC has reported 516 suspected cases, including 131 deaths from seven health zones across Ituri
+and North Kivu Provinces. Of these, 33 cases with four deaths have so far been confirmed from Rwampara (19), Bunia (6),
+Nyankunde (4), and Mongbwalu (1) HZs in Ituri Province, and Butembo (1), Goma (1), and Katwa (1) in North Kivu Province.
+The largest burden of suspected cases remains concentrated in Mongbwalu (302 suspected cases, including 74 deaths)
+and Rwampara (136 suspected cases, including 38 deaths). A total of 541 contacts have so far been listed in DRC.
+
+In Uganda, two confirmed imported cases, including one death, have been reported in Kampala. The first confirmed case,
+a 59-year-old male from the DRC, initially sought care in Hoima District in western Uganda before being admitted to a
+health facility in Kampala on 11 May 2026. He presented with vomiting, diarrhoea, fever, nausea, and generalized
+weakness, and later developed respiratory distress and worsening clinical symptoms requiring intensive care. The patient
+died on 15 May 2026 and was subsequently confirmed as having BVD. A total of 47 contacts linked to the case have been
+identified and are under follow-up. The second confirmed case, a 51-year-old female from Bunia, Ituri Province, DRC,
+
+[PAGE 2]
+
+initially developed fever, weakness, and chills and was treated for suspected malaria before her condition worsened. She
+later travelled to Uganda for further care and was admitted to a health facility in Kampala with reduced consciousness
+and signs of severe illness. Laboratory testing on 15 May 2026 confirmed BVD. The patient remains hospitalized under
+clinical management.
+
+Epidemiological and laboratory investigations are ongoing to reclassify all suspected cases and deaths reported from DRC..
+A total of 668 contacts have so far been identified, including 541 in DRC and 127 in Uganda, although contact tracing
+remains challenging in some areas of DRC due to insecurity and movement restrictions.
+
+The outbreak presents a high risk of continued transmission and regional spread because of ongoing population
+movement and healthcare-seeking patterns across affected areas. Ituri Province borders Uganda and South Sudan, while
+Bunia functions as a commercial and transport hub, facilitating substantial population mobility and cross-border
+movement. Transmission risks are further amplified by mining activities, insecurity, weak contact follow-up, delayed
+detection, and movement of symptomatic individuals across health zones and international borders.
+
+Table 1. Key figures by subnational areas across affected countries as of 18 May 2026
+
+Country Province Health Zone Suspected Suspected Confirmed Confirmed
+cases deaths cases deaths
+DRC
+Mongbwalu 302 74 1 0
+
+Nyankunde 14 1 4 0
+Ituri
+Rwampara 136 38 19 3
+
+Bunia 61 18 6 1
+
+Butembo 1 0 1 0
+
+North Kivu Katwa 1 0 1 0
+
+Goma 1 0 1 0
+DRC (Total)
+516 131 33 4
+
+Uganda Kampala Kampala - - 2 1
+
+Uganda (Total) - - 2 1
+
+Grand Total 516 131 35 5
+
+1
+
+[PAGE 3]
+
+Figure 1. Distribution of suspected and confirmed Ebola Bundibugyo virus disease cases in the Democratic Republic of
+the Congo and Uganda, as of 18 May 2026
+
+Public health response
+
+Coordination
+• In both countries, the Incident Management System has been activated to coordinate response to the outbreak,
+with technical support from WHO and health partners, including Africa Centres for Disease Control and
+Prevention, UNICEF, Médecins Sans Frontières (MSF), International Medical Corps, and others health partners. In
+the DRC, subnational coordination structures are being activated at the provincial and health zones level to
+coordinate operational activities. Daily provincial coordination meetings involving all response pillars and
+operational partners are ongoing.
+
+• In Uganda, the National Public Health Emergency Operations Centre and regional Emergency Operations Centres
+(EOCs) were activated in Fort Portal, Arua, Yumbe, Kampala Capital City Authority, Kabale, and Hoima, with the
+national response plan and rapid risk assessment finalized.
+
+• In DRC, a total of 38 experts (20 from MoH and 18 from WHO) have been deployed from Kinshasa to Bunia to
+support response operations.
+
+2
+
+[PAGE 4]
+
+Operational support and logistics
+• In the last days, over 17 tons of emergency supplies were shipped to DRC. Multiple supply corridors have been
+activated, with 6.8 metric tons shipped from WHO’s Kinshasa warehouse to Bunia, 4.5 metric tons shipped from
+WHO’s Nairobi Emergency Hub to Bunia via United Nations Organization Stabilization Mission in the Democratic
+Republic of the Congo (MONUSCO), and 6.3 metric tons shipped from WHO’s Dakar Emergency Hub warehouse,
+including personal protective equipment (PPE), Viral Haemorrhagic Fever supplies, tents, body bags, infection
+prevention and control materials, stretchers, medicines and other case management supplies. A second Nairobi
+air rotation carrying six metric tons is planned.
+
+• Deployment of EpiShuttle patient isolation transport systems, vehicles, telecommunications equipment,
+laboratory consumables, portable point-of-care diagnostic machines, reagents, cold-chain modules, and Ebola
+polymerase chain reaction (PCR) testing kits to strengthen clinical transport, laboratory diagnostics, and field
+response operations are ongoing.
+
+• Coordination is underway to mobilize one helicopter, three ambulances, and two armored vehicles to support
+cargo and personnel movement. Human resource deployment structures are being finalized and United Nations
+Humanitarian Air Service (UNHAS) is supporting staff movement to Bunia.
+
+• Assessments are ongoing to identify Ebola treatment and isolation facilities, evaluate Safe and Dignified Burial
+capacity with the national Red Cross society, assess supply gaps at the Angola-DRC-Uganda border, and support
+infrastructure planning and operational requirements.
+
+• A four-week forecast of critical PPE requirements across case management, infection, prevention and control,
+and burial operations has been finalized to support sustained response activities.
+
+Surveillance
+• Alert management and case investigations are being scaled up in the affected countries. In the DRC, six additional
+investigation teams have been deployed to Bunia and Rwampara, with scores of alerts under investigation in Ituri,
+North Kivu, South Kivu, and Tshopo provinces.
+
+• In the DRC, contact tracing has been initiated with 541 contacts identified, although major operational challenges
+persist due to insecurity. In Uganda, 127 contacts linked to the two confirmed imported cases are under follow-
+up, while four active cross-border exposure clusters identified in Ntoroko District are under investigation.
+
+• Data managers in DRC have been trained on the DHIS2 tracker, and a surveillance and digital health coordination
+meeting is being implemented to improve harmonization across digital platforms. In Uganda, field teams are
+utilizing Go.Data for contact tracing, benefiting from experience in implementing the tool during previous mpox,
+cholera and Sudan Virus Disease outbreaks.
+
+• Screening is being strengthened at official and informal border crossings, major transit routes, and pilgrimage
+corridors. The International Organization for Migration (IOM) is supporting points-of-entry (PoEs) surveillance in
+DRC; however, informal crossings and weak alert management at PoEs remain significant gaps.
+
+Case Management
+• A total of 72 suspected cases are in isolation and treatment facilities across Ituri, including 12 currently admitted
+across key affected health zones (Mongbwalu: 3; Rwampara: 5; Bunia: 4).
+
+3
+
+[PAGE 5]
+
+• Response efforts continue to face challenges, including absence of standardized isolation and treatment facilities
+and weak screening and referral pathways.
+
+• WHO, together with Alliance for International Medical Action (ALIMA), MSF, IOM, and the International
+Federation of the Red Cross, is supporting the establishment and operationalization of isolation and treatment
+facilities in affected areas.
+
+• One case is admitted in Uganda at the Mulago Isolation Treatment Unit. Isolation facilities in high-risk districts
+have been activated and the Uganda National Emergency Medical Team deployed to support clinical
+management.
+
+Laboratory
+• Laboratory surge capacity is being rapidly expanded in DRC. INRB teams are deploying to Bunia and mobile
+laboratories are being deployed to Mongbwalu and Mahagi (Ituri – Uganda border) to decentralize testing
+capacity.
+• PCR kits have been sourced, while WHO Regional Emergency Hub in Dakar is deploying reagents, Piccolo
+machines, and cold-chain modules to strengthen field laboratory operations.
+• In both DRC and Uganda, genomic and epidemiological analyses are underway and both countries uploaded their
+sequences through a joint publication on virological.org. Additionally, Uganda is strengthening sequencing and
+sample transport systems.
+• Uganda is deploying a mobile laboratory to Kasese near the DRC border, with a virtual diagnostics coordination
+meeting supporting cross-country laboratory operations.
+
+Infection Prevention and Control (IPC) and Water, Sanitation and Hygiene (WASH)
+• In DRC, operational teams are being organized for IPC, decontamination, safe and dignified burials and health
+facility assessments.
+• Coordination mechanism for IPC response is being established under the leadership of the Division of Provincial
+Health (DPS) and the Public Health Emergency Operations Centre (COUSP), and IPC/WASH partner coordination
+is being organized through a task force, with partners requested to complete 3W mapping
+• WHO delivered 5 metric tons of IPC kits and sample collection materials to Bunia, MEDAIR donated six body bags,
+and a four-week PPE forecast has been finalized to support sustained operations.
+• Decontamination teams have been established per zone for health facilities and households and being briefed on
+IPC measures. Hands on IPC training was delivered to safe and dignified burials teams.
+
+• Preliminary rapid IPC assessments conducted in affected health facilities in DRC revealed major gaps in screening,
+triage, and patient isolation measures, as well as limited IPC training among healthcare workers. Overall IPC
+assessment findings showed extremely low scores across assessed facilities, highlighting the urgent need for
+additional human resource surge capacity and IPC reinforcement.
+
+• Four healthcare worker deaths have been reported to date, while inconsistent implementation of safe and
+dignified burial measures further underscores the significant risk of healthcare-associated transmission.
+
+Risk Communication and Community Engagement (RCCE)
+• In the DRC, Community mobilization has started in Mongbwalu, while social listening activities and deployment
+
+4
+
+[PAGE 6]
+
+of UNICEF digital platforms (U-Report and I-Hear-You) are underway to improve community feedback and
+information sharing.
+
+• WHO AFRO shared a multi-country infodemic management report providing an initial analysis of community
+perceptions, including key questions, concerns, rumours, misinformation, and disinformation, to guide targeted
+risk communication and community engagement interventions. WHO, UNICEF, and IFRC are developing a shared
+RCCE message repository to harmonize risk communication content.
+
+• Uganda has activated risk communication systems with community messaging and public awareness campaigns
+ongoing through District Health Officer networks, with health workers receiving guidance on standard
+precautions and public health messaging.
+
+Operational Readiness
+• Regional preparedness and prioritization framework is being activated with countries categorized by risk and
+readiness needs. Priority actions include activation of EOCs, revision of contingency plans, dissemination of case
+definitions, training of healthcare workers, and deployment of VHF-500 kits to high-risk areas.
+
+• Preparedness efforts are focused on early detection and rapid response capacity with countries strengthening
+systems to ensure timely identification, investigation, isolation, and management of suspected viral
+haemorrhagic fever cases.
+
+• Uganda has conducted national risk assessment, with 26 districts categorized as very high risk and 18 districts as
+high risk, guiding targeted preparedness and readiness measures.
+
+Border Health, Travel and Mass Gatherings
+• WHO travel and border health guidance has been disseminated across countries and transport sectors,
+emphasizing that cases and contacts should avoid travel unless medically evacuated, and advising against travel
+or trade restrictions and border closures.
+
+• Affected and neighbouring countries are strengthening points-of-entry (PoE) preparedness, including activation
+of health emergency plans, enhanced screening at airports, seaports, land crossings and major internal transit
+routes, and improving capacities for detection, investigation, referral, and management of suspected Bundibugyo
+virus disease cases and contacts.
+
+• Cross-border transmission risks remain elevated due to insecurity, humanitarian crises, high population mobility,
+urban/semi-urban transmission hotspots, and porous borders, requiring intensified surveillance and information
+sharing.
+
+• Priority operational actions include rapid assessments and mapping of PoEs, informal crossings, and congregation
+points, alongside ensuring frontline teams have adequate staffing, training, PPE, screening materials,
+disinfectants, and referral systems.
+
+5
+
+[PAGE 7]
+
+© WHO Regional Office for Africa
+This is not an official publication of the World Health Organization.
+Correspondence on this publication may be directed to:
+
+Dr Patrick Otim RAMADAN
+Program Area Manager
+Epidemics and Humanitarian Health Response (EMR)
+WHO Emergency Preparedness and Response
+WHO Regional Office for Africa
+P O Box. 06 Cité du Djoué, Brazzaville, Congo
+
+Dr Etien Koua
+Program Area Manager
+Health Emergency Intelligence, Surveillance and Laboratory Programme
+WHO Emergency Preparedness and Response
+WHO Regional Emergency Hub, Dakar, Senegal
+
+Email: afrooutbreak@who.int / afrgoafroshoc@who.int
+
+Requests for permission to reproduce or translate this publication – whether for sale or for noncommercial
+distribution – should be sent to the same addresses.
+
+6
+```
