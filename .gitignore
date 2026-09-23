@@ -7,4 +7,11 @@ _site/
 .quarto/
 data/pdf/
 
+# WHO's PDFs and raw API records, fetched by R/06-fetch-who.R. Not committed,
+# for the same reason INSP's PDFs are not: they are the publisher's files, the
+# corpus rendered from them is what this repository is for, and every rendered
+# document names the URL it came from.
+data/pdf-who/
+data/raw-who/
+
 /.quarto/
