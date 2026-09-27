@@ -12,6 +12,12 @@
 #' written to CSV before translation, because each English page links its
 #' report's CSVs.
 #'
+#' The WHO steps run last and are independent of INSP's: they need the network
+#' but no API key, and nothing upstream reads what they write. They sit after
+#' the gate deliberately. A corpus that has failed its own checks is not a
+#' corpus to add sources to, and a run that stops there should stop entirely
+#' rather than half-refresh.
+#'
 #' Usage:
 #'     Rscript R/main.R
 
@@ -20,7 +26,9 @@ steps <- c(
     "02-build-corpus.R",
     "03-tables-to-csv.R",
     "04-translate.R",
-    "05-check-corpus.R"
+    "05-check-corpus.R",
+    "06-fetch-who.R",
+    "07-who-pages.R"
 )
 
 for (step in steps) {
